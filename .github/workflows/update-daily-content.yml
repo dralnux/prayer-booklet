@@ -26,9 +26,6 @@ jobs:
       - name: Update verse, Gospel, and reflection
         run: python scripts/update_daily_content.py
 
-      - name: Update Saints of the Day
-        run: python update-saints.py
-
       - name: Update Full Tank video
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
