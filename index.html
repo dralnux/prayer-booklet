@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Catholic Prayers — daily prayers, the Holy Rosary, novenas, Full Tank videos, reminders, and prayer categories.">
+<title>Catholic Prayers — Pray. Reflect. Draw closer to Christ.</title>
+<link rel="stylesheet" href="style.css">
+<style>
+:root{
+  --cream:#faf8f3;--paper:#fffdf9;--ink:#26221e;--gold:#8a5a1f;
+  --line:#ded3c2;--soft:#f3ede2;--muted:#6d665d;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--cream);color:var(--ink);font-family:Georgia,"Times New Roman",serif}
+a{color:inherit}
+.site-header{height:68px;border-bottom:1px solid var(--line);display:flex;align-items:center;padding:0 3.5%;background:rgba(250,248,243,.96);position:sticky;top:0;z-index:20}
+.logo{display:flex;align-items:center;gap:12px;text-decoration:none;font-size:24px;font-weight:700;white-space:nowrap}
+.cross{font-size:35px;color:#b18a51;line-height:1}
+.main-nav{display:flex;gap:34px;margin:auto;font-family:Arial,sans-serif;font-size:15px}
+.main-nav a{text-decoration:none}
+.main-nav a:hover{color:var(--gold)}
+.header-actions{display:flex;gap:12px;align-items:center}
+.icon-btn,.progress-btn{border:1px solid #cbbda7;background:transparent;border-radius:9px;padding:9px 13px;font-family:Georgia,serif;cursor:pointer}
+.icon-btn{font-size:20px;border-radius:50%;width:40px;height:40px;padding:0}
+.progress-btn{font-size:14px}
+.hero{max-width:1380px;margin:0 auto;padding:68px 5% 32px;min-height:500px;position:relative;overflow:hidden}
+.hero-copy{max-width:730px;position:relative;z-index:2}
+.kicker{letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;font-size:13px;margin-bottom:22px}
+h1{font-size:clamp(4rem,7vw,7rem);line-height:.93;letter-spacing:-.055em;margin:0 0 30px;font-weight:700}
+.hero p{font-size:21px;line-height:1.55;max-width:850px;margin:0 0 28px}
+.hero-actions{display:flex;gap:14px;flex-wrap:wrap}
+.btn{display:inline-block;padding:14px 20px;border-radius:9px;text-decoration:none;font-size:16px}
+.btn-primary{background:#85551e;color:white}
+.btn-secondary{border:1px solid #bda987;background:var(--paper);color:#76501f}
+.cross-art{position:absolute;right:9%;top:70px;font-size:230px;color:#eee8dc;line-height:1;z-index:0}
+.hills{position:absolute;right:-3%;bottom:0;width:54%;height:260px;opacity:.55;background:linear-gradient(145deg,transparent 35%,#eee9df 36%,#eee9df 54%,transparent 55%);filter:blur(1px)}
+.divider{max-width:1380px;margin:0 auto;padding:0 2.5%;display:flex;align-items:center;gap:22px;color:#6e5b40;letter-spacing:.25em;text-transform:uppercase;font-size:12px}
+.divider:before,.divider:after{content:"";height:1px;background:#bba986;flex:1}
+.divider-mark{font-size:20px;color:#b18a51}
+.features{max-width:1380px;margin:16px auto 20px;padding:0 3.5%;display:grid;grid-template-columns:repeat(8,1fr);gap:14px}
+.feature{min-height:208px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:22px 15px;text-align:center;text-decoration:none;display:flex;flex-direction:column;align-items:center}
+.feature:hover{transform:translateY(-2px);box-shadow:0 8px 25px rgba(72,49,20,.06)}
+.feature-icon{font-size:39px;height:58px;color:#a06c27}
+.feature h2{font-size:15px;letter-spacing:.08em;margin:7px 0 9px}
+.feature p{font-size:14px;line-height:1.4;color:#625a51;margin:0 0 auto}
+.feature span{font-size:13px;color:#80531f;margin-top:15px}
+.lower{max-width:1380px;margin:0 auto 45px;padding:0 3.5%}
+.reminders-section{max-width:1380px;margin:20px auto 45px;padding:0 3.5%}.reminder-panel{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:center;background:#f6f0e5;border:1px solid var(--line);border-radius:14px;padding:27px 34px}.reminder-panel h2{margin:8px 0}.reminder-form{display:flex;gap:14px;align-items:end;flex-wrap:wrap}.reminder-form label{display:flex;flex-direction:column;gap:4px;font-size:14px;font-weight:700}.reminder-form input,.reminder-form select{padding:10px;border:1px solid #cbbda7;border-radius:8px;background:var(--paper);color:var(--ink);font:inherit}.reminder-actions{display:flex;gap:10px}.reminder-actions .btn{border:0;cursor:pointer;font-family:inherit}
+.daily-panel{display:grid;grid-template-columns:repeat(3,1fr);background:#f6f0e5;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.panel{padding:27px 34px}
+.panel+.panel{border-left:1px solid var(--line)}
+.panel-label{font-weight:700;letter-spacing:.1em;font-size:14px;display:flex;gap:10px;align-items:center}
+.panel-label b{font-size:24px;color:#9b6b2d}
+.panel blockquote{font-size:17px;font-style:italic;line-height:1.55;margin:18px 0 10px}
+.panel small{font-size:13px}
+.panel-link{display:inline-block;color:#80531f;text-decoration:none;margin-top:10px;font-size:14px}
+.gospel{display:grid;grid-template-columns:1fr 260px;gap:22px;align-items:center}
+.gospel-image{width:100%;height:125px;object-fit:cover;border-radius:10px;background:#d9c6a8}
+.content-location{display:block;margin:10px 0 0;color:var(--muted);font-size:12px}
+.footer{text-align:center;border-top:1px solid var(--line);padding:25px;color:var(--muted);font-size:13px}
+@media(max-width:1050px){
+ .main-nav{gap:16px}.features{grid-template-columns:repeat(4,1fr)}.hero{min-height:460px}
+}
+@media(max-width:760px){
+ .site-header{height:auto;min-height:64px;flex-wrap:wrap;padding:10px 4%}.main-nav{order:3;width:100%;overflow:auto;padding:8px 0;gap:20px}.header-actions{margin-left:auto}
+ .hero{padding:48px 6% 32px;min-height:560px}.hero-copy{max-width:100%}h1{font-size:clamp(3.2rem,15vw,5rem)}.hero p{font-size:18px}.cross-art{right:-8%;top:260px;font-size:180px}.hills{width:90%;height:190px}
+ .features{grid-template-columns:repeat(2,1fr);padding:0 4%;gap:10px}.feature{min-height:190px}.lower,.reminders-section{padding:0 4%}.reminder-panel{grid-template-columns:1fr;padding:24px}.daily-panel{grid-template-columns:1fr}.panel+.panel{border-left:0;border-top:1px solid var(--line)}.gospel{grid-template-columns:1fr}.gospel-image{height:170px}
+}
+@media(max-width:420px){.features{grid-template-columns:1fr}.feature{min-height:150px}.hero-actions .btn{width:100%;text-align:center}}
+body.dark{--cream:#181613;--paper:#211e1a;--ink:#eee7dc;--gold:#c39a5e;--line:#40382e;--soft:#2b261f;--muted:#b7afa4}
+body.dark .site-header{background:rgba(24,22,19,.96)}
+body.dark .hero p,body.dark .feature p{color:#c5bdb2}
+body.dark .daily-panel{background:#242019}
+
+.gospel-image{width:100%;height:125px;object-fit:cover;border-radius:10px;background:#d9c6a8;display:block}
+</style>
+<style>.gospel-preview{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;max-height:4.65em;line-height:1.55;margin:10px 0 0}</style></head>
+<body>
+
+<header class="site-header">
+<a class="logo" href="index.html"><span class="cross">†</span> Catholic Prayers</a>
+<nav class="main-nav">
+<a href="prayers.html">Daily Prayers</a>
+<a href="novena/index.html">Novenas</a>
+<a href="rosary.html">Rosary</a>
+<a href="videos.html">Videos</a>
+<a href="#reminders">Reminders</a>
+<a href="saints.html">Saints</a>
+</nav>
+<div class="header-actions">
+<button class="icon-btn" id="searchBtn" title="Search">⌕</button>
+<button class="icon-btn" id="themeBtn" title="Dark mode">☼</button>
+<a class="progress-btn" href="prayers.html">▥ &nbsp; My Progress</a>
+</div>
+</header>
+
+<main>
+<section class="hero">
+<div class="hero-copy">
+<div class="kicker">A Catholic Prayer Companion</div>
+<h1>Pray. Reflect.<br>Draw closer to<br>Christ.</h1>
+<p>Daily prayers, the Holy Rosary, novenas, Full Tank videos, reminders, and prayer categories — designed to work directly in your browser.</p>
+<div class="hero-actions">
+<a class="btn btn-primary" href="prayers.html">Start Today's Prayer</a>
+<a class="btn btn-secondary" href="rosary.html">Pray the Rosary</a>
+</div>
+</div>
+<div class="cross-art">✚</div><div class="hills"></div>
+</section>
+
+<div class="divider"><span class="divider-mark">✚</span><span>Your Prayer Companion</span></div>
+
+<section class="features">
+<a class="feature" href="prayers.html"><div class="feature-icon">♧</div><h2>DAILY PRAYERS</h2><p>Morning, evening & daily prayers to guide your day.</p><span>Pray Now →</span></a>
+<a class="feature" href="novena/index.html"><div class="feature-icon">◌</div><h2>NOVENAS</h2><p>Pray novenas and grow in faith through devotion.</p><span>Browse Novenas →</span></a>
+<a class="feature" href="rosary.html"><div class="feature-icon">◉</div><h2>ROSARY</h2><p>Pray the Holy Rosary with all mysteries and prayers.</p><span>Pray the Rosary →</span></a>
+<a class="feature" href="videos.html"><div class="feature-icon">▶</div><h2>VIDEOS</h2><p>Watch the latest Full Tank videos and reflections.</p><span>Watch Videos →</span></a>
+<a class="feature" href="#reminders"><div class="feature-icon">♧</div><h2>REMINDERS</h2><p>Set daily prayer reminders and stay consistent.</p><span>Set Reminders →</span></a>
+<a class="feature" href="#" id="darkCard"><div class="feature-icon">☾</div><h2>DARK MODE</h2><p>Switch between light and dark theme.</p><span>Toggle Theme →</span></a>
+<a class="feature" href="devotion/index.html"><div class="feature-icon">🕯️</div><h2>DEVOTION</h2><p>Prayers and practices to deepen your love of God.</p><span>Explore Devotion →</span></a>
+<a class="feature" href="saints.html"><div class="feature-icon">👼</div><h2>SAINTS</h2><p>Prayers seeking the intercession of the saints.</p><span>Pray to the Saints →</span></a>
+</section>
+
+<section class="reminders-section" id="reminders">
+<div class="reminder-panel">
+<div>
+<div class="panel-label"><b>♧</b> DAILY REMINDER</div>
+<h2>Make time for prayer</h2>
+<p id="reminderStatus">No reminder saved.</p>
+</div>
+<form id="reminderForm" class="reminder-form">
+<label for="reminderTime">Time <input id="reminderTime" type="time" required></label>
+<label for="reminderPrayer">Prayer <select id="reminderPrayer"><option>Morning Prayer</option><option>Holy Rosary</option><option>Daily Gospel</option><option>Evening Prayer</option></select></label>
+<div class="reminder-actions"><button class="btn btn-primary" type="submit">Save Reminder</button><button class="btn btn-secondary" id="clearReminder" type="button">Clear</button></div>
+</form>
+</div>
+</section>
+
+<section class="lower">
+<div class="daily-panel">
+<div class="panel">
+<div class="panel-label"><b>▤</b> VERSE OF THE DAY</div>
+<blockquote id="verseText">Loading today’s verse…</blockquote><small id="verseRef"></small>
+<a class="panel-link" href="https://www.bible.com/verse-of-the-day" target="_blank" rel="noopener">Source: Bible.com →</a>
+</div>
+<div class="panel">
+<div class="panel-label"><b>✦</b> REFLECTION TODAY</div>
+<small id="reflectionDate">Today’s Reflection</small><blockquote id="reflectionText">Loading today’s reflection…</blockquote>
+</div>
+<div class="panel gospel">
+<div>
+<div class="panel-label"><b>†</b> DAILY GOSPEL</div>
+<small id="gospelDate">Today’s Gospel</small><h3 id="gospelRef">Loading…</h3><p id="gospelText" class="gospel-preview">Loading today’s Gospel…</p>
+<a class="panel-link" href="gospel.html">Read Today's Gospel →</a>
+</div>
+<img class="gospel-image" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Christ%20Teaching%20the%20Disciples,%201,%20from%20Das%20Plenarium%20MET%20DP849937.jpg" alt="Christ teaching the disciples" loading="lazy">
+</div>
+</div>
+</section>
+</main>
+
+<footer class="footer">© Catholic Prayers · Pray with faith, hope, and love.</footer>
+
+<script>
+const themeKey='catholicTheme';
+function setTheme(dark){document.body.classList.toggle('dark',dark);localStorage.setItem(themeKey,dark?'dark':'light');}
+setTheme((localStorage.getItem(themeKey)||'light')==='dark');
+document.getElementById('themeBtn').onclick=()=>setTheme(!document.body.classList.contains('dark'));
+document.getElementById('darkCard').onclick=e=>{e.preventDefault();setTheme(!document.body.classList.contains('dark'));};
+document.getElementById('searchBtn').onclick=()=>{const q=prompt('Search Catholic Prayers');if(q) location.href='saints.html?q='+encodeURIComponent(q);};
+</script>
+<script>
+const reminderKey='catholicReminder';
+let reminder=JSON.parse(localStorage.getItem(reminderKey)||'null');
+const reminderTime=document.getElementById('reminderTime');
+const reminderPrayer=document.getElementById('reminderPrayer');
+const reminderStatus=document.getElementById('reminderStatus');
+function showReminder(){
+ reminderStatus.textContent=reminder?`Reminder saved for ${reminder.time} — ${reminder.prayer}.`:'No reminder saved.';
+ if(reminder){reminderTime.value=reminder.time;reminderPrayer.value=reminder.prayer;}
+}
+document.getElementById('reminderForm').onsubmit=async event=>{
+ event.preventDefault();
+ if('Notification' in window && Notification.permission==='default') await Notification.requestPermission();
+ reminder={time:reminderTime.value,prayer:reminderPrayer.value};
+ localStorage.setItem(reminderKey,JSON.stringify(reminder)); showReminder();
+};
+document.getElementById('clearReminder').onclick=()=>{reminder=null;localStorage.removeItem(reminderKey);reminderTime.value='';showReminder();};
+showReminder();
+setInterval(()=>{
+ if(!reminder)return;
+ const now=new Date(),today=now.toISOString().slice(0,10),time=now.toTimeString().slice(0,5);
+ if(time===reminder.time && localStorage.getItem('lastReminder')!==today){
+  localStorage.setItem('lastReminder',today);
+  if('Notification' in window && Notification.permission==='granted') new Notification('Catholic Prayer Reminder',{body:'Time for '+reminder.prayer+'.'});
+ }
+},30000);
+</script>
+<script src="location-content.js"></script>
+<script src="daily-content.js"></script>
+<script>
+async function loadDailyContent(){
+ try{
+  const now=new Date();
+  const [verse,gospel,reflection]=await Promise.all([
+   DailyContent.getVerse(now),
+   DailyContent.getGospel(now),
+   DailyContent.getReflection(now)
+  ]);
+  document.getElementById('verseText').textContent='“'+verse.text+'”';
+  document.getElementById('verseRef').textContent='— '+verse.reference+(verse.translation?' ('+verse.translation+')':'');
+  const dailyDate=new Date(verse.date+'T12:00:00Z');
+  const formattedDate=dailyDate.toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
+  document.getElementById('reflectionDate').textContent=formattedDate;
+  document.getElementById('gospelDate').textContent=formattedDate;
+  document.getElementById('reflectionText').textContent=reflection.text;
+  document.getElementById('gospelRef').textContent=gospel.reference;
+  const preview=(gospel.text||'').replace(/\s+/g,' ').trim();
+  const shortPreview=preview.length>240 ? preview.slice(0,240).replace(/\s+\S*$/,'')+'…' : preview;
+  document.getElementById('gospelText').textContent='“'+shortPreview+'”';
+ }catch(e){console.warn(e);}
+}
+loadDailyContent();
+</script><script src="theme.js"></script></body>
+</html>

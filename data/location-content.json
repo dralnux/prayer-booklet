@@ -1,0 +1,84 @@
+{
+  "schema": 2,
+  "defaultRegion": "global",
+  "aggregationEndpoint": "",
+  "locationEndpoint": "",
+  "countryRegions": {
+    "US": "us",
+    "PH": "ph",
+    "NG": "ng",
+    "GB": "gb",
+    "IE": "gb",
+    "AU": "au"
+  },
+  "regions": {
+    "global": {
+      "label": "Global prayer community"
+    },
+    "us": {
+      "label": "United States prayer community",
+      "_note": "Regional overrides below are placeholders that mirror the global daily content. Replace with USCCB-approved translations and locally relevant reflections.",
+      "verse": {
+        "reference": "Psalms 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+        "translation": "NIV"
+      },
+      "reflection": {
+        "text": "Invite someone to go with you to Holy Mass or to a community gathering. You just might be their biggest blessing today.",
+        "source": "Didache 2026"
+      }
+    },
+    "ph": {
+      "label": "Philippines prayer community",
+      "_note": "Regional overrides below are placeholders. Replace with Filipino/Catholic Filipino devotional text appropriate for the Philippines.",
+      "verse": {
+        "reference": "Psalms 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+        "translation": "NIV"
+      },
+      "reflection": {
+        "text": "Surrender the day's burdens to the Lord. Let Him defend you and deliver you. Lord Jesus, let your light and love dispel the darkness.",
+        "source": "Didache 2026"
+      }
+    },
+    "ng": {
+      "label": "Nigeria prayer community",
+      "_note": "Regional overrides below are placeholders. Replace with text appropriate for Nigerian Catholic communities.",
+      "verse": {
+        "reference": "Psalms 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+        "translation": "NIV"
+      },
+      "reflection": {
+        "text": "Whisper to my ear, O Lord, that You know my name. Are your troubles making you doubt yourself? Go to your God who knows all about you.",
+        "source": "Didache 2026"
+      }
+    },
+    "gb": {
+      "label": "United Kingdom prayer community",
+      "_note": "Regional overrides below are placeholders. Replace with text appropriate for British Catholic communities.",
+      "verse": {
+        "reference": "Psalms 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+        "translation": "NIV"
+      },
+      "reflection": {
+        "text": "What or who are the stars that you follow this year? Do they lead you to the Real Star, Jesus? Dear Lord, may I follow stars that ultimately lead to You.",
+        "source": "Didache 2026"
+      }
+    },
+    "au": {
+      "label": "Australia prayer community",
+      "_note": "Regional overrides below are placeholders. Replace with text appropriate for Australian Catholic communities.",
+      "verse": {
+        "reference": "Psalms 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+        "translation": "NIV"
+      },
+      "reflection": {
+        "text": "How is God inviting me to be His hand in the world? Jesus, I am humbled that You choose me to serve Your people on earth.",
+        "source": "Didache 2026"
+      }
+    }
+  }
+}

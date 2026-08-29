@@ -1,0 +1,17 @@
+
+:root{--bg:#faf8f3;--card:#fff;--text:#242424;--muted:#6b6b6b;--accent:#7b1e1e;--border:#e4ddd2}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:Georgia,'Times New Roman',serif;line-height:1.7}
+a{color:var(--accent)}.topbar{position:sticky;top:0;z-index:5;background:rgba(250,248,243,.96);border-bottom:1px solid var(--border);padding:14px 5%;display:flex;justify-content:space-between;gap:20px;align-items:center}
+.brand{font-weight:700;text-decoration:none;font-size:1.15rem}.topbar nav{display:flex;gap:14px;flex-wrap:wrap}.topbar nav a{text-decoration:none}
+.section{max-width:1000px;margin:auto;padding:48px 5%}.section-heading{text-align:center;margin-bottom:28px}.eyebrow{letter-spacing:.12em;text-transform:uppercase;font-size:.78rem;color:var(--accent);font-weight:700}
+h1{font-size:clamp(2.1rem,6vw,4rem);line-height:1.1;margin:.3em 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:24px;box-shadow:0 6px 24px rgba(0,0,0,.04)}
+.video-page{max-width:1100px}.video-frame{width:100%;aspect-ratio:16/9;background:#151515;border-radius:12px;overflow:hidden;box-shadow:0 8px 28px rgba(0,0,0,.12);display:grid;place-items:center;color:#fff}.video-frame iframe{width:100%;height:100%;border:0}.video-link{text-align:center;margin:20px 0 0;font-weight:700}.video-comments{max-width:760px;margin:36px auto 0}.video-comments h2{font-size:1.35rem}.video-comment{border-top:1px solid var(--border);padding:16px 0}.video-comment p{margin:0 0 6px}.video-comment small{color:var(--muted)}
+.prayer{max-width:850px;margin:0 auto}.prayer h2{color:var(--accent);margin-top:0}.saint-image{display:block;width:min(100%,360px);height:auto;margin:0 auto 20px;border-radius:12px}.rubric{background:#f3eee5;border-left:4px solid var(--accent);padding:14px 18px;border-radius:8px}.response{font-weight:700}.leader{font-weight:700}.all{font-weight:700}.rosary{counter-reset:mystery}.mystery{padding:12px 0;border-bottom:1px solid var(--border)}.mystery:last-child{border:0}
+.tracker{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:20px 0}.day{border:1px solid var(--border);background:var(--card);border-radius:999px;padding:8px 14px;cursor:pointer}.day.active{background:var(--accent);color:white}
+input{padding:10px;border:1px solid var(--border);border-radius:8px;font:inherit}.namebox{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:18px 0}.namebox label{display:flex;gap:8px;align-items:center}.namebox output{font-weight:700;color:var(--accent);align-self:center}
+footer{padding:30px 5%;text-align:center;border-top:1px solid var(--border);color:var(--muted)}
+body.dark{--bg:#171513;--card:#211e1b;--text:#eee7dd;--muted:#b9b0a5;--border:#403a34}body.dark .topbar{background:rgba(23,21,19,.96)}body.dark .rubric{background:#2b2520}
+.theme-toggle{border:1px solid var(--border);background:var(--card);border-radius:999px;padding:8px 12px;font:inherit;cursor:pointer}
+body.dark .theme-toggle{color:var(--text)}
+body.dark .gospel-card{background:var(--card);border-color:var(--border)}

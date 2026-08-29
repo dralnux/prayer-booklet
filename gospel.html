@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Gospel | Catholic Prayers</title><link rel="stylesheet" href="style.css">
+<style>
+.gospel-page{max-width:1000px;margin:auto;padding:45px 5%}.gospel-card{background:#fffdf9;border:1px solid #ded3c2;border-radius:18px;overflow:hidden}.gospel-hero{width:100%;height:330px;object-fit:cover;display:block}.gospel-body{padding:32px}.eyebrow{letter-spacing:.18em;text-transform:uppercase;color:#8a5a1f;font-weight:700;font-size:.8rem}.gospel-body h1{font-size:clamp(2.4rem,5vw,4rem);margin:.15em 0}.gospel-body h2{color:#80531f}.reading{font-family:Georgia,serif;font-size:19px;line-height:1.75;white-space:pre-line}.source{font-size:13px;color:#6d665d;margin-top:28px}.source a{color:#80531f}.back{display:inline-block;margin-bottom:20px;color:#80531f;text-decoration:none}
+</style></head>
+<body><main class="gospel-page"><a class="back" href="index.html">← Back to Catholic Prayers</a>
+<article class="gospel-card"><img class="gospel-hero" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Christ%20Teaching%20the%20Disciples,%201,%20from%20Das%20Plenarium%20MET%20DP849937.jpg" alt="Christ teaching the disciples">
+<div class="gospel-body"><p class="eyebrow">Daily Gospel</p><h1 id="date">Today's Gospel</h1><h2 id="ref">Loading…</h2><p class="reading" id="text">Loading today's Gospel…</p><p class="source">Liturgical source: <a id="source" target="_blank" rel="noopener">Vatican News</a><br>Full text translation: King James Version (public domain). Text service: <a href="https://commons.wikimedia.org/wiki/File:Christ_Teaching_the_Disciples,_1,_from_Das_Plenarium_MET_DP849937.jpg" target="_blank" rel="noopener">Christ Teaching the Disciples</a>, Wikimedia Commons / Metropolitan Museum of Art, CC0.</p></div></article></main>
+<script src="location-content.js"></script>
+<script src="daily-content.js"></script>
+<script>
+const pageNow=new Date();
+DailyContent.getGospel(pageNow).then(g => {
+  document.getElementById('date').textContent = new Date(g.date + 'T12:00:00Z').toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC'});
+  document.getElementById('ref').textContent = g.reference + (g.translation ? ' · ' + g.translation : '');
+  document.getElementById('text').textContent = g.text;
+  if (g.source) document.getElementById('source').href = g.source;
+}).catch(error => console.warn(error));
+</script>
+<script src="theme.js"></script></body></html>
