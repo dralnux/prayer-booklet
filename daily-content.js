@@ -7,8 +7,8 @@
  *      aggregation endpoint, which PrayerLocationContent.load() already
  *      consults and merges in).
  *   2. Live API fetch (bible-api.com for verse/gospel text, YouTube RSS for the
- *      video, reflect.md for the reflection).
- *   3. Static data/*.json or reflect.md as the offline fallback.
+ *      video, reflection.md for the reflection).
+ *   3. Static data/*.json or reflection.md as the offline fallback.
  *
  * On any failure, the function returns whatever the next layer produces; the
  * caller is responsible for rendering. Errors are logged but never thrown so
@@ -90,20 +90,34 @@ window.DailyContent = (() => {
   }
 
   async function fetchReflectionMarkdown() {
-    const response = await fetch('reflect.md', {cache: 'no-store'});
-    if (!response.ok) throw new Error(`reflect.md ${response.status}`);
+    const response = await fetch('reflection.md', {cache: 'no-store'});
+    if (!response.ok) throw new Error(`reflection.md ${response.status}`);
     return response.text();
   }
 
   function findReflectionSection(markdown, date) {
     const target = new Date(`${date}T12:00:00Z`);
     const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-    const heading = `## ${months[target.getUTCMonth()]} ${target.getUTCDate()}, ${target.getUTCFullYear()}`;
-    const idx = markdown.indexOf(heading);
+    // Look for the date format in reflection.md: ### 2026-01-01 — Title
+    const datePattern = `### ${date}`;
+    const idx = markdown.indexOf(datePattern);
     if (idx < 0) return null;
-    const tail = markdown.slice(idx + heading.length);
-    const next = tail.split(/^## /m)[0];
-    return cleanWhitespace(next);
+
+    // Get the section content until the next ### or ---
+    const tail = markdown.slice(idx);
+    const sectionEnd = tail.search(/\n### |\n---/);
+    const sectionText = sectionEnd === -1 ? tail : tail.slice(0, sectionEnd);
+
+    // Extract REFLECT, PRAYER, and Saint of the Day
+    const reflectMatch = sectionText.match(/\*\*REFLECT:\*\*\s*\n?\s*>\s*([\s\S]*?)(?=\n\*\*PRAYER:|\n\*\*Saint|\n---|$)/i);
+    const prayerMatch = sectionText.match(/\*\*PRAYER:\*\*\s*\n?\s*>\s*([\s\S]*?)(?=\n\*\*Saint|\n---|$)/i);
+    const saintMatch = sectionText.match(/\*\*Saint of the Day:\*\*\s*([^\n]+)/i);
+
+    const reflect = reflectMatch ? cleanWhitespace(reflectMatch[1]) : '';
+    const prayer = prayerMatch ? cleanWhitespace(prayerMatch[1]) : '';
+    const saint = saintMatch ? saintMatch[1].trim() : '';
+
+    return { reflect, prayer, saint };
   }
 
   function parseRssEntries(xmlText) {
@@ -248,22 +262,40 @@ window.DailyContent = (() => {
       const markdown = await fetchReflectionMarkdown();
       const section = findReflectionSection(markdown, date);
       if (section) {
-        const result = {text: section, source: 'reflect.md', date};
+        const result = {
+          reflect: section.reflect || '',
+          prayer: section.prayer || '',
+          saint: section.saint || '',
+          source: 'reflection.md',
+          date
+        };
         writeCache('reflection', date, location.region, result);
         return result;
       }
     } catch (error) {
-      console.warn('DailyContent.getReflection: reflect.md fetch failed', error);
+      console.warn('DailyContent.getReflection: reflection.md fetch failed', error);
     }
 
     try {
       const staticGospel = await fetchStaticJson('data/daily-gospel.json');
       if (staticGospel.date !== date) throw new Error(`Reflection fallback is dated ${staticGospel.date || 'unknown'}`);
-      const result = {text: staticGospel.text || '', source: 'daily-gospel.json', date};
+      const result = {
+        reflect: staticGospel.text || '',
+        prayer: '',
+        saint: '',
+        source: 'daily-gospel.json',
+        date
+      };
       writeCache('reflection', date, location.region, result);
       return result;
     } catch (error) {
-      return {text: 'Today’s reflection will appear here shortly.', source: 'placeholder', date};
+      return {
+        reflect: "Today's reflection will appear here shortly.",
+        prayer: '',
+        saint: '',
+        source: 'placeholder',
+        date
+      };
     }
   }
 

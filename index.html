@@ -147,7 +147,12 @@ body.dark .daily-panel{background:#242019}
 </div>
 <div class="panel">
 <div class="panel-label"><b>✦</b> REFLECTION TODAY</div>
-<small id="reflectionDate">Today’s Reflection</small><blockquote id="reflectionText">Loading today’s reflection…</blockquote>
+<small id="reflectionDate">Today’s Reflection</small>
+<div id="reflectionContent">
+  <blockquote id="reflectionText">Loading today’s reflection…</blockquote>
+  <small id="reflectionPrayer" style="display:block;margin-top:12px;font-style:italic;color:var(--muted)"></small>
+  <small id="reflectionSaint" style="display:block;margin-top:8px;color:var(--gold)"></small>
+</div>
 </div>
 <div class="panel gospel">
 <div>
@@ -215,7 +220,23 @@ async function loadDailyContent(){
   const formattedDate=dailyDate.toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
   document.getElementById('reflectionDate').textContent=formattedDate;
   document.getElementById('gospelDate').textContent=formattedDate;
-  document.getElementById('reflectionText').textContent=reflection.text;
+
+  // Handle reflection with reflect, prayer, and saint
+  if (reflection.reflect) {
+    document.getElementById('reflectionText').textContent=reflection.reflect;
+  } else if (reflection.text) {
+    // Backward compatibility
+    document.getElementById('reflectionText').textContent=reflection.text;
+  }
+
+  if (reflection.prayer) {
+    document.getElementById('reflectionPrayer').textContent='“' + reflection.prayer + '”';
+  }
+
+  if (reflection.saint) {
+    document.getElementById('reflectionSaint').textContent='Saint of the Day: ' + reflection.saint;
+  }
+
   document.getElementById('gospelRef').textContent=gospel.reference;
   const preview=(gospel.text||'').replace(/\s+/g,' ').trim();
   const shortPreview=preview.length>240 ? preview.slice(0,240).replace(/\s+\S*$/,'')+'…' : preview;
