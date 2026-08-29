@@ -237,6 +237,20 @@ async function loadDailyContent(){
     document.getElementById('reflectionSaint').textContent='Saint of the Day: ' + reflection.saint;
   }
 
+  // Add source attribution (matching VERSE OF THE DAY format)
+  if (!document.getElementById('reflectionSource')) {
+    const sourceEl = document.createElement('a');
+    sourceEl.id = 'reflectionSource';
+    sourceEl.className = 'panel-link';
+    sourceEl.href = 'https://kerygmafamily.com';
+    sourceEl.target = '_blank';
+    sourceEl.rel = 'noopener';
+    sourceEl.textContent = 'Source: kerygmafamily.com →';
+    sourceEl.style.marginTop = '8px';
+    sourceEl.style.display = 'block';
+    document.getElementById('reflectionContent').appendChild(sourceEl);
+  }
+
   document.getElementById('gospelRef').textContent=gospel.reference;
   const preview=(gospel.text||'').replace(/\s+/g,' ').trim();
   const shortPreview=preview.length>240 ? preview.slice(0,240).replace(/\s+\S*$/,'')+'…' : preview;
