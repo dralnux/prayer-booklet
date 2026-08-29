@@ -1,0 +1,44 @@
+name: Update daily prayer content
+
+on:
+  schedule:
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install updater dependencies
+        run: python -m pip install requests beautifulsoup4
+
+      - name: Update verse, Gospel, and reflection
+        run: python scripts/update_daily_content.py
+
+      - name: Update Saints of the Day
+        run: python update-saints.py
+
+      - name: Update Full Tank video
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/update_videos.py
+
+      - name: Publish changed daily content
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/daily-verse.json data/daily-gospel.json data/daily-reflection.json data/daily-saints.json data/videos.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update daily prayer content"
+          git push
