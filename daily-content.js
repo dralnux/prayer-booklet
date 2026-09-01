@@ -98,20 +98,20 @@ window.DailyContent = (() => {
   function findReflectionSection(markdown, date) {
     const target = new Date(`${date}T12:00:00Z`);
     const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-    // Look for the date format in reflection.md: ### 2026-01-01 — Title
-    const datePattern = `### ${date}`;
+    // Look for the date format in reflection.md: ## 2026-01-01 — Title
+    const datePattern = `## ${date}`;
     const idx = markdown.indexOf(datePattern);
     if (idx < 0) return null;
 
-    // Get the section content until the next ### or ---
+    // Get the section content until the next ## or ---
     const tail = markdown.slice(idx);
-    const sectionEnd = tail.search(/\n### |\n---/);
+    const sectionEnd = tail.search(/\n## /);
     const sectionText = sectionEnd === -1 ? tail : tail.slice(0, sectionEnd);
 
-    // Extract REFLECT, PRAYER, and Saint of the Day
-    const reflectMatch = sectionText.match(/\*\*REFLECT:\*\*\s*\n?\s*>\s*([\s\S]*?)(?=\n\*\*PRAYER:|\n\*\*Saint|\n---|$)/i);
-    const prayerMatch = sectionText.match(/\*\*PRAYER:\*\*\s*\n?\s*>\s*([\s\S]*?)(?=\n\*\*Saint|\n---|$)/i);
-    const saintMatch = sectionText.match(/\*\*Saint of the Day:\*\*\s*([^\n]+)/i);
+    // Extract Reflect, Prayer, and Saint of the Day sections (### headers)
+    const reflectMatch = sectionText.match(/### Reflect\s*\n\s*([\s\S]*?)(?=\n### |---|\n## |$)/i);
+    const prayerMatch = sectionText.match(/### Prayer\s*\n\s*([\s\S]*?)(?=\n### |---|\n## |$)/i);
+    const saintMatch = sectionText.match(/### Saint of the Day\s*\n\s*([^\n]+)/i);
 
     const reflect = reflectMatch ? cleanWhitespace(reflectMatch[1]) : '';
     const prayer = prayerMatch ? cleanWhitespace(prayerMatch[1]) : '';

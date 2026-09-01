@@ -14,7 +14,7 @@ What gifts has God given you? Try to put them together and see what action He wa
 
 Lord God, may I be like Mama Mary, always ready to act on faith. Amen.
 
-### Saint
+### Saint of the Day
 
 Mary, Mother of God
 
@@ -34,7 +34,7 @@ What would your life look like if you made it less about yourself? Lord Jesus, h
 
 How’s your prayer time and have you asked for guidance recently? Lord, thank you for the gift of prayer. It’s a constant reminder that we can always reach out to you. Amen. Saint Genevieve,
 
-### Saint
+### Saint of the Day
 
 Saint Genevieve
 
@@ -86,7 +86,7 @@ Lord, teach me to love myself the right way. St. Raymond of Peñafort, priest,
 
 What have you been called and anointed to do? Do it. The Spirit of the Lord is upon you. “Come, Holy Spirit, I need You. Come, Holy Spirit, I pray. Come with Your strength and Your power. Come in Your own special way.” Saint Gudula,
 
-### Saint
+### Saint of the Day
 
 Saint Gudula
 
@@ -102,7 +102,7 @@ Troubled? Unplug and be still in God’s presence. Silence the world’s noise s
 
 Lord, detach me from the gadgets, hyperactivity, and busyness of my life when I need to quiet my heart and connect with Yours. St. Adrian of Canterbury, priest,
 
-### Saint
+### Saint of the Day
 
 Feast of Our Lord Jesus
 
@@ -114,7 +114,7 @@ Feast of Our Lord Jesus
 
 In what areas of your life do you need to decrease so that Christ may increase? Lord, in whatever I do or say, may it be always less of me but more of You, so I may give back all the glory to You. Amen. St. John Camillus the Good,
 
-### Saint
+### Saint of the Day
 
 St. John Camillus the Good
 
@@ -130,7 +130,7 @@ If someone were to give a “review” of your life, would they see a testimony 
 
 Lord, make me a strong endorser of Your love through the life I live. Blessed William Carter,
 
-### Saint
+### Saint of the Day
 
 Blessed William Carter
 
@@ -154,7 +154,7 @@ Prayer works. Be intentional in speaking blessings to yourself and others today.
 
 Dear Lord, thank You for speaking blessings to my life. I receive Your word. I receive Your mercy and grace. May it bless me and the world around me. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Hilary of Poiters
 
@@ -170,7 +170,7 @@ How do you quiet your heart as you pray and listen to the Lord? May I always hea
 
 Lord, as I come before You in silence. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Felix of Nola
 
@@ -182,7 +182,7 @@ St. Felix of Nola
 
 God longs to bless you with good things, but are you ready to receive His version of what you want? Lord, I am asking again. I will persist, but I won’t insist. Whatever You have for me, I will not resist. St. Paul the Hermit,
 
-### Saint
+### Saint of the Day
 
 st. St. Paul the Hermit
 
@@ -198,7 +198,7 @@ st. St. Paul the Hermit
 
 Jesus, I trust in you. Increase my faith. Saint Joseph Vaz,
 
-### Saint
+### Saint of the Day
 
 Saint Joseph Vaz
 
@@ -226,7 +226,7 @@ Thank someone today whom you know prays for you. Take the time to pray for someo
 
 Jesus, thank You for welcoming me to Your family. Help me love others as my brothers and sisters. I pray for the people You have sent in my life. Bless them and keep them in Your arms. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Jaime Hilario Barbel
 
@@ -238,7 +238,7 @@ St. Jaime Hilario Barbel
 
 What old habits do you need to stop? What new habits do you need to start? Jesus, give me the grace to begin a new journey this year, with a little step toward a new and beautiful habit. Amen. Saint Fillan,
 
-### Saint
+### Saint of the Day
 
 Saint Fillan
 
@@ -286,7 +286,7 @@ If you were given the chance to get back at the person who hurt you, would you t
 
 Lord, I am angry and hurt. But I offer these pains to You, knowing that in Your loving hands, I will be at peace. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Marianne Cope
 
@@ -310,7 +310,7 @@ In God’s economy, you have more than what you begin with.
 
 Lord, I trust that You want more for me. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Peter Thomas
 
@@ -326,7 +326,7 @@ St. Peter Thomas
 
 Lord, may all those who come behind us find us faithful. Saints Timothy and Titus, bishops,
 
-### Saint
+### Saint of the Day
 
 Memorial of Saints when I was 14, she took me to a Life
 
@@ -358,7 +358,7 @@ Lord, teach me to have a humble heart so I may follow You. Amen.
 
 How has God’s grace carried you through? Lord, thank You for bringing me this far. Help me trust Your grace and rest in Your call. Saint Blath,
 
-### Saint
+### Saint of the Day
 
 Saint Blath
 
@@ -370,7 +370,7 @@ Saint Blath
 
 What little things have you sown that have borne beautiful fruit? What can you start today? Lord, I say yes to all the mustard seeds You’ve caused to bear fruit in my life for Your glory and praise. Amen. St. Savina of Milan,
 
-### Saint
+### Saint of the Day
 
 St. Savina of Milan
 
@@ -394,7 +394,7 @@ Lord, I humbly ask, calm the storms in my life. Quiet my heart. Grant me the gra
 
 How is God calling you to be a white martyr for Him? Lord, give me the grace to serve You in ways You are calling me to, no matter how difficult. St. Brigid of Ireland,
 
-### Saint
+### Saint of the Day
 
 St. Brigid of Ireland
 
@@ -406,7 +406,7 @@ St. Brigid of Ireland
 
 What is God’s Spirit asking you to do today? Lord, help me to silence the noise around me so I can hear You. Move in my heart and guide me in Your ways. Amen. St. Joan de Lestonnac,
 
-### Saint
+### Saint of the Day
 
 St. Joan de Lestonnac
 
@@ -430,7 +430,7 @@ Lord, forgive me for the times I doubted Your timing and questioned Your ways. W
 
 How do you respond to rejection or criticism? Are you open to seeing God’s work in unexpected people or circumstances? My Jesus, help me discern Your will every day. Help me grow in faith, humility, and love as I face challenges and rejections. Amen. St. Joseph of Leonissa,
 
-### Saint
+### Saint of the Day
 
 St. Joseph of Leonissa
 
@@ -462,7 +462,7 @@ Spend a few minutes in prayer today, but allow space to listen to Him.
 
 Lord, You know the innermost desires of my heart. I offer them fervently to You, and I open myself to Your plans and blessings. Blessed Pius IX,
 
-### Saint
+### Saint of the Day
 
 Blessed Pius IX
 
@@ -478,7 +478,7 @@ Are you guilty of proclaiming your good deeds? Who are you proclaiming it for—
 
 Jesus, and proclaim Your glory. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Josephine Bakhita
 
@@ -490,7 +490,7 @@ St. Josephine Bakhita
 
 How desperate are you to receive God’s healing and miracles? Jesus, I need Your help. Can You heal me? Amen. Blessed Anne Catherine Emmerick,
 
-### Saint
+### Saint of the Day
 
 Blessed Anne Catherine Emmerick
 
@@ -514,7 +514,7 @@ Lord, You know me better than I know myself. You have always loved me for who I 
 
 Today, why not swap some of your social media time for prayer? Lord Jesus, fill my mind and heart with godly things, so that all I say and do may glorify You. Amen. Our Lady of Lourdes,
 
-### Saint
+### Saint of the Day
 
 Our Lady of Lourdes
 
@@ -530,7 +530,7 @@ God’s grace is available to all who seek it, especially in times of need.
 
 Lord Jesus, please remind us that Your grace can lift us, no matter how low we feel. Your will be done. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Julian
 
@@ -546,7 +546,7 @@ Saint Julian
 
 Lord, help me to see the different ways by which You want to communicate with me, especially through ordinary things and situations. St. Catherine de Ricci,
 
-### Saint
+### Saint of the Day
 
 St. Catherine de Ricci
 
@@ -574,7 +574,7 @@ The world’s idea of a colorful life pales in comparison to God’s. Adventure 
 
 Lord, is to walk with You each day. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Claude la Colombiere
 
@@ -586,7 +586,7 @@ St. Claude la Colombiere
 
 “The Spirit comes with the tenderness of a true friend and protector to save, to heal, to teach, to counsel, to strengthen, to console.” (St. Cyril of Jerusalem) “Creator of all things, true Source of light and wisdom . . . give me a sharp sense of understanding . . . and the ability to grasp things correctly and fundamentally.” (St. Thomas Aquinas) Saint Onesimus,
 
-### Saint
+### Saint of the Day
 
 Saint Onesimus
 
@@ -602,7 +602,7 @@ May you not forget how good God is when He answers your prayer.
 
 Lord, may I never forget Your faithfulness and mercy. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Alexis Falconieri
 
@@ -614,7 +614,7 @@ St. Alexis Falconieri
 
 As we start this Lenten season, what things are you called to let go of? Father, none of my accomplishments and accolades are mine. If they are hindering me from following You, teach me to let go. Amen. Saint Simon,
 
-### Saint
+### Saint of the Day
 
 Saint Simon
 
@@ -626,7 +626,7 @@ Saint Simon
 
 What little things are you beginning today—and promise to do every day—to strengthen your relationships in the family? Jesus, I decide to choose You every day. Give me the grace to love You today a little more than I did yesterday. Amen. Saint Belina,
 
-### Saint
+### Saint of the Day
 
 Saint Belina
 
@@ -638,7 +638,7 @@ Saint Belina
 
 What can you give up today to participate in Christ’s suffering? Father, help me to see the bigger picture. May I understand that what I give up for You is nothing compared to what I gain. Sts. Jacinta and Francisco Marto,
 
-### Saint
+### Saint of the Day
 
 Sts. Jacinta and Francisco Marto
 
@@ -662,7 +662,7 @@ Father in heaven, grant me courage to answer Your call. St. Peter Damian, bishop
 
 “It takes more than bread to stay alive. It takes a steady stream of words from God’s mouth.” (Matthew 4:4 MSG) Let Ephesians 6:10-18 be your prayer as you put on the armor of God. St. Margaret of Cortona,
 
-### Saint
+### Saint of the Day
 
 St. Margaret of Cortona
 
@@ -686,7 +686,7 @@ Do you find it hard to pray? Trust that God hears you, even when it doesn’t fe
 
 Lord, allow me to have faith like a child. I offer all my prayers to You, knowing that You hear my heart’s desires. Amen.
 
-### Saint
+### Saint of the Day
 
 Blessed Tommaso Maria Fusco
 
@@ -702,7 +702,7 @@ Blessed Tommaso Maria Fusco
 
 Jesus, help me grow closer to You this Lent. Thank You for Your Church that helps me know You more. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Ananias II
 
@@ -718,7 +718,7 @@ Saint Ananias II
 
 Lord, may I find myself and Your love for me in the process of asking and working for my intentions. St. Isabel of France,
 
-### Saint
+### Saint of the Day
 
 St. Isabel of France
 
@@ -734,7 +734,7 @@ St. Isabel of France
 
 Lord, when I am weak and I struggle to do the right thing. St. Anne Line,
 
-### Saint
+### Saint of the Day
 
 St. Anne Line
 
@@ -746,7 +746,7 @@ St. Anne Line
 
 Can you love and pray for your enemies? Life is too short to hold a grudge. Dearest Lord, teach me to forgive the unforgivable, just like You do, every day. Amen. Blessed Villana de’Botti,
 
-### Saint
+### Saint of the Day
 
 Blessed Villana de’Botti
 
@@ -770,7 +770,7 @@ This may help counter cancel culture: St. Maximus the Confessor said, “He who 
 
 Jesus, grant us the grace not to sever relationships, but to save them, and bring them to You, our Savior. St. Agnes of Bohemia,
 
-### Saint
+### Saint of the Day
 
 St. Agnes of Bohemia
 
@@ -782,7 +782,7 @@ St. Agnes of Bohemia
 
 How did your experiences with your earthly father shape your understanding of fatherhood and ultimately lead you to embrace the perfect love of our heavenly Father? Dearest God, thank You for being our good and faithful Father who never leaves nor forsakes us. Thank You also for our earthly fathers who, both in their strengths and weaknesses, lead us back to You. St. Katherine Drexel,
 
-### Saint
+### Saint of the Day
 
 St. Katherine Drexel
 
@@ -798,7 +798,7 @@ St. Katherine Drexel
 
 Lord, it’s me. I am Yours and You are mine. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Casimir
 
@@ -810,7 +810,7 @@ Saint Casimir
 
 Where do you draw your confidence from? Lord, I hold on to You. May I be grounded in Your love so I can draw my confidence from You. St. John Joseph of the Cross,
 
-### Saint
+### Saint of the Day
 
 St. John Joseph of the Cross
 
@@ -826,7 +826,7 @@ Is the Lord directing you toward a mission? Pray about it and ask God to sustain
 
 Lord, help me to trust in You and in Your ways, so I may always be ready to go wherever You lead me. Saint Colette,
 
-### Saint
+### Saint of the Day
 
 Saint Colette
 
@@ -870,7 +870,7 @@ Do you also struggle with anger and letting go? Remember the Cross. Jesus died f
 
 Jesus, thank You for choosing to die for me. I am not worthy, and I know that I never will be. But in my unworthiness, You still choose to love me. May I always remember this so I can also channel Your grace and mercy to others. Amen.
 
-### Saint
+### Saint of the Day
 
 St. John Ogilvie
 
@@ -882,7 +882,7 @@ St. John Ogilvie
 
 What is the most challenging and difficult time in your life now? Entrust your concerns to God and patiently wait for His answer. While in this world, Your faithful continue to struggle, Lord. Remain with us. Have mercy on Your people who strive to do Your will despite the trials and tribulations. By our obedience and Your grace, set us free. Saint Aengus,
 
-### Saint
+### Saint of the Day
 
 Saint Aengus
 
@@ -894,7 +894,7 @@ Saint Aengus
 
 “Our captain on this battlefield is Christ Jesus. . . . Christ has bound our enemies for us and weakened them that they cannot overcome us unless we so choose to let them.” (St. Catherine of Siena) St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. Amen. Saint Seraphina,
 
-### Saint
+### Saint of the Day
 
 Saint Seraphina
 
@@ -910,7 +910,7 @@ Do you feel tired, anxious, or worried? Does your to-do list seem unending? Paus
 
 Dear Lord, I pray for the humility to let You be the God of my life. Teach me to let go of my life’s clutter and welcome Your guidance. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Ansovinus
 
@@ -926,7 +926,7 @@ Are you feeling discouraged, thinking God has allowed bad things to happen to yo
 
 Loving Father, thank You for the guardian angels You have assigned to watch over me every day. Saint Mathilda,
 
-### Saint
+### Saint of the Day
 
 Saint Mathilda
 
@@ -942,7 +942,7 @@ What tendencies do you have that stop you from being a child of light? How do yo
 
 Lord, remove everything that is of darkness in me. Grant me Your grace to live as a child of light. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Louise de Marillac
 
@@ -954,7 +954,7 @@ St. Louise de Marillac
 
 What kind of person are you called to be? Go and make it happen. Holy Spirit, what do You want? I surrender my former ways. Create me anew! Saint Dentlin,
 
-### Saint
+### Saint of the Day
 
 Saint Dentlin
 
@@ -990,7 +990,7 @@ What is God asking you to sacrifice for the love of your family? Saint Joseph, y
 
 Jesus, give me the grace to make the necessary sacrifice. Amen.
 
-### Saint
+### Saint of the Day
 
 Blessed Virgin Mary
 
@@ -1002,7 +1002,7 @@ Blessed Virgin Mary
 
 Have you lived honorably so far? Lord, grant me a generous heart. May I always be a source of comfort to my brethren. St. Maria Josefa Sancho de Guerra,
 
-### Saint
+### Saint of the Day
 
 St. Maria Josefa Sancho de Guerra
 
@@ -1014,7 +1014,7 @@ St. Maria Josefa Sancho de Guerra
 
 Do we pigeonhole people according to their status in life? Lord, help me avoid categorizing and discriminating against others. Give me the grace and the humility to treat everyone equally like Jesus did. Blessed Maria Candida of the Eucharist,
 
-### Saint
+### Saint of the Day
 
 Blessed Maria Candida of the Eucharist
 
@@ -1026,7 +1026,7 @@ Blessed Maria Candida of the Eucharist
 
 Where do you need to trust God’s timing, even when He seems late? Lord, help me trust You when I don’t understand. Remind me that Your timing is perfect, and Your love never fails. Amen. St. Nicholas Owen,
 
-### Saint
+### Saint of the Day
 
 St. Nicholas Owen
 
@@ -1042,7 +1042,7 @@ Be honest with yourself: Are there times when you tend to be arrogant with your 
 
 Jesus, grow humility in my heart so I may become as gracious and loving as You are to those around me. St. Turibius of Mongrovejo,
 
-### Saint
+### Saint of the Day
 
 St. Turibius of Mongrovejo
 
@@ -1058,7 +1058,7 @@ God’s grace always finds a way to save. God’s mercy always makes the first m
 
 Dear God, help me to look to You when I am in doubt, in pain, and struggling. And as I fix my gaze on You, may I be encouraged, healed, and set free. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Aldemar
 
@@ -1074,7 +1074,7 @@ Granted or not, will you entrust your biggest, boldest dreams to God? Heavenly
 
 Father, help me surrender my every desire to You. Saint Dismas,
 
-### Saint
+### Saint of the Day
 
 Saint Dismas
 
@@ -1086,7 +1086,7 @@ Saint Dismas
 
 What things will you sacrifice to follow God’s Word? Lord, help me die to myself so I may live fully in You. Give me the strength to follow Your Word. Amen. Saint Ludger,
 
-### Saint
+### Saint of the Day
 
 Saint Ludger
 
@@ -1102,7 +1102,7 @@ Saint Ludger
 
 Lord, I trust that You walk with me in the valley of my darkness. Saint Rupert,
 
-### Saint
+### Saint of the Day
 
 Saint Rupert
 
@@ -1114,7 +1114,7 @@ Saint Rupert
 
 How is God asking you to love and help people without the limelight of social media? Lord, teach me to love big in quiet movements and unrecognized efforts. May I follow Your example, in Jesus’ name. Amen. St. Venturino of Bergamo,
 
-### Saint
+### Saint of the Day
 
 St. Venturino of Bergamo
 
@@ -1130,7 +1130,7 @@ Are you in the middle of deciding between good and bad? Pray for the Lord’s gu
 
 Lord, take over my heart. I reject my old sinful ways and once again recommit to live for You alone. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Ludolf of Ratzeburg
 
@@ -1146,7 +1146,7 @@ How did you experience God’s miracle in your life recently? Did you thank Him?
 
 Jesus, may I always remember Your faithfulness and love. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Zosimus
 
@@ -1162,7 +1162,7 @@ If Jesus were to tell you, “What you are about to do, do it quickly,” what a
 
 Lord, help me to do now what needs to be done today. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Guy of Pomposa
 
@@ -1174,7 +1174,7 @@ St. Guy of Pomposa
 
 When was the last time you honored someone you love with your words? Lord, help me to be more aware of the words that come out of my mouth. May they bless, not harm, others. Amen. St. Hugh of Grenoble,
 
-### Saint
+### Saint of the Day
 
 St. Hugh of Grenoble
 
@@ -1194,7 +1194,7 @@ Looking back, what moments in your life did you question God about, but now unde
 
 Are you willing to die to yourself for the people you love? How can you show selfless love today? My Jesus, thank You for loving me even when I don’t deserve it. Help me trust Your plans and love others the way You love me. Amen. St. Richard of Wyche,
 
-### Saint
+### Saint of the Day
 
 St. Richard of Wyche
 
@@ -1226,7 +1226,7 @@ Lord, thank You because Your resurrection reverses our death. Amen.
 
 When you are faced with heartache and disappointment, from whom do you draw your strength? Dearest Lord, thank You for Your saving grace. You have made known to me the paths of life. Fill me with joy in Your presence. St. Paul Tinh,
 
-### Saint
+### Saint of the Day
 
 St. Paul Tinh
 
@@ -1250,7 +1250,7 @@ Father God, open my eyes to see Jesus in everyone I encounter today. Amen.
 
 Are you going through Good Friday in your life? Believe that your Easter is coming! Dear Jesus, thank You for dying on the cross for all of us. Above all, thank You for rising again—for by Your death and resurrection, we are saved. Amen. St. Julie Billiart,
 
-### Saint
+### Saint of the Day
 
 St. Julie Billiart
 
@@ -1266,7 +1266,7 @@ If He did it before, He can do it again. Trust God to rescue you from what you�
 
 Lord, even if I don’t see Your hand, even if I don’t understand, I’ll trust Your plan. Your love for me is all the proof I need. St. Casilda of Toledo,
 
-### Saint
+### Saint of the Day
 
 St. Casilda of Toledo
 
@@ -1282,7 +1282,7 @@ St. Casilda of Toledo
 
 Jesus, continue to reveal Yourself to me at Mass, with every communion I receive. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Fulbert of Chartres
 
@@ -1310,7 +1310,7 @@ Jesus, give me all the grace I need to do Your most holy will. Saint Stanislaus,
 
 Jesus, King of Mercy, I trust in You! St. Zeno of Verona,
 
-### Saint
+### Saint of the Day
 
 St. Zeno of Verona
 
@@ -1334,7 +1334,7 @@ Lord, following and serving You can be difficult. Help me to be faithful to You 
 
 Will you accept Jesus as your Lord and Savior so you can be born again? Jesus, may Your love and grace transform and renew me so I can follow Your ways every day. Amen. Blessed Peter Gonzalez,
 
-### Saint
+### Saint of the Day
 
 Blessed Peter Gonzalez
 
@@ -1350,7 +1350,7 @@ Blessed Peter Gonzalez
 
 Jesus, open the eyes of my heart that I may always recognize You in the Holy Eucharist! Saint Hunna,
 
-### Saint
+### Saint of the Day
 
 Saint Hunna
 
@@ -1370,7 +1370,7 @@ Saint Hunna
 
 What is your “crowd” that intimidates you? What are your “loaves and fish” of limitations? Jesus, allow me to focus only in You—to give my all, to surrender all to Your hands, and continue the miracle. In Jesus’ name. Amen. Saint Donan,
 
-### Saint
+### Saint of the Day
 
 Saint Donan
 
@@ -1386,7 +1386,7 @@ What are your gifts? What unique perspective do you often bring to the table? Th
 
 Jesus, give me the confidence to speak and act, the discernment to know when and how to do such, and the humility to do them with the right posture of my heart. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Athanasia of Aegina
 
@@ -1398,7 +1398,7 @@ St. Athanasia of Aegina
 
 Which part of the Emmaus walk do you need to learn more? Jesus, walk with me again as I walk to help others. Amen. St. Alphege of Canterbury,
 
-### Saint
+### Saint of the Day
 
 St. Alphege of Canterbury
 
@@ -1410,7 +1410,7 @@ St. Alphege of Canterbury
 
 Do you ask for the gifts of the Holy Spirit as you do your work or ministry? Come, Holy Spirit, fill the hearts of Your faithful and enkindle in us the fire of Your love. St. Agnes of Montepulciano,
 
-### Saint
+### Saint of the Day
 
 St. Agnes of Montepulciano
 
@@ -1422,7 +1422,7 @@ St. Agnes of Montepulciano
 
 Do you seek the Bread of Life daily, or are you more focused on temporary rewards? Lord, help me to always seek You first. Remind me that worldly achievements are temporary, but Your love and presence are eternal. Amen. St. Conrad of Parzham,
 
-### Saint
+### Saint of the Day
 
 St. Conrad of Parzham
 
@@ -1434,7 +1434,7 @@ St. Conrad of Parzham
 
 In what ways do you preach the Gospel? Who is listening? What are they hearing? Lord, may I be Your lips, Your ears, Your eyes, Your hands, Your heart. St. Theodore of Sykeon,
 
-### Saint
+### Saint of the Day
 
 St. Theodore of Sykeon
 
@@ -1466,7 +1466,7 @@ Lord, may I stop asking, “Am I my brother’s keeper?” and live in certainty
 
 How does faith shape your ability to let go and trust in the path God has prepared for your children? Dear Jesus, this season of my life is all about trusting You as I relinquish my adult children into Your care. You know my deepest concerns for their future. I rest in Your perfect plan for them. Amen. Saint Mark, evangelist,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Mark,
 
@@ -1482,7 +1482,7 @@ Feast of Saint Mark,
 
 Jesus, I want to know Your voice and recognize Your guiding hand at every turn in my life. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Riquier
 
@@ -1498,7 +1498,7 @@ Are you trying to fix things in your life by yourself? Approach God and allow Hi
 
 Lord, I trust that You who called me to Your eternal glory through Christ will restore, confirm, strengthen, and establish me after I have suffered a little (cf. 1 Peter 5:10). Saint Zita,
 
-### Saint
+### Saint of the Day
 
 Saint Zita
 
@@ -1538,7 +1538,7 @@ What hard-hitting questions have you asked the Lord in times of struggle? What w
 
 How do you handle the storms in your life? Father, give me wisdom to know what to do in the areas where I have control, and the trust to surrender those matters that I have no control of. Amen. Saint Joseph the Worker,
 
-### Saint
+### Saint of the Day
 
 Saint Joseph the Worker
 
@@ -1570,7 +1570,7 @@ Jesus already prepared a place for you when He calls you home. How does this tru
 
 “The only way God can show us He’s in control is to put us in situations we can’t control.” (Steven Furtick) Father, may I do my best to follow Your will today. But when weakness and hopelessness set in, take over with Your Holy Spirit. Amen. Saint Venerius,
 
-### Saint
+### Saint of the Day
 
 Saint Venerius
 
@@ -1582,7 +1582,7 @@ Saint Venerius
 
 Look back at your past trials. How have they made you grow in your faith? Lord, I surrender in full faith. I will trust that You are in control. St. Hilary of Arles,
 
-### Saint
+### Saint of the Day
 
 St. Hilary of Arles
 
@@ -1598,7 +1598,7 @@ Recall all the answers to your prayers that God has given you and realize He is 
 
 Father, may I never forget that if I give my life to You, You will always work for my good. Saint Dominic Savio,
 
-### Saint
+### Saint of the Day
 
 Saint Dominic Savio
 
@@ -1610,7 +1610,7 @@ Saint Dominic Savio
 
 “Faith is reason at rest in God.” (Charles H. Spurgeon) Lord, You bless me in my sleep. Teach me to let go and yield to You. St. Rose Venerini,
 
-### Saint
+### Saint of the Day
 
 St. Rose Venerini
 
@@ -1626,7 +1626,7 @@ Today, die a little so that others may live more.
 
 Dear Jesus, thank You for laying down Your life for me. May I also learn how to live—and die—for others. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Peter of Tarentaise
 
@@ -1638,7 +1638,7 @@ St. Peter of Tarentaise
 
 “Jesus isn’t into religion; He’s into love. He’s not about rules; He’s about relationship—and He wants people everywhere to know Him.” (Shana Schutte) Jesus, please increase my capacity to love those who reject You. Give me also the grace to be strong in my faith even when surrounded by people who do not love You. Amen. Saint Hermas,
 
-### Saint
+### Saint of the Day
 
 Saint Hermas
 
@@ -1654,7 +1654,7 @@ Saint Hermas
 
 Lord, please help me to obey You out of love, not fear. Fill me with the Holy Spirit and lead me along the path You have prepared for me. St. John of Avila,
 
-### Saint
+### Saint of the Day
 
 St. John of Avila
 
@@ -1666,7 +1666,7 @@ St. John of Avila
 
 What healing within you needs to happen so you may love more freely outside? Lord, heal me inside so I may overflow Your love to the people around me. St. Ignatius of Lanconi,
 
-### Saint
+### Saint of the Day
 
 St. Ignatius of Lanconi
 
@@ -1682,7 +1682,7 @@ Look back at your past struggles and notice how God worked things for your good.
 
 Lord, when I don’t understand Your plans, help me to trust that every challenge has a purpose and that You are always guiding me toward something greater. Saints Nereus and Achilleus,
 
-### Saint
+### Saint of the Day
 
 Saints Nereus and Achilleus
 
@@ -1698,7 +1698,7 @@ God is present in the people around you and in the simple things you see.
 
 Lord, help me see You when You show Yourself all around me. Our Lady of Fatima,
 
-### Saint
+### Saint of the Day
 
 Our Lady of Fatima
 
@@ -1734,7 +1734,7 @@ Lord, give me Your hope and joy that no tragedy and trial can ever take away. Am
 
 “The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.” (Winston Churchill) O Holy Spirit, lead me to the persons You want me to encourage. St. John Nepomuceno,
 
-### Saint
+### Saint of the Day
 
 St. John Nepomuceno
 
@@ -1746,7 +1746,7 @@ St. John Nepomuceno
 
 When God disciplines you, do you listen or do you resist? Lord, teach me to listen to You. Help me to understand that You know better than I do, because You know what I really need. Amen. St. Paschal Baylon,
 
-### Saint
+### Saint of the Day
 
 St. Paschal Baylon
 
@@ -1770,7 +1770,7 @@ Lord, let Scripture become plain and simple to me so I can apply it in my person
 
 What excuses do you have in not fully engaging in the Mass? Jesus, open my heart to experience the beauty and power of Your gift in the liturgy. Amen. St. Theophilus of Corte,
 
-### Saint
+### Saint of the Day
 
 St. Theophilus of Corte
 
@@ -1790,7 +1790,7 @@ When do you remain silent when faced with injustice? What steps can you take to 
 
 How do you make God known to the people around you? Use me, Lord God, to make You known to every people I meet. Amen. St. Cristobal Magallanes and companions,
 
-### Saint
+### Saint of the Day
 
 St. Cristobal Magallanes and companions
 
@@ -1802,7 +1802,7 @@ St. Cristobal Magallanes and companions
 
 “Let us not love in word or in tongue, but in deed and in truth.” (1 John 3:18) Jesus, firm up my love for You, so that my response to Your Love is not only through words but more so in action. Amen. St. Rita of Cascia,
 
-### Saint
+### Saint of the Day
 
 St. Rita of Cascia
 
@@ -1818,7 +1818,7 @@ Realign your focus and follow God alone. That way, you’ll have less time to co
 
 Lord, create in me a new heart. Redirect my gaze on You, so I may fulfill Your purpose for me here on earth. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Michael the Confessor
 
@@ -1834,7 +1834,7 @@ St. Michael the Confessor
 
 Lord, when my heart is troubled, let me see how big and powerful You are. Fill me with Your peace. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Joanna
 
@@ -1858,7 +1858,7 @@ Think of moments when you feel “last.” Offer it to the Lord today.
 
 Lord, grant us the grace to serve with joy and humility. Help us to remember that in Your Kingdom, the last shall be first, and through loving others, we find our true purpose. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Philip Neri
 
@@ -1882,7 +1882,7 @@ Father, help me to love others sacrificially with all my heart. St. Augustine of
 
 “We must become vulnerable to ourselves, to God, and to those around us. This is the pathway to biblical strength that God calls us all to.” (John Edwards) Jesus, teach me to be vulnerable like You. There is strength in vulnerability, for it is when I am weak that I am strong. Let me rely on Your wisdom and strength because these are enough for me. St. Justus of Urgel,
 
-### Saint
+### Saint of the Day
 
 St. Justus of Urgel
 
@@ -1894,7 +1894,7 @@ St. Justus of Urgel
 
 “Teach me to feel another’s woe, to hide the fault I see, that mercy I to others show, that mercy show to me.” (Alexander Pope) Lord, open my heart to see others through Your eyes. Help me choose mercy over judgment and kindness over anger. St. William Arnaud,
 
-### Saint
+### Saint of the Day
 
 St. William Arnaud
 
@@ -1910,7 +1910,7 @@ Do you value being right more than being kind? True love is tested not in perfec
 
 Lord, teach me to love as You do—to be patient, to understand, and to let go of unnecessary battles. Fill my heart with peace, so I may bring healing instead of hurt. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Joan of Arc
 
@@ -1926,7 +1926,7 @@ St. Joan of Arc
 
 Lord, You never fail to forgive and love me despite all I’ve done. Teach me to be as loving and faithful as You are. Saint Mechtildis,
 
-### Saint
+### Saint of the Day
 
 Saint Mechtildis
 
@@ -1966,7 +1966,7 @@ Who can you run to to help you fan your flame? Lord, remind me I am never alone.
 
 Jesus, may I proclaim Your truth with love and humility. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Nennoc
 
@@ -1998,7 +1998,7 @@ Lord, teach me to be generous with what I have. Saint Norbert, bishop,
 
 How can you tune in to God’s Word today? Father, help me listen to You and be guided by Your word in all things. Amen. St. Robert of Newminster,
 
-### Saint
+### Saint of the Day
 
 St. Robert of Newminster
 
@@ -2014,7 +2014,7 @@ Is peace a top value for you? Have you found your peace? Have you found God’s 
 
 Lord, make me an instrument of Your peace.” In Jesus’ name. Amen.
 
-### Saint
+### Saint of the Day
 
 St. William of York
 
@@ -2054,7 +2054,7 @@ Write a list of people who have hurt you. Even with a heavy heart, pray for them
 
 Father, as I ask for Your forgiveness. Give me the grace to forgive those who have sinned against me. Saint Barnabas, Apostle,
 
-### Saint
+### Saint of the Day
 
 Memorial of Saint Barnabas, years even though she occasionally
 
@@ -2070,7 +2070,7 @@ In your busyness, what roles does Jesus play in your life? Jesus, help me find p
 
 Jesus, have mercy on us. Purchased: August 27, 2026
 
-### Saint
+### Saint of the Day
 
 Solemnity of the Sacred
 
@@ -2082,7 +2082,7 @@ Solemnity of the Sacred
 
 “God did not tell us to follow Him because He needed our help, but because He knew that loving Him would make us whole.” (Saint Irenaeus) Jesus, help me to follow and trust You, even when I may not always understand what You want for me. Mama Mary and Saint Joseph, pray for me. Immaculate Heart of the Blessed Virgin Mary,
 
-### Saint
+### Saint of the Day
 
 Blessed Virgin Mary
 
@@ -2098,7 +2098,7 @@ While you are waiting, do what the waiters do. Serve.
 
 Father, thank You for making me Your disciple. In return, help me to make disciples who disciple. Amen.
 
-### Saint
+### Saint of the Day
 
 Saints Valerius and Rufinus
 
@@ -2114,7 +2114,7 @@ Saints Valerius and Rufinus
 
 Lord, to be sensitive to the needs of the poor. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Alice
 
@@ -2130,7 +2130,7 @@ Is there someone whom you need to forgive or pray for? Ask God to help you love 
 
 Father, teach me Your ways. Help me to love, embrace, and forgive others the way You do. St. John Francis Regis,
 
-### Saint
+### Saint of the Day
 
 St. John Francis Regis
 
@@ -2142,7 +2142,7 @@ St. John Francis Regis
 
 “The world asks, ‘What does a man own?’ Christ asks, ‘How does he use it?’” (Andrew Murray) Thank You, Jesus, for constantly providing for me. With the little that I have, You’ve pulled it together and transformed it into something big for my needy brothers and sisters. St. Albert Chmielowski,
 
-### Saint
+### Saint of the Day
 
 St. Albert Chmielowski
 
@@ -2154,7 +2154,7 @@ St. Albert Chmielowski
 
 “God’s will is not rocket science. He delights to make His plan known to us.” (Rissa Singson Kawpeng) Lord, I seek to know Your will. But sometimes, I can be blind and insensitive. So, make Your will obvious to me. Amen. Saint Guy,
 
-### Saint
+### Saint of the Day
 
 Saint Guy
 
@@ -2178,7 +2178,7 @@ Jesus, give me the compassion to give and the wisdom to do it. Amen.
 
 Have you placed your trust in materials things instead of the heavenly Father’s provision? Lord, always remind me that as You provided for the birds in the sky, You will provide for me as well. Saint Florentina,
 
-### Saint
+### Saint of the Day
 
 Saint Florentina
 
@@ -2214,7 +2214,7 @@ Do you sometimes ask God for arbitrary signs when deciding on matters of the hea
 
 Lord, when people show me who they really are, help me believe them. St. Joseph Cafasso,
 
-### Saint
+### Saint of the Day
 
 St. Joseph Cafasso
 
@@ -2230,7 +2230,7 @@ How can God use you today? Remember that He calls you to serve Him even in the s
 
 Lord, use me today for Your purpose. May my life give glory to You alone. Amen.
 
-### Saint
+### Saint of the Day
 
 St. John the Baptist
 
@@ -2246,7 +2246,7 @@ If God can only know you through what you reveal in your prayers, how well will 
 
 Jesus, open my heart to Your friendship. St. Prosper of Aquitaine,
 
-### Saint
+### Saint of the Day
 
 St. Prosper of Aquitaine
 
@@ -2258,7 +2258,7 @@ St. Prosper of Aquitaine
 
 What is your inner disposition and intention when your ask God for something? God, I know You can. Give me a humble posture and an openness to receive Your love and grace for me. St. Josemaria Escriva de Balaguer,
 
-### Saint
+### Saint of the Day
 
 St. Josemaria Escriva de Balaguer
 
@@ -2294,7 +2294,7 @@ Recall the times when you were freed from your prison of bad habits through peop
 
 Lord, You show me Your lavish love through the people around me. May I never take them for granted. Amen.
 
-### Saint
+### Saint of the Day
 
 Solemnity of Saints Peter
 
@@ -2318,7 +2318,7 @@ Life is too short to live with hatred in your heart.
 
 Father, thank You for the gift of life. While I am still alive, help me to love You and my neighbor with all my heart. Help me to do good always. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Junipero Serra
 
@@ -2334,7 +2334,7 @@ Are shame and sin preventing you from coming before the Lord? Don’t let your f
 
 Lord, cleanse me of all my sins and forsake me not. Help me in my unbelief. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Ariston and companions
 
@@ -2346,7 +2346,7 @@ Saint Ariston and companions
 
 Where in your life do you feel left out or forgotten, and how might Jesus be inviting you to trust Him in it? Jesus, when I feel left out, help me trust that You see me. Strengthen my faith and remind me that You are always near. Amen. Saint Thomas, Apostle,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Thomas,
 
@@ -2358,7 +2358,7 @@ Feast of Saint Thomas,
 
 Are you willing to trust God and let go of what no longer serves His purpose? My Jesus, help me to be humble and open to Your guidance. Grant me the wisdom to know when to hold on and when to let go. Amen. St. Elizabeth of Portugal,
 
-### Saint
+### Saint of the Day
 
 St. Elizabeth of Portugal
 
@@ -2390,7 +2390,7 @@ Dear Lord, fill me with Your peace and compassion that I may not be swayed by ne
 
 Ask God during your prayer time: “What do You want me to do, and where do You want me to go? Who are the people whom You want me to love today?” Father, direct our steps and reveal the work You have prepared for me. Guide me to those You’re calling me to lead closer to You. Amen. Blessed Maria Romero Meneses,
 
-### Saint
+### Saint of the Day
 
 Blessed Maria Romero Meneses
 
@@ -2406,7 +2406,7 @@ You, too, are called to go after the “lost sheep.” You can join The Feast ne
 
 Lord, for the grace to answer Your call to seek the lost. I, too, was once lost and You found me. Saint Withburga,
 
-### Saint
+### Saint of the Day
 
 Saint Withburga
 
@@ -2422,7 +2422,7 @@ If you’ve strayed far from God or ignored His leading in your life, quit runni
 
 Lord, my safest place is in Your arms. May I run back home to You now. St. Joseph Zhang Dapeng,
 
-### Saint
+### Saint of the Day
 
 St. Joseph Zhang Dapeng
 
@@ -2438,7 +2438,7 @@ St. Joseph Zhang Dapeng
 
 Lord, make me a servant, humble and meek. Saint Amalberga,
 
-### Saint
+### Saint of the Day
 
 Saint Amalberga
 
@@ -2470,7 +2470,7 @@ Jesus, empower me to be Your mouthpiece to bring Your healing to this broken wor
 
 Small things are made bigger if they are offered as a prayer to God. Accept, oh Lord, these small acts of mine that I choose to bless You through. Amen. Saint Henry II,
 
-### Saint
+### Saint of the Day
 
 Saint Henry II
 
@@ -2482,7 +2482,7 @@ Saint Henry II
 
 “In trial or difficulty, I have recourse to Mother Mary, whose glance alone is enough to dissipate every fear.” (St. Therese of Lisieux) “Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided.” (Memorare) St. Kateri Tekakwitha,
 
-### Saint
+### Saint of the Day
 
 St. Kateri Tekakwitha
 
@@ -2506,7 +2506,7 @@ What are your fears? Ask God for the wisdom to deal with them and the grace to s
 
 Jesus, I trust in You. Our Lady of Mount Carmel,
 
-### Saint
+### Saint of the Day
 
 Our Lady of Mount Carmel
 
@@ -2518,7 +2518,7 @@ Our Lady of Mount Carmel
 
 “Unfurl the sails, and let God steer us where He will.” (St. Bede the Venerable) Lord, You answer all my prayers in the best version possible and in the most perfect time. Teach me to trust in Your ways. Saint Alexis,
 
-### Saint
+### Saint of the Day
 
 Saint Alexis
 
@@ -2534,7 +2534,7 @@ What one thing can you do this week to withdraw from your regular busyness and m
 
 Jesus, help me see You and hear You in my life. Help me slow down and stop when life gets too cluttered and chaotic. I need You and I love You. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Camillus de Lellis
 
@@ -2550,7 +2550,7 @@ Have you pushed people away from your life? Which of them just might be wheat mi
 
 Lord, may I see people as You see them. Amen.
 
-### Saint
+### Saint of the Day
 
 Saints Justa and Rufina
 
@@ -2566,7 +2566,7 @@ Saints Justa and Rufina
 
 Lord, thank You for allowing me to feel Your personal presence in my daily life. St. Joseph of Barsabas,
 
-### Saint
+### Saint of the Day
 
 St. Joseph of Barsabas
 
@@ -2586,7 +2586,7 @@ St. Joseph of Barsabas
 
 “She discovers the most shocking event in human history when finally He calls her by name!” (Pope Francis) Jesus, help me hear You when I feel lost. Remind me that I am known and loved by You. Amen. St. Mary Magdalene,
 
-### Saint
+### Saint of the Day
 
 St. Mary Magdalene
 
@@ -2610,7 +2610,7 @@ Lord, You bless me every day. Open my eyes to the great things You are doing. Do
 
 “We must speak to them with our hands before we try to speak with our lips.” (Saint Peter Claver) Father, grant me the wisdom to understand Your Word and the heart to live it. Amen. St. Kinga of Poland,
 
-### Saint
+### Saint of the Day
 
 St. Kinga of Poland
 
@@ -2622,7 +2622,7 @@ St. Kinga of Poland
 
 What insights have you gained through your own suffering? Father, thank You for walking with me through every trial, for being a constant presence in times of suffering and uncertainty. Help me to trust You more deeply and to find peace in Your love that goes beyond my own understanding. Amen. Saint James, Apostle,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint James, Apostle
 
@@ -2638,7 +2638,7 @@ Feast of Saint James, Apostle
 
 Lord, I ask not for what I want but what You desire for me. Amen.
 
-### Saint
+### Saint of the Day
 
 Blessed Virgin Mary
 
@@ -2650,7 +2650,7 @@ Blessed Virgin Mary
 
 “If one part suffers, all the parts suffer with it; if one part is honored, all the parts share its joy.” (1 Corinthians 12:26) Lord, lead me to a prayer group or parish organization that will enhance my relationship with You. Let me feel Your love more through my community members. Saint Pantaleon,
 
-### Saint
+### Saint of the Day
 
 Saint Pantaleon
 
@@ -2666,7 +2666,7 @@ My tears are like prayers.
 
 Jesus is with me in my grief. He knows how I feel because He, too, has wept. Dearest Lord, I know You see me. “You keep track of all my sorrows. You have collected my tears in Your bottle and have recorded each one in Your book” (Psalm 56:8). Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Samson
 
@@ -2682,7 +2682,7 @@ Worry does not do a single thing in our life except stress us out. It is the pri
 
 Jesus, give me the wisdom to know what truly matters at this moment, and give me the grace to choose to enjoy and embrace it. Saints Mary, Martha and Lazaruz,
 
-### Saint
+### Saint of the Day
 
 Memorial of Saints Mary,
 
@@ -2738,7 +2738,7 @@ Look for the “ghost” when your boat is being shaken. God is surely there som
 
 Lord, hold me firmly in Your hands and let Your peace calm my heart. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Gamaliel
 
@@ -2766,7 +2766,7 @@ Trust God when He says no.
 
 Lord, may I fully accept whatever answer You will give to what I pray for. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Casian of Autun
 
@@ -2778,7 +2778,7 @@ St. Casian of Autun
 
 How is God revealing Himself to you and calling you to be more like Him? How lovely it is to be in Your presence, oh Lord. May I continue to change for the better through Your powerful transforming love. Saint Hormisdas, pope,
 
-### Saint
+### Saint of the Day
 
 Feast of the Transfiguration
 
@@ -2814,7 +2814,7 @@ When fear takes hold of you, quickly refocus on Jesus and the impossible becomes
 
 Lord, be my anchor when I feel overwhelmed by fear and worry. St. Candida Maria of Jesus,
 
-### Saint
+### Saint of the Day
 
 St. Candida Maria of Jesus
 
@@ -2850,7 +2850,7 @@ Who in your life needs to hear the loving truth that will set them free? Ask for
 
 Dear Jesus, help me to love my neighbor and, if necessary, to correct them with love. St. Jane Frances de Chantal,
 
-### Saint
+### Saint of the Day
 
 St. Jane Frances de Chantal
 
@@ -2866,7 +2866,7 @@ Are you ready to receive God’s best? What life decisions do you have to make o
 
 Lord, with Your mercy and grace, allow me to show You signs of humility, trust, obedience, and love. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Benilde
 
@@ -2886,7 +2886,7 @@ What do you have to do to be more faithful in your relationship with the Lord? L
 
 “We are terrified of her! She is too powerful! She always defeats us because she is humble, and we are proud.” (Excerpt from an exorcism with Fr. Gabriel Amorth, former chief exorcist of Rome) Mama Mary, grant me the grace to be wholly obedient and humble to God always as you were. Saint Alipius,
 
-### Saint
+### Saint of the Day
 
 Saint Alipius
 
@@ -2902,7 +2902,7 @@ Saint Alipius
 
 Lord, listen to my restless cries as You listen to the cries of little children. St. Stephen of Hungary,
 
-### Saint
+### Saint of the Day
 
 St. Stephen of Hungary
 
@@ -2914,7 +2914,7 @@ St. Stephen of Hungary
 
 Do you strive for perfection—which is only God—or excellence— which only God’s grace provides to the believer? Lord, I strive eagerly for the greatest spiritual gifts, the more excellent way of love (cf. 1 Corinthians 12:31). St. Clare of Montefalco,
 
-### Saint
+### Saint of the Day
 
 St. Clare of Montefalco
 
@@ -2926,7 +2926,7 @@ St. Clare of Montefalco
 
 What are your “riches” that lead you away from God? Father, I am sorry for the times I made my “riches” more important than You. May I desire to always seek You first. Amen. Saint Helena,
 
-### Saint
+### Saint of the Day
 
 Saint Helena
 
@@ -2966,7 +2966,7 @@ Lord, thank You for loving an imperfect person like me. Teach me that loving peo
 
 Are you hard on other people? If so, have you asked yourself why? Lord, You always do what You say. Help me to be more like You in that way. St. Andrew the Scot,
 
-### Saint
+### Saint of the Day
 
 St. Andrew the Scot
 
@@ -2990,7 +2990,7 @@ Lord, I praise You because I am fearfully and wonderfully made; Your works are w
 
 For the many blessings God has bestowed upon you, do you still doubt His wonder? Father, teach me to open myself to the universe of blessings You have laid before me. May I always remember that I am more valuable than all of Your creation and that You are ever with me. Amen. Saint Bartholomew, Apostle,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Bartholomew,
 
@@ -3002,7 +3002,7 @@ Feast of Saint Bartholomew,
 
 “The first step to receiving an answer is being brave enough to ask a question.” (Kaitlyn Bouchillon) Jesus, I thank You for Your goodness. Thank You that You choose to reveal Yourself to me. Help me know You more and more each day. Amen. St. Louis of France,
 
-### Saint
+### Saint of the Day
 
 St. Louis of France
 
@@ -3018,7 +3018,7 @@ Your work is not just a job where you earn money to make a living. Your job is y
 
 Lord, may I keep walking my talk so I can connect my life and those of others to Your sacred mission. Blessed Thomas Percy,
 
-### Saint
+### Saint of the Day
 
 Blessed Thomas Percy
 
@@ -3034,7 +3034,7 @@ Life is too short to waste on regrets, resentments, and recriminations. Forgive 
 
 Jesus, I don’t know what tomorrow brings so help me live my best life today. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Monica
 
@@ -3058,7 +3058,7 @@ God uses people and circumstances to draw us to Him. Thank God for those He has 
 
 Father, thank You for calling me and choosing me to be in a relationship with You. Thank You for the people You used to call me. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Medericus
 
@@ -3074,7 +3074,7 @@ Do you sometimes feel like the world is making you regret your decision to follo
 
 Jesus, my Savior, help me to be brutally honest with You, knowing that You will never abandon me even when I’m full of doubt. St. Jeanne Jugan,
 
-### Saint
+### Saint of the Day
 
 St. Jeanne Jugan
 
@@ -3090,7 +3090,7 @@ St. Jeanne Jugan
 
 Lord, heal my broken body and spirit. You are my hope. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Raymond Nonnatus
 
@@ -3134,7 +3134,7 @@ How can you make God use your imperfections for His greater glory today? Lord, t
 
 Lord, thank You for the gift of my life. May I be faithful just like You. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Rosalia
 
@@ -3150,7 +3150,7 @@ Feeling inferior or superior to others does not give glory to God.
 
 Lord, sorry for the times I judged others and compared myself to them. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Teresa of Calcutta
 
@@ -3162,7 +3162,7 @@ St. Teresa of Calcutta
 
 “The family that prays together, stays together.” (Fr. Patrick Peyton, CSC) Lord, may You hear the prayers I lift up to You and look upon them with favor. Saint Dionysius,
 
-### Saint
+### Saint of the Day
 
 Saint Dionysius
 
@@ -3178,7 +3178,7 @@ When we trust in God’s timing and patiently wait for Him, we receive the gift 
 
 Jesus, I trust You to meet me where I am—even when I’m lost. Saint Regina,
 
-### Saint
+### Saint of the Day
 
 st. Saint Regina
 
@@ -3194,7 +3194,7 @@ Don’t let the commercial hype rob you of feeling God more during the ber month
 
 Dear Jesus, may You indeed be Emmanuel in my life—God with me, with us—not only during the ber months but all my life. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Adrian
 
@@ -3222,7 +3222,7 @@ Lord Jesus Christ, help me to always seek Your presence so I will always find jo
 
 Lord, help me to extend to others the mercy I have received from You. St. Peter Martinez,
 
-### Saint
+### Saint of the Day
 
 St. Peter Martinez
 
@@ -3238,7 +3238,7 @@ What is God inviting you to notice about yourself? Your healing leads to others�
 
 Jesus, help me to be self-aware, to see myself clearly. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Theodora of Alexandria
 
@@ -3250,7 +3250,7 @@ St. Theodora of Alexandria
 
 Where in your life do you want Jesus to help you love more like Him? Lord, You see what’s in my heart, even the things I try to hide. Help me to grow in the areas where I fall short. Change the way I think, speak, and act so that what overflows from my life reflects Your love. Saint Ailbhe,
 
-### Saint
+### Saint of the Day
 
 Saint Ailbhe
 
@@ -3274,7 +3274,7 @@ God created an imperfect world because if it was perfect, life would be so perfe
 
 Lord, You know the good, the bad, and the ugly in me. Thank You for still loving me. Saint Notburga,
 
-### Saint
+### Saint of the Day
 
 Saint Notburga
 
@@ -3290,7 +3290,7 @@ What are you carrying in your heart today? Say a prayer of surrender and place y
 
 Lord, grant me a heart that rests in quiet trust in You. Help me remember that every good gift in my life flows from Your hand. May I find true peace only in You, as I look to the Cross—my source of strength, hope, and unshakable peace. Amen.
 
-### Saint
+### Saint of the Day
 
 Our Lady of Sorrows
 
@@ -3322,7 +3322,7 @@ If you feel like you can’t move on from your sins, you are denying the power o
 
 Jesus, thank You for saving me, for the unlimited chances to return to You. Remind me that You never stop loving me. I want to return to You and live the best life in Your love and in Your arms. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Joseph of Cupertino
 
@@ -3358,7 +3358,7 @@ Is God calling you to minister to someone? Pray for them. Write down their names
 
 Lord, unworthy as I am, use me to show mercy to other people as You have shown mercy to me. Saint Matthew, Apostle,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Matthew,
 
@@ -3370,7 +3370,7 @@ Feast of Saint Matthew,
 
 “God resists the proud, but gives grace to the humble.” (James 4:6) Father, remove any trace of arrogance in my heart. Remind me always that everything comes from You. Amen. Saint Lioba,
 
-### Saint
+### Saint of the Day
 
 Saint Lioba
 
@@ -3382,7 +3382,7 @@ Saint Lioba
 
 How has God called you to do His mission? What personal or communal ministry are you called to be in? How do you help share His Word? Father, I thank You for the honor and privilege of working for You. You called me by my name and equipped me with all the graces I need to fulfill Your mission for us. Whenever I stumble, please be my strength and help me to stand up again. Amen. St. Padre Pio de Pietrelcina,
 
-### Saint
+### Saint of the Day
 
 St. Padre Pio de Pietrelcina
 
@@ -3394,7 +3394,7 @@ St. Padre Pio de Pietrelcina
 
 Do you really know Jesus? Do you seek Him with your whole heart or do you let distractions pull you away from Him? Lord, help me to have a burning desire to know You, love You, and serve You. May I always find time to be with You daily. Amen. St. Rupert of Salzburg,
 
-### Saint
+### Saint of the Day
 
 St. Rupert of Salzburg
 
@@ -3410,7 +3410,7 @@ If there were even a one percent chance that God would meet you there, would you
 
 Lord, for our dialogue. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Cleophas
 
@@ -3446,7 +3446,7 @@ Keep going back to Jesus because He wants your heart. Even if you run away from 
 
 “False scales are an abomination to the Lord, but an honest weight, His delight.” (Proverbs 11:1) Lord, help me to be like Nathanael. May I refuse to live in duplicity so that my words will always be aligned with my actions. Amen. Saints Michael, Gabriel, and Raphael, archangels,
 
-### Saint
+### Saint of the Day
 
 Feast of Saints Michael,
 
@@ -3462,7 +3462,7 @@ Letting go isn’t always easy, but I’m learning that when I do, His love meet
 
 Lord, help me trust You more deeply. Gently ease my doubts and fears, and give me the courage to follow You with an open heart. Let Your love lead me in every step I take. Amen.
 
-### Saint
+### Saint of the Day
 
 Memorial of Saint Jerome,
 
@@ -3486,7 +3486,7 @@ Jesus, virgin, Patroness of Missions,
 
 What parts of your life make you forget how much you depend on God? How can you become more humble and secure in your trust in Him? Dear God, teach me to trust in You. When overwhelmed with problems, may I rely on You and lean not on my own understanding. Amen. Guardian Angels,
 
-### Saint
+### Saint of the Day
 
 Memorial of the Just like Job, we have a limited
 
@@ -3502,7 +3502,7 @@ Who are the people who inspire you to live out your faith? How do you follow the
 
 Jesus, You are my joy. Give me the grace to submit to Your will. St. Mother Theodore Guérin,
 
-### Saint
+### Saint of the Day
 
 St. Mother Theodore Guérin
 
@@ -3514,7 +3514,7 @@ St. Mother Theodore Guérin
 
 Jesus already gave His life for you. What is still making you anxious? Father, thank You for sending Your Son, Jesus. Today, I renew my trust in Him and offer to You all my worries and fears. Amen. St. Francis of Assisi,
 
-### Saint
+### Saint of the Day
 
 St. Francis of Assisi
 
@@ -3542,7 +3542,7 @@ Can you say that others praise God because of the transformation ongoing in your
 
 What do you want Jesus to teach you today? Lord, help me to seek You first. Teach me to pray, to listen, and to trust in You completely. Open my heart to see Your presence in my life. Amen. Our Lady of the Holy Rosary,
 
-### Saint
+### Saint of the Day
 
 Our Lady of the Holy Rosary
 
@@ -3558,7 +3558,7 @@ Are you asking God for something? Are you ready if God says no, or if He delays 
 
 God, grant me the grace to ask of You and to surrender to Your will if what I ask is truly good for me. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Benedicta
 
@@ -3570,7 +3570,7 @@ Saint Benedicta
 
 What Catholic teaching do you reject because you don’t fully understand or dislike it? Jesus, please give me the grace to transform my life so that I will fully glorify You. Amen. Saint Denis and companions,
 
-### Saint
+### Saint of the Day
 
 Saint Denis and companions
 
@@ -3582,7 +3582,7 @@ Saint Denis and companions
 
 What kind of relationship do you have with God? What do your prayers consist of? Perhaps it’s time to just be still in His presence and let Him love you. I praise and thank You, Lord, for Your unconditional love. Teach me every day how to just be still in Your love and presence. Remind me that I only have to believe in You and receive Your love. I am already saved. Amen. St. Francis Borgia,
 
-### Saint
+### Saint of the Day
 
 St. Francis Borgia
 
@@ -3598,7 +3598,7 @@ Remember the times when you almost gave up, but God saved you.
 
 Jesus, our Savior, thank You for giving us the strength to persevere and endure when things become difficult. Today, may You be our inspiration to keep moving forward. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Placidia
 
@@ -3610,7 +3610,7 @@ Saint Placidia
 
 How do you let go of your worries and desires in this materialistic world? Lord, all that I have and all that I am come from You. You have loved and cared for me since the beginning. I let go of things to come because I trust in You. Amen. St. Edwin of Northumbria,
 
-### Saint
+### Saint of the Day
 
 St. Edwin of Northumbria
 
@@ -3622,7 +3622,7 @@ St. Edwin of Northumbria
 
 “Spread love everywhere you go. Let no one ever come to you without leaving happier.” (St. Teresa of Calcutta) Holy Spirit, please fill my heart with Your presence. May I be a channel of Your love and mercy today. Saint Romulus,
 
-### Saint
+### Saint of the Day
 
 Saint Romulus
 
@@ -3658,7 +3658,7 @@ Are you a pretentious talker or an authentic witness? Lord, I know I’m not per
 
 Lord, help us be truthful and committed to our promise to love You all the time. Saint Gerard Majella,
 
-### Saint
+### Saint of the Day
 
 Saint Gerard Majella
 
@@ -3694,7 +3694,7 @@ Jesus, help me to practice these virtues in my daily life, especially in situati
 
 What sacrifice are you being called to make to bring healing in your family? Jesus, give me the courage to lead and the love to make the sacrifice so that my family can heal. Amen. Saint Isaac Jogues and companions,
 
-### Saint
+### Saint of the Day
 
 Saint Isaac Jogues and companions
 
@@ -3706,7 +3706,7 @@ Saint Isaac Jogues and companions
 
 Do you strive to cultivate a heart that is pleasing to God—one that’s ready to serve and love unconditionally? Lord, make me mindful of my sinfulness. Clothe my heart with mercy, compassion, and selflessness as I strive to worship and serve You in my daily life. St. Paul of the Cross,
 
-### Saint
+### Saint of the Day
 
 St. Paul of the Cross
 
@@ -3718,7 +3718,7 @@ St. Paul of the Cross
 
 If the Lord decides to call you today, are you ready? Lord, You know we are weak. Grant me and my family the grace to be ready so we can spend eternal life with You. Amen. Saint Hilarion,
 
-### Saint
+### Saint of the Day
 
 Saint Hilarion
 
@@ -3734,7 +3734,7 @@ If we profess to be followers of Jesus, then we know that crucifixion is an even
 
 Lord Jesus, grant me the courage and wisdom to respond to the challenging issues of this day, fostering love, justice, and the truth. St. Pope John Paul II,
 
-### Saint
+### Saint of the Day
 
 St. Pope John Paul II
 
@@ -3754,7 +3754,7 @@ In your own household and company, what have you done to help those who have les
 
 You are never on your own because you have your heavenly family. Call on the saints, angels, and all who’ve gone before you in faith. Let their prayers accompany yours today. Saints in heaven,
 
-### Saint
+### Saint of the Day
 
 Saints in heaven
 
@@ -3766,7 +3766,7 @@ Saints in heaven
 
 What stops you from entrusting your heart to God? Lord God, teach me to love You. Amen. Saints Crispin and Crispinian,
 
-### Saint
+### Saint of the Day
 
 Saints Crispin and Crispinian
 
@@ -3778,7 +3778,7 @@ Saints Crispin and Crispinian
 
 What do you want God to set you free from? Lord, please set me free from the burdens that weigh me down. Help me to trust in Your power. Let Your hope and peace fill my heart, guiding me back to the life You have envisioned for me. Amen. St. Alfred the Great,
 
-### Saint
+### Saint of the Day
 
 St. Alfred the Great
 
@@ -3790,7 +3790,7 @@ St. Alfred the Great
 
 “Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.” (Proverbs 3:3) Lord, may our love for each other be a mirror of the love You have for us, a love that sacrificed even life itself. Saint Florentius,
 
-### Saint
+### Saint of the Day
 
 Saint Florentius
 
@@ -3802,7 +3802,7 @@ Saint Florentius
 
 “Don’t worry about anything, instead pray about everything.” (Philippians 4:6) Thank You, Lord, for answered prayers. Remind me to run to You always in times of sorrow, anxiety, and joy. Saints Simon and Jude, Apostles,
 
-### Saint
+### Saint of the Day
 
 Feast of Saints Simon
 
@@ -3814,7 +3814,7 @@ Feast of Saints Simon
 
 “For as Christ’s sufferings overflow to us, so through Christ does our encouragement also overflow.” (2 Corinthians 1:5) Lord, in my darkest moments, remind me that You are my refuge. Be my strength, my shield, and my peace. St. Narcissus of Jerusalem,
 
-### Saint
+### Saint of the Day
 
 St. Narcissus of Jerusalem
 
@@ -3826,7 +3826,7 @@ St. Narcissus of Jerusalem
 
 What painful situations has the Lord engineered to make you more like Him? Are you letting Him shape you? Take me. Mold me. Use me and fill me. I give my life as clay to You, my Great Potter. St. Alphonsus Rodriguez,
 
-### Saint
+### Saint of the Day
 
 St. Alphonsus Rodriguez
 
@@ -3838,7 +3838,7 @@ St. Alphonsus Rodriguez
 
 In what areas of your life are you tempted to seek recognition or control, rather than humbly trusting God to position and use you in His time and His way? God, keep my heart free from pride and my eyes fixed on what truly matters. Shape me in the quiet so I can be faithful in the calling. Amen. St. Wolfgang of Regensburg,
 
-### Saint
+### Saint of the Day
 
 St. Wolfgang of Regensburg
 
@@ -3850,7 +3850,7 @@ St. Wolfgang of Regensburg
 
 “It is better to be a child of God than king of the whole world.” (St. Aloysius Gonzaga) Dear Lord, help me to always remember that You made me a giant, that You love me in a gigantic way. Thank You for Your love, Lord. Amen. All Saints,
 
-### Saint
+### Saint of the Day
 
 Solemnity of All Saints
 
@@ -3890,7 +3890,7 @@ Have you allowed other commitments to outweigh the honor of being part of His Ki
 
 God seeks you out because you matter to Him. Thank You, Lord, for letting me know that I am counted. Amen. Saint Elizabeth,
 
-### Saint
+### Saint of the Day
 
 Saint Elizabeth
 
@@ -3902,7 +3902,7 @@ Saint Elizabeth
 
 We all came into this world with nothing. How can you use your God-given gifts so His name will be glorified? Lord, teach me to be wise with everything You gave. Allow me to appreciate that eternal rewards are greater than any earthly possessions I have. Amen. St. Joseph Khang,
 
-### Saint
+### Saint of the Day
 
 St. Joseph Khang
 
@@ -3914,7 +3914,7 @@ St. Joseph Khang
 
 What has God entrusted you with today? What “more” are you praying for? Lord, help me embrace my responsibilities with love. Strengthen me to serve with joy and trust in Your perfect plan. Amen. Saint Engelbert,
 
-### Saint
+### Saint of the Day
 
 Saint Engelbert
 
@@ -3926,7 +3926,7 @@ Saint Engelbert
 
 Think about it now. How are you spending your “dash”? Dear God, thank You for my life. May I live it with love for You and for others, so that when my time comes, I will continue loving You and being loved by You forever. Amen. Saint Castorius,
 
-### Saint
+### Saint of the Day
 
 Saint Castorius
 
@@ -3942,7 +3942,7 @@ Saint Castorius
 
 Lord, bring my faith to life so that I can influence others for You. Saint Benignus,
 
-### Saint
+### Saint of the Day
 
 Saint Benignus
 
@@ -3994,7 +3994,7 @@ God is not deaf to the deep desires you have been praying for. Keep praying. God
 
 Lord, when my spirit flags, help me to pray without ceasing. Saint Clementinus,
 
-### Saint
+### Saint of the Day
 
 Saint Clementinus
 
@@ -4018,7 +4018,7 @@ What challenges are you facing now? Ask the Lord for discernment to determine ho
 
 Jesus, please increase my faith. I want to see Your will for me. St. Margaret of Scotland,
 
-### Saint
+### Saint of the Day
 
 St. Margaret of Scotland
 
@@ -4038,7 +4038,7 @@ Do you stop, see, and stay to love and serve God’s people? Lord, may I imitate
 
 God wants to give you only the best. But are you doing your part in being faithful in the small virtuous habits each day? Father, in the daily grind of life and in the small and seemingly insignificant moments, may I always choose to be Your instrument of love. Amen. Saint Anselm,
 
-### Saint
+### Saint of the Day
 
 Saint Anselm
 
@@ -4050,7 +4050,7 @@ Saint Anselm
 
 To hope in the Filipino and serve the Filipino, what is God asking you to do today? Jesus, You made sure I was born a Filipino and You have a special mission for me. May I discover this mission and fulfill it. Amen. Saint Mechtildis,
 
-### Saint
+### Saint of the Day
 
 Saint Mechtildis
 
@@ -4062,7 +4062,7 @@ Saint Mechtildis
 
 Whose temple are you building—yours or the Lord’s? Lord, keep me humble before Your greatness, for You rule over heaven and earth. St. Edmund Rich,
 
-### Saint
+### Saint of the Day
 
 St. Edmund Rich
 
@@ -4078,7 +4078,7 @@ Whose souls are you inspired to pray for today? Spend some moments of silence an
 
 God, rest in peace. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Gelasius
 
@@ -4094,7 +4094,7 @@ Let the certainty that Jesus has defeated death bring comfort to you who fear lo
 
 Lord, when I fear losing those I love, remind me that in You, death is not the end. Help me trust Your promise of eternal life. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Cecilia
 
@@ -4110,7 +4110,7 @@ Today’s Gospel is short, but in its simplicity, it holds a powerful truth: God
 
 Jesus, help me be like the widow—willing to give even from the little I have. Send me those who need Your loving help. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Columban
 
@@ -4126,7 +4126,7 @@ Don’t let your pride and fear of getting hurt hinder you from receiving God’
 
 Father, when I am lost and my strength is depleted, lead me back to You. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Andrew Dung-Lac
 
@@ -4142,7 +4142,7 @@ The roles you play may change with the seasons of your life but they are part of
 
 Father, thank You for the purpose You’ve woven into every season of my life. As I face the challenges of aging, help me to continue to walk in Your will and fulfill my calling with grace and courage. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Catherine of Alexandria
 
@@ -4158,7 +4158,7 @@ St. Catherine of Alexandria
 
 Lord, let us live in a way that we can “stand erect and raise (our) heads because (our) redemption is at hand” (Luke 21:28). Saint Conrad,
 
-### Saint
+### Saint of the Day
 
 Saint Conrad
 
@@ -4174,7 +4174,7 @@ We prepare when we are to meet someone important. We don’t laze away.
 
 Jesus is coming! How are you preparing for His return? Are you working on your relationships—with Him and others? Jesus, help me to become a better reflection of Your love in my workplace, school, business, and household. May I become a better reflection of Your face as I prepare for Your coming. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Severinus
 
@@ -4190,7 +4190,7 @@ If you knew that Jesus was coming today, would it change the way you live, love,
 
 Lord, may my heart be always free to follow and do Your will. Help me live, love, and serve according to Your example. St. James of the Marches,
 
-### Saint
+### Saint of the Day
 
 St. James of the Marches
 
@@ -4202,7 +4202,7 @@ St. James of the Marches
 
 “Use the gifts you have received, and pass on the love that has been given to you.” (St. Therese of Lisieux) Lord, thank You for the gift of the Holy Spirit. Help me to use the gifts from the Holy Spirit to build Your Kingdom, bless Your people, and give glory to Your name. Amen. Saint Philomenus,
 
-### Saint
+### Saint of the Day
 
 Saint Philomenus
 
@@ -4214,7 +4214,7 @@ Saint Philomenus
 
 How do you express your faith in your daily life? Father, may my life reflect my faith, demonstrate my hope, and radiate my love. Amen. Saint Andrew, Apostle,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Andrew,
 
@@ -4230,7 +4230,7 @@ God is always at work in you. You just need to open the eyes of your heart to se
 
 Lord, that I may see You and hear You in the ordinary and extraordinary events of my life. Amen.
 
-### Saint
+### Saint of the Day
 
 Blessed Charles de Foucauld
 
@@ -4242,7 +4242,7 @@ Blessed Charles de Foucauld
 
 What are you doing to alleviate the plight of your unfortunate brothers and sisters? Dear God, may my eyes be opened to the urgency of doing something for my brethren. May I be a channel of Your blessings to the least, the last, and the lost. Amen. Saint Eusebius,
 
-### Saint
+### Saint of the Day
 
 Saint Eusebius
 
@@ -4278,7 +4278,7 @@ Do you find it difficult to forgive yourself and others for faults and shortcomi
 
 Lord, help me develop the compassion and empathy to forgive myself and others, and to constructively learn from life’s difficulties and challenges. Saint Sabas,
 
-### Saint
+### Saint of the Day
 
 Saint Sabas
 
@@ -4298,7 +4298,7 @@ God has a divine plan and timing for each of our lives. Do you have enough faith
 
 Who are the people that God sends your way today? Lord, thank You for always making a way. Help me to see Your hand in my life and to be a source of Your love for others. Amen. St. Maria Giuseppe Rossello,
 
-### Saint
+### Saint of the Day
 
 St. Maria Giuseppe Rossello
 
@@ -4310,7 +4310,7 @@ St. Maria Giuseppe Rossello
 
 Today, challenge yourself to declare like Mama Mary, “I am the Lord’s servant. May your word to me be fulfilled.” “Hail Mary, full of grace, the Lord is with you, blessed are you among women, and blessed is the fruit of your womb, Jesus.” Blessed Virgin Mary,
 
-### Saint
+### Saint of the Day
 
 Blessed Virgin Mary
 
@@ -4322,7 +4322,7 @@ Blessed Virgin Mary
 
 “Where were you when I laid the foundations of the earth? What supports its foundations, and who laid its cornerstone as the morning stars sang together and all the angels shouted for joy?” (Job 38:4-7) You made the stars in the sky and You call them by name. You are amazing, God! (“Indescribable,” Chris Tomlin) St. Juan Diego,
 
-### Saint
+### Saint of the Day
 
 St. Juan Diego
 
@@ -4338,7 +4338,7 @@ The devil is the father of all lies. Let the truth of Jesus dispel the deception
 
 Jesus, in this world filled with lies and deception, help me discern what’s good and true. Give me Your wisdom and lead me by Your Spirit. Pope Saint Gregory III,
 
-### Saint
+### Saint of the Day
 
 Saint Gregory III
 
@@ -4358,7 +4358,7 @@ What hinders you from surrendering completely to the Father’s will for you? Ho
 
 “From Mary, we learn to surrender to God’s will in all things. From Mary, we learn to trust even when all hope seems gone.” (Saint John Paul II) “Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord. Amen.” Our Lady of Guadalupe,
 
-### Saint
+### Saint of the Day
 
 Our Lady of Guadalupe
 
@@ -4398,7 +4398,7 @@ Before you ask God what He wants, ask yourself first. In knowing Your perfect wi
 
 Lord, may I know myself even more. Amen.
 
-### Saint
+### Saint of the Day
 
 St. Paul of Latos
 
@@ -4410,7 +4410,7 @@ St. Paul of Latos
 
 “The people that tell you what you want to hear are the most dangerous enemies you’ll ever meet.” (Rachel E. Carter) Lord, I know people say things that I want to hear but are not really what’s true in their hearts. Give me the wisdom, patience, and love to discern Your truth. Saint Albina,
 
-### Saint
+### Saint of the Day
 
 Saint Albina
 
@@ -4426,7 +4426,7 @@ God’s sovereignty can work through human imperfection, weakness, and even our 
 
 Jesus, use my brokenness to bring wholeness to the multitudes. Saint Florian,
 
-### Saint
+### Saint of the Day
 
 Saint Florian
 
@@ -4442,7 +4442,7 @@ Saint Florian
 
 Jesus, I believe. Help my unbelief. Saint Desideratus,
 
-### Saint
+### Saint of the Day
 
 Saint Desideratus
 
@@ -4454,7 +4454,7 @@ Saint Desideratus
 
 In this season of Advent, how does God want you to journey through silence? Jesus, give me the grace to be silent—to simply enjoy You coming more into my life this season. Amen. Saint Darius,
 
-### Saint
+### Saint of the Day
 
 Saint Darius
 
@@ -4466,7 +4466,7 @@ Saint Darius
 
 God’s perfect answer sometimes takes the gory appearance of the Cross. Will you still trust Him? Father, please help me see that You are with me even in those moments when I do not feel Your favor upon me. Help me remember that Your blessings may look different from what I expect, but they are always for my good. Saint Julius,
 
-### Saint
+### Saint of the Day
 
 Saint Julius
 
@@ -4494,7 +4494,7 @@ What stories will you share with the next generation, and what will make them sa
 
 Lord, for Your faithfulness through the years. Saint Flavian,
 
-### Saint
+### Saint of the Day
 
 Saint Flavian
 
@@ -4518,7 +4518,7 @@ Have you seen how good the Father is? Thank Him for all the blessings, especiall
 
 Jesus, thank You for coming into my life. You are my hope and Savior. May my life be a song of praise to You. Saint Adele,
 
-### Saint
+### Saint of the Day
 
 Saint Adele
 
@@ -4530,7 +4530,7 @@ Saint Adele
 
 What is one thing you can do today to thank and celebrate Jesus? Jesus, we love You. Thank You for the joy and hope You bring. May we come to know You in a deeper way today and every day. Amen. Saint Eugenia,
 
-### Saint
+### Saint of the Day
 
 Saint Eugenia
 
@@ -4542,7 +4542,7 @@ Saint Eugenia
 
 What courageous thing will you do for God today? Lord, help me to love and forgive like You do. May I have the boldness to stand up for my faith today. Amen. Saint Stephen, protomartyr,
 
-### Saint
+### Saint of the Day
 
 Feast of Saint Stephen,
 
@@ -4558,7 +4558,7 @@ Darkness obscures our view of God but it doesn’t dim His light.
 
 Jesus, let not my inability to understand Your ways stand in the way of my obedience to You. St. John the Apostle,
 
-### Saint
+### Saint of the Day
 
 St. John the Apostle
 
@@ -4574,7 +4574,7 @@ St. John the Apostle
 
 Lord, give me a pure, chaste, and sinless heart. Amen.
 
-### Saint
+### Saint of the Day
 
 Feast of the Holy
 
@@ -4598,7 +4598,7 @@ Don’t let the world trick you into choosing what’s fleeting and temporary.
 
 Lord, give me the courage to face up to the truth that will set me free. Help me to turn toward You and the beautiful life that You offer. St. Sabinus,
 
-### Saint
+### Saint of the Day
 
 St. Sabinus
 
@@ -4614,7 +4614,7 @@ There are doors of new miracles and blessings waiting for you to be opened. Ther
 
 Lord, thank You for Your grace this year. I wholeheartedly let go of the things that are not fruitful in my life so I can bear more fruit in abundance. Amen.
 
-### Saint
+### Saint of the Day
 
 Saint Sylvester
 
