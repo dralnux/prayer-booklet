@@ -1,9 +1,3 @@
-# DIDACHE 2026 - Daily Reflections
-
-Daily Bible reflections, prayers, and saints from the Didache devotional.
-
----
-
 ## 2026-01-01 — Blessings Like Lego
 
 ### Reflect
@@ -24,7 +18,15 @@ Mary, Mother of God
 
 ### Reflect
 
-What would your life look like if you made it less about yourself? Lord Jesus, hard as it may be, help me to live for You and discover how such a life leads to the fulfillment of greater goals, dreams, and plans You desire for me. Sts. Basil the Great and Gregory Nazianzen, bishops and Doctors of the Church,
+What would your life look like if you made it less about yourself?
+
+### Prayer
+
+Lord Jesus, hard as it may be, help me to live for You and discover how such a life leads to the fulfillment of greater goals, dreams, and plans You desire for me. Sts. Basil the Great and Gregory Nazianzen,
+
+### Saint of the Day
+
+bishops and Doctors of the Church
 
 ---
 
@@ -32,7 +34,11 @@ What would your life look like if you made it less about yourself? Lord Jesus, h
 
 ### Reflect
 
-How’s your prayer time and have you asked for guidance recently? Lord, thank you for the gift of prayer. It’s a constant reminder that we can always reach out to you. Amen. Saint Genevieve,
+How’s your prayer time and have you asked for guidance recently?
+
+### Prayer
+
+Lord, thank you for the gift of prayer. It’s a constant reminder that we can always reach out to you. Amen.
 
 ### Saint of the Day
 
@@ -44,7 +50,15 @@ Saint Genevieve
 
 ### Reflect
 
-How did you find Jesus last year? Where is He leading you this year? Father, help me find You as I navigate life. Cling to me so I may not go back to where I was before. Amen. St. Elizabeth Ann Seton, religious,
+How did you find Jesus last year? Where is He leading you this year?
+
+### Prayer
+
+Father, help me find You as I navigate life. Cling to me so I may not go back to where I was before. Amen.
+
+### Saint of the Day
+
+St. Elizabeth Ann Seton, religious
 
 ---
 
@@ -52,11 +66,15 @@ How did you find Jesus last year? Where is He leading you this year? Father, hel
 
 ### Reflect
 
-Do you show people that you care before you share what you know? Do you genuinely love the people you lead and nurture? Lord
+Do you show people that you care before you share what you know? Do you genuinely love the people you lead and nurture?
 
 ### Prayer
 
-Jesus, guide me to be like You. Help me to teach, lead, and mentor with compassion. St. John Neumann, bishop,
+Lord Jesus, guide me to be like You. Help me to teach, lead, and mentor with compassion.
+
+### Saint of the Day
+
+St. John Neumann, bishop
 
 ---
 
@@ -64,7 +82,15 @@ Jesus, guide me to be like You. Help me to teach, lead, and mentor with compassi
 
 ### Reflect
 
-“What you do makes a difference, and you have to decide what kind of difference you want to make.” (Jane Goodall) Lord Jesus, renew my strength to overcome my personal struggles. Gant me the grace to make a difference in the lives of others. Amen. Blessed André Bessette, religious,
+“What you do makes a difference, and you have to decide what kind of difference you want to make.” (Jane Goodall)
+
+### Prayer
+
+Lord Jesus, renew my strength to overcome my personal struggles. Gant me the grace to make a difference in the lives of others. Amen.
+
+### Saint of the Day
+
+Blessed André Bessette, religious
 
 ---
 
@@ -76,7 +102,11 @@ Jesus, guide me to be like You. Help me to teach, lead, and mentor with compassi
 
 ### Prayer
 
-Lord, teach me to love myself the right way. St. Raymond of Peñafort, priest,
+Lord, teach me to love myself the right way.
+
+### Saint of the Day
+
+St. Raymond of Peñafort, priest
 
 ---
 
@@ -84,7 +114,7 @@ Lord, teach me to love myself the right way. St. Raymond of Peñafort, priest,
 
 ### Reflect
 
-What have you been called and anointed to do? Do it. The Spirit of the Lord is upon you. “Come, Holy Spirit, I need You. Come, Holy Spirit, I pray. Come with Your strength and Your power. Come in Your own special way.” Saint Gudula,
+What have you been called and anointed to do? Do it. The Spirit of the Lord is upon you. “Come, Holy Spirit, I need You. Come, Holy Spirit, I pray. Come with Your strength and Your power. Come in Your own special way.”
 
 ### Saint of the Day
 
@@ -100,11 +130,11 @@ Troubled? Unplug and be still in God’s presence. Silence the world’s noise s
 
 ### Prayer
 
-Lord, detach me from the gadgets, hyperactivity, and busyness of my life when I need to quiet my heart and connect with Yours. St. Adrian of Canterbury, priest,
+Lord, detach me from the gadgets, hyperactivity, and busyness of my life when I need to quiet my heart and connect with Yours.
 
 ### Saint of the Day
 
-Feast of Our Lord Jesus
+St. Adrian of Canterbury, priest
 
 ---
 
@@ -112,7 +142,11 @@ Feast of Our Lord Jesus
 
 ### Reflect
 
-In what areas of your life do you need to decrease so that Christ may increase? Lord, in whatever I do or say, may it be always less of me but more of You, so I may give back all the glory to You. Amen. St. John Camillus the Good,
+In what areas of your life do you need to decrease so that Christ
+
+### Prayer
+
+may increase? Lord, in whatever I do or say, may it be always less of me but more of You, so I may give back all the glory to You. Amen.
 
 ### Saint of the Day
 
@@ -128,7 +162,7 @@ If someone were to give a “review” of your life, would they see a testimony 
 
 ### Prayer
 
-Lord, make me a strong endorser of Your love through the life I live. Blessed William Carter,
+Lord, make me a strong endorser of Your love through the life I live.
 
 ### Saint of the Day
 
@@ -140,7 +174,15 @@ Blessed William Carter
 
 ### Reflect
 
-In what areas of your life are you not following God’s call at once? Lord, today I let go of my old nets. I commit to follow You at once. St. Marguerite Boureoys, virgin,
+In what areas of your life are you not following God’s call at once?
+
+### Prayer
+
+Lord, today I let go of my old nets. I commit to follow You at once.
+
+### Saint of the Day
+
+St. Marguerite Boureoys, virgin
 
 ---
 
@@ -164,11 +206,11 @@ St. Hilary of Poiters
 
 ### Reflect
 
-How do you quiet your heart as you pray and listen to the Lord? May I always hear Your voice,
+How do you quiet your heart as you pray and listen to the Lord?
 
 ### Prayer
 
-Lord, as I come before You in silence. Amen.
+May I always hear Your voice, Lord, as I come before You in silence. Amen.
 
 ### Saint of the Day
 
@@ -178,13 +220,13 @@ St. Felix of Nola
 
 ## 2026-01-15 — If You Want To . . .
 
-### Reflect
+### Prayer
 
-God longs to bless you with good things, but are you ready to receive His version of what you want? Lord, I am asking again. I will persist, but I won’t insist. Whatever You have for me, I will not resist. St. Paul the Hermit,
+God longs to bless you with good things, but are you ready to receive His version of what you want? Lord, I am asking again. I will persist, but I won’t insist. Whatever You have for me, I will not resist.
 
 ### Saint of the Day
 
-st. St. Paul the Hermit
+St. Paul the Hermit
 
 ---
 
@@ -196,7 +238,7 @@ st. St. Paul the Hermit
 
 ### Prayer
 
-Jesus, I trust in you. Increase my faith. Saint Joseph Vaz,
+Jesus, I trust in you. Increase my faith.
 
 ### Saint of the Day
 
@@ -212,7 +254,11 @@ Saint Joseph Vaz
 
 ### Prayer
 
-Lord, before You, none of us are great, powerful, or mighty. We bow before Your majesty. Saint Anthony, abbot,
+Lord, before You, none of us are great, powerful, or mighty. We bow before Your majesty.
+
+### Saint of the Day
+
+Saint Anthony, abbot
 
 ---
 
@@ -236,7 +282,11 @@ St. Jaime Hilario Barbel
 
 ### Reflect
 
-What old habits do you need to stop? What new habits do you need to start? Jesus, give me the grace to begin a new journey this year, with a little step toward a new and beautiful habit. Amen. Saint Fillan,
+What old habits do you need to stop? What new habits do you need to start?
+
+### Prayer
+
+Jesus, give me the grace to begin a new journey this year, with a little step toward a new and beautiful habit. Amen.
 
 ### Saint of the Day
 
@@ -254,6 +304,10 @@ How often do you find yourself prioritizing your own schedules and plans over th
 
 Lord, may I see You in the faces of the poor and respond with compassion, knowing that in serving others, I serve You. Amen.
 
+### Saint of the Day
+
+Saint Sebastian, martyr
+
 ---
 
 ## 2026-01-21 — When Nothing Moves
@@ -266,13 +320,25 @@ What struggles do you have—in yourself and in your relationships? Bring them t
 
 God, my Savior, save me from ____________. I trust that You will win it for me. Amen.
 
+### Saint of the Day
+
+Saint Agnes, martyr
+
 ---
 
 ## 2026-01-22 — Green With Envy
 
 ### Reflect
 
-“Rid yourselves of all malice and all deceit, insincerity, envy, and all slander.” (1 Peter 2:1) Father, help me trust in Your plans. When I am overcome by fear and envy, remind me that You are for me and Your love is fair. Amen. Saint Vincent, deacon and martyr,
+“Rid yourselves of all malice and all deceit, insincerity, envy, and all slander.” (1 Peter 2:1)
+
+### Prayer
+
+Father, help me trust in Your plans. When I am overcome by fear and envy, remind me that You are for me and Your love is fair. Amen.
+
+### Saint of the Day
+
+Saint Vincent, deacon and martyr
 
 ---
 
@@ -296,7 +362,15 @@ St. Marianne Cope
 
 ### Reflect
 
-Are you putting to good use the blessings you enjoy? Father, for the many times I take Your blessings for granted, disregard the guidance of the people who care for me, and ignore You—have mercy and forgive me. Amen. St. Francis de Sales, bishop and Doctor of the Church,
+Are you putting to good use the blessings you enjoy?
+
+### Prayer
+
+Father, for the many times I take Your blessings for granted, disregard the guidance of the people who care for me, and ignore You—have mercy and forgive me. Amen.
+
+### Saint of the Day
+
+St. Francis de Sales, bishop and Doctor of the Church
 
 ---
 
@@ -324,23 +398,23 @@ St. Peter Thomas
 
 ### Prayer
 
-Lord, may all those who come behind us find us faithful. Saints Timothy and Titus, bishops,
+Lord, may all those who come behind us find us faithful.
 
 ### Saint of the Day
 
-Memorial of Saints when I was 14, she took me to a Life
+Saints Timothy and Titus, bishops
 
 ---
 
 ## 2026-01-27 — Boom, Gising!
 
-### Reflect
-
-God’s family is not defined by blood relations but by those who do the will of God. If we want to follow Jesus, we need to follow Him all the way.
-
 ### Prayer
 
-Lord, teach me to have a humble heart so I may follow You. Amen.
+God’s family is not defined by blood relations but by those who do the will of God. If we want to follow Jesus, we need to follow Him all the way. Lord, teach me to have a humble heart so I may follow You. Amen.
+
+### Saint of the Day
+
+St. Angela Merici, virgin
 
 ---
 
@@ -348,7 +422,15 @@ Lord, teach me to have a humble heart so I may follow You. Amen.
 
 ### Reflect
 
-“Although the life of a person is full of thorns and weeds, there is always a space in which the good seed can grow. You have to trust God in this.” (Pope Francis) Heavenly Father, take away the thorns and weeds that have grown in my heart. Make it fertile soil in which to sow Your Word so it may grow and bear abundant fruit. St. Thomas Aquinas, priest and Doctor of the Church,
+“Although the life of a person is full of thorns and weeds, there is always a space in which the good seed can grow. You have to trust
+
+### Prayer
+
+God in this.” (Pope Francis) Heavenly Father, take away the thorns and weeds that have grown in my heart. Make it fertile soil in which to sow Your Word so it may grow and bear abundant fruit.
+
+### Saint of the Day
+
+St. Thomas Aquinas, priest and Doctor of the Church
 
 ---
 
@@ -356,7 +438,11 @@ Lord, teach me to have a humble heart so I may follow You. Amen.
 
 ### Reflect
 
-How has God’s grace carried you through? Lord, thank You for bringing me this far. Help me trust Your grace and rest in Your call. Saint Blath,
+How has God’s grace carried you through?
+
+### Prayer
+
+Lord, thank You for bringing me this far. Help me trust Your grace and rest in Your call.
 
 ### Saint of the Day
 
@@ -368,7 +454,11 @@ Saint Blath
 
 ### Reflect
 
-What little things have you sown that have borne beautiful fruit? What can you start today? Lord, I say yes to all the mustard seeds You’ve caused to bear fruit in my life for Your glory and praise. Amen. St. Savina of Milan,
+What little things have you sown that have borne beautiful fruit? What can you start today?
+
+### Prayer
+
+Lord, I say yes to all the mustard seeds You’ve caused to bear fruit in my life for Your glory and praise. Amen.
 
 ### Saint of the Day
 
@@ -384,7 +474,11 @@ What has been disturbing your heart recently? Your emotions are valid. Feel it. 
 
 ### Prayer
 
-Lord, I humbly ask, calm the storms in my life. Quiet my heart. Grant me the grace to be still. St. John Bosco, priest,
+Lord, I humbly ask, calm the storms in my life. Quiet my heart. Grant me the grace to be still.
+
+### Saint of the Day
+
+St. John Bosco, priest
 
 ---
 
@@ -392,7 +486,11 @@ Lord, I humbly ask, calm the storms in my life. Quiet my heart. Grant me the gra
 
 ### Reflect
 
-How is God calling you to be a white martyr for Him? Lord, give me the grace to serve You in ways You are calling me to, no matter how difficult. St. Brigid of Ireland,
+How is God calling you to be a white martyr for Him?
+
+### Prayer
+
+Lord, give me the grace to serve You in ways You are calling me to, no matter how difficult.
 
 ### Saint of the Day
 
@@ -404,7 +502,11 @@ St. Brigid of Ireland
 
 ### Reflect
 
-What is God’s Spirit asking you to do today? Lord, help me to silence the noise around me so I can hear You. Move in my heart and guide me in Your ways. Amen. St. Joan de Lestonnac,
+What is God’s Spirit asking you to do today?
+
+### Prayer
+
+Lord, help me to silence the noise around me so I can hear You. Move in my heart and guide me in Your ways. Amen.
 
 ### Saint of the Day
 
@@ -420,7 +522,11 @@ Allow God to answer your plea in the timing and version you truly need.
 
 ### Prayer
 
-Lord, forgive me for the times I doubted Your timing and questioned Your ways. When others receive their blessings ahead of me, remind me that You also have a miracle intended for me. Saint Blaise, bishop and martyr,
+Lord, forgive me for the times I doubted Your timing and questioned Your ways. When others receive their blessings ahead of me, remind me that You also have a miracle intended for me.
+
+### Saint of the Day
+
+Saint Blaise, bishop and martyr
 
 ---
 
@@ -428,7 +534,11 @@ Lord, forgive me for the times I doubted Your timing and questioned Your ways. W
 
 ### Reflect
 
-How do you respond to rejection or criticism? Are you open to seeing God’s work in unexpected people or circumstances? My Jesus, help me discern Your will every day. Help me grow in faith, humility, and love as I face challenges and rejections. Amen. St. Joseph of Leonissa,
+How do you respond to rejection or criticism? Are you open to seeing God’s work in unexpected people or circumstances?
+
+### Prayer
+
+My Jesus, help me discern Your will every day. Help me grow in faith, humility, and love as I face challenges and rejections. Amen.
 
 ### Saint of the Day
 
@@ -440,7 +550,15 @@ St. Joseph of Leonissa
 
 ### Reflect
 
-What unnecessary thing must you die to so that you may live God’s abundant life? Lord, teach me to live simply and walk humbly with You. Saint Agatha, virgin and martyr,
+What unnecessary thing must you die to so that you may live
+
+### Prayer
+
+God’s abundant life? Lord, teach me to live simply and walk humbly with You.
+
+### Saint of the Day
+
+Saint Agatha, virgin and martyr
 
 ---
 
@@ -448,7 +566,15 @@ What unnecessary thing must you die to so that you may live God’s abundant lif
 
 ### Reflect
 
-What do you see when you look in the mirror? What should you change? Lord, help me change the areas in my life that I want to change but can’t do on my own. Amen. Saint Paul Miki and Companions, martyrs,
+What do you see when you look in the mirror? What should you change?
+
+### Prayer
+
+Lord, help me change the areas in my life that I want to change but can’t do on my own. Amen.
+
+### Saint of the Day
+
+Saint Paul Miki and Companions, martyrs
 
 ---
 
@@ -460,7 +586,7 @@ Spend a few minutes in prayer today, but allow space to listen to Him.
 
 ### Prayer
 
-Lord, You know the innermost desires of my heart. I offer them fervently to You, and I open myself to Your plans and blessings. Blessed Pius IX,
+Lord, You know the innermost desires of my heart. I offer them fervently to You, and I open myself to Your plans and blessings.
 
 ### Saint of the Day
 
@@ -472,11 +598,11 @@ Blessed Pius IX
 
 ### Reflect
 
-Are you guilty of proclaiming your good deeds? Who are you proclaiming it for—yourself, or to glorify God? Father in heaven, grant me the grace to shine the light of Your Son,
+Are you guilty of proclaiming your good deeds? Who are you proclaiming it for—yourself, or to glorify God?
 
 ### Prayer
 
-Jesus, and proclaim Your glory. Amen.
+Father in heaven, grant me the grace to shine the light of Your Son, Jesus, and proclaim Your glory. Amen.
 
 ### Saint of the Day
 
@@ -488,7 +614,11 @@ St. Josephine Bakhita
 
 ### Reflect
 
-How desperate are you to receive God’s healing and miracles? Jesus, I need Your help. Can You heal me? Amen. Blessed Anne Catherine Emmerick,
+How desperate are you to receive God’s healing and miracles?
+
+### Prayer
+
+Jesus, I need Your help. Can You heal me? Amen.
 
 ### Saint of the Day
 
@@ -506,13 +636,21 @@ As you work on your interior life, focus more on the Lord rather than yourself.
 
 Lord, You know me better than I know myself. You have always loved me for who I am. Yet, You are not content to leave me as I am. You want me to grow and become greater today than I was yesterday. Help me, Lord. Journey with me as I work on myself from the inside out. Amen.
 
+### Saint of the Day
+
+Saint Scholastica, virgin
+
 ---
 
 ## 2026-02-11 — Check Your Heart
 
 ### Reflect
 
-Today, why not swap some of your social media time for prayer? Lord Jesus, fill my mind and heart with godly things, so that all I say and do may glorify You. Amen. Our Lady of Lourdes,
+Today, why not swap some of your social media time for prayer?
+
+### Prayer
+
+Lord Jesus, fill my mind and heart with godly things, so that all I say and do may glorify You. Amen.
 
 ### Saint of the Day
 
@@ -522,13 +660,9 @@ Our Lady of Lourdes
 
 ## 2026-02-12 — Grace At Your Lowest
 
-### Reflect
-
-God’s grace is available to all who seek it, especially in times of need.
-
 ### Prayer
 
-Lord Jesus, please remind us that Your grace can lift us, no matter how low we feel. Your will be done. Amen.
+God’s grace is available to all who seek it, especially in times of need. Lord Jesus, please remind us that Your grace can lift us, no matter how low we feel. Your will be done. Amen.
 
 ### Saint of the Day
 
@@ -540,11 +674,11 @@ Saint Julian
 
 ### Reflect
 
-“We are such value to God that He came to live among us. . . . He will go to any length to seek us, even to being lifted high upon the cross to draw us back to Himself. We can only respond by loving God for His love.” (Saint Catherine of Siena)
+“We are such value to God that He came to live among us. . . . He will go to any length to seek us, even to being lifted high upon the cross to draw us back to Himself. We can only respond by loving
 
 ### Prayer
 
-Lord, help me to see the different ways by which You want to communicate with me, especially through ordinary things and situations. St. Catherine de Ricci,
+God for His love.” (Saint Catherine of Siena) Lord, help me to see the different ways by which You want to communicate with me, especially through ordinary things and situations.
 
 ### Saint of the Day
 
@@ -562,17 +696,17 @@ Let God’s unconditional love satisfy your hunger that food, material things, o
 
 Jesus, please give me today my daily bread. Teach me to always rely on You for my daily sustenance. Amen.
 
+### Saint of the Day
+
+Saints Cyril and Methodius, bishops
+
 ---
 
 ## 2026-02-15 — Adventure Of A Lifetime
 
 ### Reflect
 
-The world’s idea of a colorful life pales in comparison to God’s. Adventure for me,
-
-### Prayer
-
-Lord, is to walk with You each day. Amen.
+The world’s idea of a colorful life pales in comparison to God’s. Adventure for me, Lord, is to walk with You each day. Amen.
 
 ### Saint of the Day
 
@@ -584,7 +718,7 @@ St. Claude la Colombiere
 
 ### Reflect
 
-“The Spirit comes with the tenderness of a true friend and protector to save, to heal, to teach, to counsel, to strengthen, to console.” (St. Cyril of Jerusalem) “Creator of all things, true Source of light and wisdom . . . give me a sharp sense of understanding . . . and the ability to grasp things correctly and fundamentally.” (St. Thomas Aquinas) Saint Onesimus,
+“The Spirit comes with the tenderness of a true friend and protector to save, to heal, to teach, to counsel, to strengthen, to console.” (St. Cyril of Jerusalem) “Creator of all things, true Source of light and wisdom . . . give me a sharp sense of understanding . . . and the ability to grasp things correctly and fundamentally.” (St. Thomas Aquinas)
 
 ### Saint of the Day
 
@@ -594,13 +728,9 @@ Saint Onesimus
 
 ## 2026-02-17 — Don’T Forget!
 
-### Reflect
-
-May you not forget how good God is when He answers your prayer.
-
 ### Prayer
 
-Lord, may I never forget Your faithfulness and mercy. Amen.
+May you not forget how good God is when He answers your prayer. Lord, may I never forget Your faithfulness and mercy. Amen.
 
 ### Saint of the Day
 
@@ -612,7 +742,11 @@ St. Alexis Falconieri
 
 ### Reflect
 
-As we start this Lenten season, what things are you called to let go of? Father, none of my accomplishments and accolades are mine. If they are hindering me from following You, teach me to let go. Amen. Saint Simon,
+As we start this Lenten season, what things are you called to let go of?
+
+### Prayer
+
+Father, none of my accomplishments and accolades are mine. If they are hindering me from following You, teach me to let go. Amen.
 
 ### Saint of the Day
 
@@ -624,7 +758,11 @@ Saint Simon
 
 ### Reflect
 
-What little things are you beginning today—and promise to do every day—to strengthen your relationships in the family? Jesus, I decide to choose You every day. Give me the grace to love You today a little more than I did yesterday. Amen. Saint Belina,
+What little things are you beginning today—and promise to do every day—to strengthen your relationships in the family?
+
+### Prayer
+
+Jesus, I decide to choose You every day. Give me the grace to love You today a little more than I did yesterday. Amen.
 
 ### Saint of the Day
 
@@ -636,7 +774,11 @@ Saint Belina
 
 ### Reflect
 
-What can you give up today to participate in Christ’s suffering? Father, help me to see the bigger picture. May I understand that what I give up for You is nothing compared to what I gain. Sts. Jacinta and Francisco Marto,
+What can you give up today to participate in Christ’s suffering?
+
+### Prayer
+
+Father, help me to see the bigger picture. May I understand that what I give up for You is nothing compared to what I gain.
 
 ### Saint of the Day
 
@@ -652,7 +794,11 @@ Is God calling you to radically change your life? Talk to a mentor. Respond to G
 
 ### Prayer
 
-Father in heaven, grant me courage to answer Your call. St. Peter Damian, bishop and Doctor of the Church,
+Father in heaven, grant me courage to answer Your call.
+
+### Saint of the Day
+
+St. Peter Damian, bishop and Doctor of the Church
 
 ---
 
@@ -660,7 +806,11 @@ Father in heaven, grant me courage to answer Your call. St. Peter Damian, bishop
 
 ### Reflect
 
-“It takes more than bread to stay alive. It takes a steady stream of words from God’s mouth.” (Matthew 4:4 MSG) Let Ephesians 6:10-18 be your prayer as you put on the armor of God. St. Margaret of Cortona,
+“It takes more than bread to stay alive. It takes a steady stream of words from God’s mouth.” (Matthew 4:4 MSG) Let Ephesians 6:10-18 be your prayer as you put on the armor of
+
+### Prayer
+
+God.
 
 ### Saint of the Day
 
@@ -672,7 +822,15 @@ St. Margaret of Cortona
 
 ### Reflect
 
-Among the laws of God, which ones do you find difficult to obey? Have you tried to understand them better? Lord, help me understand Your laws more clearly, so I can observe them more deeply. Saint Polycarp, bishop and martyr,
+Among the laws of God, which ones do you find difficult to obey? Have you tried to understand them better?
+
+### Prayer
+
+Lord, help me understand Your laws more clearly, so I can observe them more deeply.
+
+### Saint of the Day
+
+Saint Polycarp, bishop and martyr
 
 ---
 
@@ -696,11 +854,11 @@ Blessed Tommaso Maria Fusco
 
 ### Reflect
 
-“Fasting is the support of our soul: it gives us wings to ascend on high, and to enjoy the highest contemplation!” (St. John Chrysostom) Lord
+“Fasting is the support of our soul: it gives us wings to ascend on high, and to enjoy the highest contemplation!” (St. John Chrysostom)
 
 ### Prayer
 
-Jesus, help me grow closer to You this Lent. Thank You for Your Church that helps me know You more. Amen.
+Lord Jesus, help me grow closer to You this Lent. Thank You for Your Church that helps me know You more. Amen.
 
 ### Saint of the Day
 
@@ -716,7 +874,7 @@ Saint Ananias II
 
 ### Prayer
 
-Lord, may I find myself and Your love for me in the process of asking and working for my intentions. St. Isabel of France,
+Lord, may I find myself and Your love for me in the process of asking and working for my intentions.
 
 ### Saint of the Day
 
@@ -728,11 +886,11 @@ St. Isabel of France
 
 ### Reflect
 
-“Turn from evil and do good, seek peace and pursue it.” (Psalm 34:14) Help me,
+“Turn from evil and do good, seek peace and pursue it.” (Psalm 34:14)
 
 ### Prayer
 
-Lord, when I am weak and I struggle to do the right thing. St. Anne Line,
+Help me, Lord, when I am weak and I struggle to do the right thing.
 
 ### Saint of the Day
 
@@ -744,7 +902,11 @@ St. Anne Line
 
 ### Reflect
 
-Can you love and pray for your enemies? Life is too short to hold a grudge. Dearest Lord, teach me to forgive the unforgivable, just like You do, every day. Amen. Blessed Villana de’Botti,
+Can you love and pray for your enemies? Life is too short to hold a grudge.
+
+### Prayer
+
+Dearest Lord, teach me to forgive the unforgivable, just like You do, every day. Amen.
 
 ### Saint of the Day
 
@@ -756,7 +918,15 @@ Blessed Villana de’Botti
 
 ### Reflect
 
-Which of the four important truths mentioned above do you tend to forget? Lord, help me to always remember that I am Yours. Amen. St. David of Wales, bishop,
+Which of the four important truths mentioned above do you tend to forget?
+
+### Prayer
+
+Lord, help me to always remember that I am Yours. Amen.
+
+### Saint of the Day
+
+St. David of Wales, bishop
 
 ---
 
@@ -764,11 +934,11 @@ Which of the four important truths mentioned above do you tend to forget? Lord, 
 
 ### Reflect
 
-This may help counter cancel culture: St. Maximus the Confessor said, “He who busies himself with the sins of others, or judges his brother on suspicion, has not yet even begun to repent or to examine himself so as to discover his own sins.” Lord
+This may help counter cancel culture: St. Maximus the Confessor said, “He who busies himself with the sins of others, or judges his brother on suspicion, has not yet even begun to repent or to examine himself so as to discover his own sins.”
 
 ### Prayer
 
-Jesus, grant us the grace not to sever relationships, but to save them, and bring them to You, our Savior. St. Agnes of Bohemia,
+Lord Jesus, grant us the grace not to sever relationships, but to save them, and bring them to You, our Savior.
 
 ### Saint of the Day
 
@@ -780,7 +950,11 @@ St. Agnes of Bohemia
 
 ### Reflect
 
-How did your experiences with your earthly father shape your understanding of fatherhood and ultimately lead you to embrace the perfect love of our heavenly Father? Dearest God, thank You for being our good and faithful Father who never leaves nor forsakes us. Thank You also for our earthly fathers who, both in their strengths and weaknesses, lead us back to You. St. Katherine Drexel,
+How did your experiences with your earthly father shape your understanding of fatherhood and ultimately lead you to embrace the perfect love of our heavenly Father?
+
+### Prayer
+
+Dearest God, thank You for being our good and faithful Father who never leaves nor forsakes us. Thank You also for our earthly fathers who, both in their strengths and weaknesses, lead us back to You.
 
 ### Saint of the Day
 
@@ -808,7 +982,11 @@ Saint Casimir
 
 ### Reflect
 
-Where do you draw your confidence from? Lord, I hold on to You. May I be grounded in Your love so I can draw my confidence from You. St. John Joseph of the Cross,
+Where do you draw your confidence from?
+
+### Prayer
+
+Lord, I hold on to You. May I be grounded in Your love so I can draw my confidence from You.
 
 ### Saint of the Day
 
@@ -820,11 +998,11 @@ St. John Joseph of the Cross
 
 ### Reflect
 
-Is the Lord directing you toward a mission? Pray about it and ask God to sustain you.
+Is the Lord directing you toward a mission? Pray about it and ask
 
 ### Prayer
 
-Lord, help me to trust in You and in Your ways, so I may always be ready to go wherever You lead me. Saint Colette,
+God to sustain you. Lord, help me to trust in You and in Your ways, so I may always be ready to go wherever You lead me.
 
 ### Saint of the Day
 
@@ -836,7 +1014,15 @@ Saint Colette
 
 ### Reflect
 
-Are you running away from God or are you running toward Him today? Lord, thank You for Your mercy. Help me to let go of my past and run toward You. May my life be a reflection of Your love. Amen. Saints Perpetua and Felicity, martyrs,
+Are you running away from God or are you running toward Him today?
+
+### Prayer
+
+Lord, thank You for Your mercy. Help me to let go of my past and run toward You. May my life be a reflection of Your love. Amen.
+
+### Saint of the Day
+
+Saints Perpetua and Felicity, martyrs
 
 ---
 
@@ -844,11 +1030,15 @@ Are you running away from God or are you running toward Him today? Lord, thank Y
 
 ### Reflect
 
-How do you know Jesus? Did you hear about Him from others? Do you have a personal encounter with Him? Lord, thank You for the grace to know You through others. And thank You that I, too, can experience You directly in my life. Amen. St. John of
+How do you know Jesus? Did you hear about Him from others? Do you have a personal encounter with Him?
 
 ### Prayer
 
-God, religious,
+Lord, thank You for the grace to know You through others. And thank You that I, too, can experience You directly in my life. Amen.
+
+### Saint of the Day
+
+St. John of God, religious
 
 ---
 
@@ -856,7 +1046,15 @@ God, religious,
 
 ### Reflect
 
-What gift or opportunity might be disguised as a “bad” situation or outcome in your life now? Father, help me see all the ways in which You bless me. Fill me with gratitude for Your generosity. Amen. St. Frances of Rome, religious,
+What gift or opportunity might be disguised as a “bad” situation or outcome in your life now?
+
+### Prayer
+
+Father, help me see all the ways in which You bless me. Fill me with gratitude for Your generosity. Amen.
+
+### Saint of the Day
+
+St. Frances of Rome, religious
 
 ---
 
@@ -880,7 +1078,7 @@ St. John Ogilvie
 
 ### Reflect
 
-What is the most challenging and difficult time in your life now? Entrust your concerns to God and patiently wait for His answer. While in this world, Your faithful continue to struggle, Lord. Remain with us. Have mercy on Your people who strive to do Your will despite the trials and tribulations. By our obedience and Your grace, set us free. Saint Aengus,
+What is the most challenging and difficult time in your life now? Entrust your concerns to God and patiently wait for His answer. While in this world, Your faithful continue to struggle, Lord. Remain with us. Have mercy on Your people who strive to do Your will despite the trials and tribulations. By our obedience and Your grace, set us free.
 
 ### Saint of the Day
 
@@ -892,7 +1090,7 @@ Saint Aengus
 
 ### Reflect
 
-“Our captain on this battlefield is Christ Jesus. . . . Christ has bound our enemies for us and weakened them that they cannot overcome us unless we so choose to let them.” (St. Catherine of Siena) St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. Amen. Saint Seraphina,
+“Our captain on this battlefield is Christ Jesus. . . . Christ has bound our enemies for us and weakened them that they cannot overcome us unless we so choose to let them.” (St. Catherine of Siena) St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. Amen.
 
 ### Saint of the Day
 
@@ -920,11 +1118,7 @@ Saint Ansovinus
 
 ### Reflect
 
-Are you feeling discouraged, thinking God has allowed bad things to happen to you? Remember the times when, like a loving parent, He comforted you and eased your pain.
-
-### Prayer
-
-Loving Father, thank You for the guardian angels You have assigned to watch over me every day. Saint Mathilda,
+Are you feeling discouraged, thinking God has allowed bad things to happen to you? Remember the times when, like a loving parent, He comforted you and eased your pain. Loving Father, thank You for the guardian angels You have assigned to watch over me every day.
 
 ### Saint of the Day
 
@@ -952,7 +1146,11 @@ St. Louise de Marillac
 
 ### Reflect
 
-What kind of person are you called to be? Go and make it happen. Holy Spirit, what do You want? I surrender my former ways. Create me anew! Saint Dentlin,
+What kind of person are you called to be? Go and make it happen.
+
+### Prayer
+
+Holy Spirit, what do You want? I surrender my former ways. Create me anew!
 
 ### Saint of the Day
 
@@ -964,19 +1162,27 @@ Saint Dentlin
 
 ### Reflect
 
-Let your Life Coach lead you to become the best you! Lord, bless me so I can do what You want me to do, go where You want me to go, and give what You want me to give, so that I can be what You want me to be. Saint Patrick, bishop of Ireland,
+Let your Life Coach lead you to become the best you!
+
+### Prayer
+
+Lord, bless me so I can do what You want me to do, go where You want me to go, and give what You want me to give, so that I can be what You want me to be.
+
+### Saint of the Day
+
+Saint Patrick, bishop of Ireland
 
 ---
 
 ## 2026-03-18 — His Justice Is Mercy
 
-### Reflect
-
-God’s justice and mercy are two sides of the same coin. What you think is an unfortunate incident in your life could very well be God’s intervention to bring about results beyond what you ever wished for.
-
 ### Prayer
 
-Father, have mercy on me, a sinner. Amen.
+God’s justice and mercy are two sides of the same coin. What you think is an unfortunate incident in your life could very well be God’s intervention to bring about results beyond what you ever wished for. Father, have mercy on me, a sinner. Amen.
+
+### Saint of the Day
+
+St. Cyril of Jerusalem, bishop and Doctor of the Church
 
 ---
 
@@ -984,15 +1190,11 @@ Father, have mercy on me, a sinner. Amen.
 
 ### Reflect
 
-What is God asking you to sacrifice for the love of your family? Saint Joseph, you know how it feels for a marriage and a family to be under huge crisis. Pray for me and my family.
-
-### Prayer
-
-Jesus, give me the grace to make the necessary sacrifice. Amen.
+What is God asking you to sacrifice for the love of your family? Saint Joseph, you know how it feels for a marriage and a family to be under huge crisis. Pray for me and my family. Jesus, give me the grace to make the necessary sacrifice. Amen.
 
 ### Saint of the Day
 
-Blessed Virgin Mary
+Saint Joseph, spouse of the Blessed Virgin Mary
 
 ---
 
@@ -1000,7 +1202,11 @@ Blessed Virgin Mary
 
 ### Reflect
 
-Have you lived honorably so far? Lord, grant me a generous heart. May I always be a source of comfort to my brethren. St. Maria Josefa Sancho de Guerra,
+Have you lived honorably so far?
+
+### Prayer
+
+Lord, grant me a generous heart. May I always be a source of comfort to my brethren.
 
 ### Saint of the Day
 
@@ -1012,7 +1218,11 @@ St. Maria Josefa Sancho de Guerra
 
 ### Reflect
 
-Do we pigeonhole people according to their status in life? Lord, help me avoid categorizing and discriminating against others. Give me the grace and the humility to treat everyone equally like Jesus did. Blessed Maria Candida of the Eucharist,
+Do we pigeonhole people according to their status in life?
+
+### Prayer
+
+Lord, help me avoid categorizing and discriminating against others. Give me the grace and the humility to treat everyone equally like Jesus did.
 
 ### Saint of the Day
 
@@ -1024,7 +1234,11 @@ Blessed Maria Candida of the Eucharist
 
 ### Reflect
 
-Where do you need to trust God’s timing, even when He seems late? Lord, help me trust You when I don’t understand. Remind me that Your timing is perfect, and Your love never fails. Amen. St. Nicholas Owen,
+Where do you need to trust God’s timing, even when He seems late?
+
+### Prayer
+
+Lord, help me trust You when I don’t understand. Remind me that Your timing is perfect, and Your love never fails. Amen.
 
 ### Saint of the Day
 
@@ -1040,7 +1254,7 @@ Be honest with yourself: Are there times when you tend to be arrogant with your 
 
 ### Prayer
 
-Jesus, grow humility in my heart so I may become as gracious and loving as You are to those around me. St. Turibius of Mongrovejo,
+Jesus, grow humility in my heart so I may become as gracious and loving as You are to those around me.
 
 ### Saint of the Day
 
@@ -1050,13 +1264,9 @@ St. Turibius of Mongrovejo
 
 ## 2026-03-24 — Punishment And Grace
 
-### Reflect
-
-God’s grace always finds a way to save. God’s mercy always makes the first move.
-
 ### Prayer
 
-Dear God, help me to look to You when I am in doubt, in pain, and struggling. And as I fix my gaze on You, may I be encouraged, healed, and set free. Amen.
+God’s grace always finds a way to save. God’s mercy always makes the first move. Dear God, help me to look to You when I am in doubt, in pain, and struggling. And as I fix my gaze on You, may I be encouraged, healed, and set free. Amen.
 
 ### Saint of the Day
 
@@ -1068,11 +1278,11 @@ Saint Aldemar
 
 ### Reflect
 
-Granted or not, will you entrust your biggest, boldest dreams to God? Heavenly
+Granted or not, will you entrust your biggest, boldest dreams to
 
 ### Prayer
 
-Father, help me surrender my every desire to You. Saint Dismas,
+God? Heavenly Father, help me surrender my every desire to You.
 
 ### Saint of the Day
 
@@ -1084,7 +1294,11 @@ Saint Dismas
 
 ### Reflect
 
-What things will you sacrifice to follow God’s Word? Lord, help me die to myself so I may live fully in You. Give me the strength to follow Your Word. Amen. Saint Ludger,
+What things will you sacrifice to follow God’s Word?
+
+### Prayer
+
+Lord, help me die to myself so I may live fully in You. Give me the strength to follow Your Word. Amen.
 
 ### Saint of the Day
 
@@ -1100,7 +1314,7 @@ Saint Ludger
 
 ### Prayer
 
-Lord, I trust that You walk with me in the valley of my darkness. Saint Rupert,
+Lord, I trust that You walk with me in the valley of my darkness.
 
 ### Saint of the Day
 
@@ -1112,7 +1326,11 @@ Saint Rupert
 
 ### Reflect
 
-How is God asking you to love and help people without the limelight of social media? Lord, teach me to love big in quiet movements and unrecognized efforts. May I follow Your example, in Jesus’ name. Amen. St. Venturino of Bergamo,
+How is God asking you to love and help people without the limelight of social media?
+
+### Prayer
+
+Lord, teach me to love big in quiet movements and unrecognized efforts. May I follow Your example, in Jesus’ name. Amen.
 
 ### Saint of the Day
 
@@ -1172,7 +1390,11 @@ St. Guy of Pomposa
 
 ### Reflect
 
-When was the last time you honored someone you love with your words? Lord, help me to be more aware of the words that come out of my mouth. May they bless, not harm, others. Amen. St. Hugh of Grenoble,
+When was the last time you honored someone you love with your words?
+
+### Prayer
+
+Lord, help me to be more aware of the words that come out of my mouth. May they bless, not harm, others. Amen.
 
 ### Saint of the Day
 
@@ -1184,7 +1406,15 @@ St. Hugh of Grenoble
 
 ### Reflect
 
-Looking back, what moments in your life did you question God about, but now understand their purpose? Lord, give me the strength to keep moving even in the darkness. Help me trust that You are guiding me to something greater. Amen. St. Francis of Paola, hermit,
+Looking back, what moments in your life did you question God about, but now understand their purpose?
+
+### Prayer
+
+Lord, give me the strength to keep moving even in the darkness. Help me trust that You are guiding me to something greater. Amen.
+
+### Saint of the Day
+
+St. Francis of Paola, hermit
 
 ---
 
@@ -1192,7 +1422,11 @@ Looking back, what moments in your life did you question God about, but now unde
 
 ### Reflect
 
-Are you willing to die to yourself for the people you love? How can you show selfless love today? My Jesus, thank You for loving me even when I don’t deserve it. Help me trust Your plans and love others the way You love me. Amen. St. Richard of Wyche,
+Are you willing to die to yourself for the people you love? How can you show selfless love today?
+
+### Prayer
+
+My Jesus, thank You for loving me even when I don’t deserve it. Help me trust Your plans and love others the way You love me. Amen.
 
 ### Saint of the Day
 
@@ -1204,7 +1438,15 @@ St. Richard of Wyche
 
 ### Reflect
 
-“Blessed is the one whose fault is taken away, whose sin is covered.” (Psalm 32:1) Father, thank You for being the source of all love and forgiveness. Help me see the ways You encourage me to rise again. Amen. St. Isidore of Seville, bishop and Doctor of the Church,
+“Blessed is the one whose fault is taken away, whose sin is covered.” (Psalm 32:1)
+
+### Prayer
+
+Father, thank You for being the source of all love and forgiveness. Help me see the ways You encourage me to rise again. Amen.
+
+### Saint of the Day
+
+St. Isidore of Seville, bishop and Doctor of the Church
 
 ---
 
@@ -1218,13 +1460,21 @@ Resurrection reverses everything.
 
 Lord, thank You because Your resurrection reverses our death. Amen.
 
+### Saint of the Day
+
+St. Vincent Ferrer, priest
+
 ---
 
 ## 2026-04-06 — Hope In Him
 
 ### Reflect
 
-When you are faced with heartache and disappointment, from whom do you draw your strength? Dearest Lord, thank You for Your saving grace. You have made known to me the paths of life. Fill me with joy in Your presence. St. Paul Tinh,
+When you are faced with heartache and disappointment, from whom do you draw your strength?
+
+### Prayer
+
+Dearest Lord, thank You for Your saving grace. You have made known to me the paths of life. Fill me with joy in Your presence.
 
 ### Saint of the Day
 
@@ -1242,13 +1492,21 @@ Do you miss out seeing Jesus in others? Make a list of these people and think of
 
 Father God, open my eyes to see Jesus in everyone I encounter today. Amen.
 
+### Saint of the Day
+
+St. John Baptist de la Salle, priest
+
 ---
 
 ## 2026-04-08 — Downcast
 
 ### Reflect
 
-Are you going through Good Friday in your life? Believe that your Easter is coming! Dear Jesus, thank You for dying on the cross for all of us. Above all, thank You for rising again—for by Your death and resurrection, we are saved. Amen. St. Julie Billiart,
+Are you going through Good Friday in your life? Believe that your Easter is coming!
+
+### Prayer
+
+Dear Jesus, thank You for dying on the cross for all of us. Above all, thank You for rising again—for by Your death and resurrection, we are saved. Amen.
 
 ### Saint of the Day
 
@@ -1264,7 +1522,7 @@ If He did it before, He can do it again. Trust God to rescue you from what you�
 
 ### Prayer
 
-Lord, even if I don’t see Your hand, even if I don’t understand, I’ll trust Your plan. Your love for me is all the proof I need. St. Casilda of Toledo,
+Lord, even if I don’t see Your hand, even if I don’t understand, I’ll trust Your plan. Your love for me is all the proof I need.
 
 ### Saint of the Day
 
@@ -1296,7 +1554,11 @@ Is God asking you to fast for someone? Don’t delay and watch His miracles unfo
 
 ### Prayer
 
-Jesus, give me all the grace I need to do Your most holy will. Saint Stanislaus, bishop and martyr,
+Jesus, give me all the grace I need to do Your most holy will.
+
+### Saint of the Day
+
+Saint Stanislaus, bishop and martyr
 
 ---
 
@@ -1304,11 +1566,11 @@ Jesus, give me all the grace I need to do Your most holy will. Saint Stanislaus,
 
 ### Reflect
 
-“This grace . . . gives the soul a special light by means of which the soul begins to understand God’s effort; but conversion depends on its own will. . . . Should it show even a flicker of good will, the mercy of God will accomplish the rest.” (Diary of Saint Faustina, 1486) Lord, I believe. Help my unbelief.
+“This grace . . . gives the soul a special light by means of which the soul begins to understand God’s effort; but conversion depends on its own will. . . . Should it show even a flicker of good will, the mercy of God will accomplish the rest.” (Diary of Saint Faustina, 1486)
 
 ### Prayer
 
-Jesus, King of Mercy, I trust in You! St. Zeno of Verona,
+Lord, I believe. Help my unbelief. Jesus, King of Mercy, I trust in You!
 
 ### Saint of the Day
 
@@ -1324,7 +1586,11 @@ St. Zeno of Verona
 
 ### Prayer
 
-Lord, following and serving You can be difficult. Help me to be faithful to You and Your mission, especially in my daily life. Saint Martin I, pope and martyr,
+Lord, following and serving You can be difficult. Help me to be faithful to You and Your mission, especially in my daily life.
+
+### Saint of the Day
+
+Saint Martin I, pope and martyr
 
 ---
 
@@ -1332,7 +1598,11 @@ Lord, following and serving You can be difficult. Help me to be faithful to You 
 
 ### Reflect
 
-Will you accept Jesus as your Lord and Savior so you can be born again? Jesus, may Your love and grace transform and renew me so I can follow Your ways every day. Amen. Blessed Peter Gonzalez,
+Will you accept Jesus as your Lord and Savior so you can be born again?
+
+### Prayer
+
+Jesus, may Your love and grace transform and renew me so I can follow Your ways every day. Amen.
 
 ### Saint of the Day
 
@@ -1344,11 +1614,7 @@ Blessed Peter Gonzalez
 
 ### Reflect
 
-“O sublime humility! O humble sublimity! That the Lord of the whole universe, God and the Son of God, should humble himself like this and hide under the form of a little bread, for our salvation.” (St. Francis of Assisi) Oh, sweet
-
-### Prayer
-
-Jesus, open the eyes of my heart that I may always recognize You in the Holy Eucharist! Saint Hunna,
+“O sublime humility! O humble sublimity! That the Lord of the whole universe, God and the Son of God, should humble himself like this and hide under the form of a little bread, for our salvation.” (St. Francis of Assisi) Oh, sweet Jesus, open the eyes of my heart that I may always recognize You in the Holy Eucharist!
 
 ### Saint of the Day
 
@@ -1360,7 +1626,15 @@ Saint Hunna
 
 ### Reflect
 
-“Safety is not the issue when we look at the Great Commission. The purpose of the church cannot be to survive, or even to thrive, but to serve” (Brother Andrew). Who is your moral compass? Father, grant me Your Spirit of wisdom, courage, humility, and truth, that I may follow You no matter how difficult it is. With You, all things are possible. Amen. St. Bernadette Soubirous, virgin,
+“Safety is not the issue when we look at the Great Commission. The purpose of the church cannot be to survive, or even to thrive, but to serve” (Brother Andrew). Who is your moral compass?
+
+### Prayer
+
+Father, grant me Your Spirit of wisdom, courage, humility, and truth, that I may follow You no matter how difficult it is. With You, all things are possible. Amen.
+
+### Saint of the Day
+
+St. Bernadette Soubirous, virgin
 
 ---
 
@@ -1368,7 +1642,11 @@ Saint Hunna
 
 ### Reflect
 
-What is your “crowd” that intimidates you? What are your “loaves and fish” of limitations? Jesus, allow me to focus only in You—to give my all, to surrender all to Your hands, and continue the miracle. In Jesus’ name. Amen. Saint Donan,
+What is your “crowd” that intimidates you? What are your “loaves and fish” of limitations?
+
+### Prayer
+
+Jesus, allow me to focus only in You—to give my all, to surrender all to Your hands, and continue the miracle. In Jesus’ name. Amen.
 
 ### Saint of the Day
 
@@ -1396,7 +1674,11 @@ St. Athanasia of Aegina
 
 ### Reflect
 
-Which part of the Emmaus walk do you need to learn more? Jesus, walk with me again as I walk to help others. Amen. St. Alphege of Canterbury,
+Which part of the Emmaus walk do you need to learn more?
+
+### Prayer
+
+Jesus, walk with me again as I walk to help others. Amen.
 
 ### Saint of the Day
 
@@ -1408,7 +1690,11 @@ St. Alphege of Canterbury
 
 ### Reflect
 
-Do you ask for the gifts of the Holy Spirit as you do your work or ministry? Come, Holy Spirit, fill the hearts of Your faithful and enkindle in us the fire of Your love. St. Agnes of Montepulciano,
+Do you ask for the gifts of the Holy Spirit as you do your work or ministry?
+
+### Prayer
+
+Come, Holy Spirit, fill the hearts of Your faithful and enkindle in us the fire of Your love.
 
 ### Saint of the Day
 
@@ -1420,7 +1706,11 @@ St. Agnes of Montepulciano
 
 ### Reflect
 
-Do you seek the Bread of Life daily, or are you more focused on temporary rewards? Lord, help me to always seek You first. Remind me that worldly achievements are temporary, but Your love and presence are eternal. Amen. St. Conrad of Parzham,
+Do you seek the Bread of Life daily, or are you more focused on temporary rewards?
+
+### Prayer
+
+Lord, help me to always seek You first. Remind me that worldly achievements are temporary, but Your love and presence are eternal. Amen.
 
 ### Saint of the Day
 
@@ -1432,7 +1722,11 @@ St. Conrad of Parzham
 
 ### Reflect
 
-In what ways do you preach the Gospel? Who is listening? What are they hearing? Lord, may I be Your lips, Your ears, Your eyes, Your hands, Your heart. St. Theodore of Sykeon,
+In what ways do you preach the Gospel? Who is listening? What are they hearing?
+
+### Prayer
+
+Lord, may I be Your lips, Your ears, Your eyes, Your hands, Your heart.
 
 ### Saint of the Day
 
@@ -1448,7 +1742,11 @@ St. Theodore of Sykeon
 
 ### Prayer
 
-Lord, may I stop asking, “Am I my brother’s keeper?” and live in certainty that I am. Saint George, martyr, patron of England,
+Lord, may I stop asking, “Am I my brother’s keeper?” and live in certainty that I am.
+
+### Saint of the Day
+
+Saint George, martyr, patron of England
 
 ---
 
@@ -1456,7 +1754,15 @@ Lord, may I stop asking, “Am I my brother’s keeper?” and live in certainty
 
 ### Reflect
 
-“Friends are angels who lift us to our feet when our wings have trouble remembering how to fly.” (Pravs J) Father, may You lead me to the people I am meant to journey with, so that my eyes may open and be filled with the Holy Spirit. Amen. St. Fidelis of Sigmaringen, priest and martyr,
+“Friends are angels who lift us to our feet when our wings have trouble remembering how to fly.” (Pravs J)
+
+### Prayer
+
+Father, may You lead me to the people I am meant to journey with, so that my eyes may open and be filled with the Holy Spirit. Amen.
+
+### Saint of the Day
+
+St. Fidelis of Sigmaringen, priest and martyr
 
 ---
 
@@ -1464,11 +1770,15 @@ Lord, may I stop asking, “Am I my brother’s keeper?” and live in certainty
 
 ### Reflect
 
-How does faith shape your ability to let go and trust in the path God has prepared for your children? Dear Jesus, this season of my life is all about trusting You as I relinquish my adult children into Your care. You know my deepest concerns for their future. I rest in Your perfect plan for them. Amen. Saint Mark, evangelist,
+How does faith shape your ability to let go and trust in the path
+
+### Prayer
+
+God has prepared for your children? Dear Jesus, this season of my life is all about trusting You as I relinquish my adult children into Your care. You know my deepest concerns for their future. I rest in Your perfect plan for them. Amen.
 
 ### Saint of the Day
 
-Feast of Saint Mark,
+Saint Mark, evangelist
 
 ---
 
@@ -1476,11 +1786,11 @@ Feast of Saint Mark,
 
 ### Reflect
 
-“Dogs are our link to paradise. They don’t know evil or jealousy or discontent. To sit with a dog on a hillside on a glorious afternoon is to be back in Eden, where doing nothing was not boring—it was peace.” (Milan Kundera) Lord
+“Dogs are our link to paradise. They don’t know evil or jealousy or discontent. To sit with a dog on a hillside on a glorious afternoon is to be back in Eden, where doing nothing was not boring—it was peace.” (Milan Kundera)
 
 ### Prayer
 
-Jesus, I want to know Your voice and recognize Your guiding hand at every turn in my life. Amen.
+Lord Jesus, I want to know Your voice and recognize Your guiding hand at every turn in my life. Amen.
 
 ### Saint of the Day
 
@@ -1492,11 +1802,11 @@ Saint Riquier
 
 ### Reflect
 
-Are you trying to fix things in your life by yourself? Approach God and allow Him to restore you.
+Are you trying to fix things in your life by yourself? Approach
 
 ### Prayer
 
-Lord, I trust that You who called me to Your eternal glory through Christ will restore, confirm, strengthen, and establish me after I have suffered a little (cf. 1 Peter 5:10). Saint Zita,
+God and allow Him to restore you. Lord, I trust that You who called me to Your eternal glory through Christ will restore, confirm, strengthen, and establish me after I have suffered a little (cf. 1 Peter 5:10).
 
 ### Saint of the Day
 
@@ -1512,7 +1822,11 @@ Are you having a hard time listening to what Jesus wants for your life? Trust Hi
 
 ### Prayer
 
-Lord, give me a heart that trusts You and listens to You. St. Peter Chanel, priest and martyr,
+Lord, give me a heart that trusts You and listens to You.
+
+### Saint of the Day
+
+St. Peter Chanel, priest and martyr
 
 ---
 
@@ -1520,7 +1834,15 @@ Lord, give me a heart that trusts You and listens to You. St. Peter Chanel, prie
 
 ### Reflect
 
-Are you following Jesus out of fear of punishment or out of love and gratitude for His goodness and mercy? Jesus, give me Your eyes of mercy so I can love myself and others the way You love me. St. Catherine of Siena, virgin and Doctor of the Church,
+Are you following Jesus out of fear of punishment or out of love and gratitude for His goodness and mercy?
+
+### Prayer
+
+Jesus, give me Your eyes of mercy so I can love myself and others the way You love me.
+
+### Saint of the Day
+
+St. Catherine of Siena, virgin and Doctor of the Church
 
 ---
 
@@ -1528,7 +1850,15 @@ Are you following Jesus out of fear of punishment or out of love and gratitude f
 
 ### Reflect
 
-What hard-hitting questions have you asked the Lord in times of struggle? What were His answers? Jesus, be with me every day of my life and sustain my faith with Your presence and love. Amen. Saint Pius V, pope,
+What hard-hitting questions have you asked the Lord in times of struggle? What were His answers?
+
+### Prayer
+
+Jesus, be with me every day of my life and sustain my faith with Your presence and love. Amen.
+
+### Saint of the Day
+
+Saint Pius V, pope
 
 ---
 
@@ -1536,7 +1866,11 @@ What hard-hitting questions have you asked the Lord in times of struggle? What w
 
 ### Reflect
 
-How do you handle the storms in your life? Father, give me wisdom to know what to do in the areas where I have control, and the trust to surrender those matters that I have no control of. Amen. Saint Joseph the Worker,
+How do you handle the storms in your life?
+
+### Prayer
+
+Father, give me wisdom to know what to do in the areas where I have control, and the trust to surrender those matters that I have no control of. Amen.
 
 ### Saint of the Day
 
@@ -1552,15 +1886,23 @@ Saint Joseph the Worker
 
 ### Prayer
 
-Father, help me know You more as I know and follow Jesus. Mold me to be more like Jesus in everything, every day. Saint Athanasius, bishop and Doctor of the Church,
+Father, help me know You more as I know and follow Jesus. Mold me to be more like Jesus in everything, every day.
+
+### Saint of the Day
+
+Saint Athanasius, bishop and Doctor of the Church
 
 ---
 
 ## 2026-05-03 — The Ultimate Superhost
 
-### Reflect
+### Prayer
 
-Jesus already prepared a place for you when He calls you home. How does this truth change the way you live your life? Lord Jesus, may I live each day in perfect peace knowing You have a room for me in our Father’s house. Saints Philip and James, Apostles,
+Jesus already prepared a place for you when He calls you home. How does this truth change the way you live your life? Lord Jesus, may I live each day in perfect peace knowing You have a room for me in our Father’s house.
+
+### Saint of the Day
+
+Saints Philip and James, Apostles
 
 ---
 
@@ -1568,11 +1910,15 @@ Jesus already prepared a place for you when He calls you home. How does this tru
 
 ### Reflect
 
-“The only way God can show us He’s in control is to put us in situations we can’t control.” (Steven Furtick) Father, may I do my best to follow Your will today. But when weakness and hopelessness set in, take over with Your Holy Spirit. Amen. Saint Venerius,
+“The only way God can show us He’s in control is to put us in situations we can’t control.” (Steven Furtick)
+
+### Prayer
+
+Father, may I do my best to follow Your will today. But when weakness and hopelessness set in, take over with Your Holy Spirit. Amen.
 
 ### Saint of the Day
 
-Saint Venerius
+control. We asked him to
 
 ---
 
@@ -1580,7 +1926,11 @@ Saint Venerius
 
 ### Reflect
 
-Look back at your past trials. How have they made you grow in your faith? Lord, I surrender in full faith. I will trust that You are in control. St. Hilary of Arles,
+Look back at your past trials. How have they made you grow in your faith?
+
+### Prayer
+
+Lord, I surrender in full faith. I will trust that You are in control.
 
 ### Saint of the Day
 
@@ -1596,7 +1946,7 @@ Recall all the answers to your prayers that God has given you and realize He is 
 
 ### Prayer
 
-Father, may I never forget that if I give my life to You, You will always work for my good. Saint Dominic Savio,
+Father, may I never forget that if I give my life to You, You will always work for my good.
 
 ### Saint of the Day
 
@@ -1608,7 +1958,11 @@ Saint Dominic Savio
 
 ### Reflect
 
-“Faith is reason at rest in God.” (Charles H. Spurgeon) Lord, You bless me in my sleep. Teach me to let go and yield to You. St. Rose Venerini,
+“Faith is reason at rest in God.” (Charles H. Spurgeon)
+
+### Prayer
+
+Lord, You bless me in my sleep. Teach me to let go and yield to You.
 
 ### Saint of the Day
 
@@ -1636,7 +1990,11 @@ St. Peter of Tarentaise
 
 ### Reflect
 
-“Jesus isn’t into religion; He’s into love. He’s not about rules; He’s about relationship—and He wants people everywhere to know Him.” (Shana Schutte) Jesus, please increase my capacity to love those who reject You. Give me also the grace to be strong in my faith even when surrounded by people who do not love You. Amen. Saint Hermas,
+“Jesus isn’t into religion; He’s into love. He’s not about rules; He’s about relationship—and He wants people everywhere to know Him.” (Shana Schutte)
+
+### Prayer
+
+Jesus, please increase my capacity to love those who reject You. Give me also the grace to be strong in my faith even when surrounded by people who do not love You. Amen.
 
 ### Saint of the Day
 
@@ -1652,7 +2010,7 @@ Saint Hermas
 
 ### Prayer
 
-Lord, please help me to obey You out of love, not fear. Fill me with the Holy Spirit and lead me along the path You have prepared for me. St. John of Avila,
+Lord, please help me to obey You out of love, not fear. Fill me with the Holy Spirit and lead me along the path You have prepared for me.
 
 ### Saint of the Day
 
@@ -1664,7 +2022,11 @@ St. John of Avila
 
 ### Reflect
 
-What healing within you needs to happen so you may love more freely outside? Lord, heal me inside so I may overflow Your love to the people around me. St. Ignatius of Lanconi,
+What healing within you needs to happen so you may love more freely outside?
+
+### Prayer
+
+Lord, heal me inside so I may overflow Your love to the people around me.
 
 ### Saint of the Day
 
@@ -1680,7 +2042,7 @@ Look back at your past struggles and notice how God worked things for your good.
 
 ### Prayer
 
-Lord, when I don’t understand Your plans, help me to trust that every challenge has a purpose and that You are always guiding me toward something greater. Saints Nereus and Achilleus,
+Lord, when I don’t understand Your plans, help me to trust that every challenge has a purpose and that You are always guiding me toward something greater.
 
 ### Saint of the Day
 
@@ -1690,13 +2052,9 @@ Saints Nereus and Achilleus
 
 ## 2026-05-13 — Groping For God
 
-### Reflect
-
-God is present in the people around you and in the simple things you see.
-
 ### Prayer
 
-Lord, help me see You when You show Yourself all around me. Our Lady of Fatima,
+God is present in the people around you and in the simple things you see. Lord, help me see You when You show Yourself all around me.
 
 ### Saint of the Day
 
@@ -1712,7 +2070,11 @@ Our Lady of Fatima
 
 ### Prayer
 
-Lord, I want to know You. I want to deepen my friendship with You. Teach me something new about You this week. Amen.
+Lord, I want to know You. I want to deepen my friendship with You. Teach me something new about You this week. Amen.”
+
+### Saint of the Day
+
+Saint Matthias, Apostle
 
 ---
 
@@ -1726,13 +2088,17 @@ Life is better understood backwards, but it must be lived forward.
 
 Lord, give me Your hope and joy that no tragedy and trial can ever take away. Amen.
 
+### Saint of the Day
+
+Saint Isidore, the farmer
+
 ---
 
 ## 2026-05-16 — En-Courage
 
 ### Reflect
 
-“The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.” (Winston Churchill) O Holy Spirit, lead me to the persons You want me to encourage. St. John Nepomuceno,
+“The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.” (Winston Churchill) O Holy Spirit, lead me to the persons You want me to encourage.
 
 ### Saint of the Day
 
@@ -1744,7 +2110,11 @@ St. John Nepomuceno
 
 ### Reflect
 
-When God disciplines you, do you listen or do you resist? Lord, teach me to listen to You. Help me to understand that You know better than I do, because You know what I really need. Amen. St. Paschal Baylon,
+When God disciplines you, do you listen or do you resist?
+
+### Prayer
+
+Lord, teach me to listen to You. Help me to understand that You know better than I do, because You know what I really need. Amen.
 
 ### Saint of the Day
 
@@ -1762,13 +2132,21 @@ St. Paschal Baylon
 
 Lord, let Scripture become plain and simple to me so I can apply it in my personal life. Amen.
 
+### Saint of the Day
+
+Saint John I, pope and martyr
+
 ---
 
 ## 2026-05-19 — The Presider
 
 ### Reflect
 
-What excuses do you have in not fully engaging in the Mass? Jesus, open my heart to experience the beauty and power of Your gift in the liturgy. Amen. St. Theophilus of Corte,
+What excuses do you have in not fully engaging in the Mass?
+
+### Prayer
+
+Jesus, open my heart to experience the beauty and power of Your gift in the liturgy. Amen.
 
 ### Saint of the Day
 
@@ -1780,7 +2158,15 @@ St. Theophilus of Corte
 
 ### Reflect
 
-When do you remain silent when faced with injustice? What steps can you take to break that silence and live out your faith more authentically? Lord, grant me the courage to speak the truth, the wisdom to discern the best course of action, and the strength to persevere in the face of opposition. May my words and actions reflect Your love and justice in the world. Amen. St. Bernardine of Siena, priest,
+When do you remain silent when faced with injustice? What steps can you take to break that silence and live out your faith more authentically?
+
+### Prayer
+
+Lord, grant me the courage to speak the truth, the wisdom to discern the best course of action, and the strength to persevere in the face of opposition. May my words and actions reflect Your love and justice in the world. Amen.
+
+### Saint of the Day
+
+St. Bernardine of Siena, priest
 
 ---
 
@@ -1788,7 +2174,7 @@ When do you remain silent when faced with injustice? What steps can you take to 
 
 ### Reflect
 
-How do you make God known to the people around you? Use me, Lord God, to make You known to every people I meet. Amen. St. Cristobal Magallanes and companions,
+How do you make God known to the people around you? Use me, Lord God, to make You known to every people I meet. Amen.
 
 ### Saint of the Day
 
@@ -1800,7 +2186,11 @@ St. Cristobal Magallanes and companions
 
 ### Reflect
 
-“Let us not love in word or in tongue, but in deed and in truth.” (1 John 3:18) Jesus, firm up my love for You, so that my response to Your Love is not only through words but more so in action. Amen. St. Rita of Cascia,
+“Let us not love in word or in tongue, but in deed and in truth.” (1 John 3:18)
+
+### Prayer
+
+Jesus, firm up my love for You, so that my response to Your Love is not only through words but more so in action. Amen.
 
 ### Saint of the Day
 
@@ -1844,7 +2234,15 @@ Saint Joanna
 
 ### Reflect
 
-How well are you using your wealth? May I not walk away sad because we chose our own ways instead of Yours, Lord. St. Bede the Venerable, priest and Doctor of the Church,
+How well are you using your wealth?
+
+### Prayer
+
+May I not walk away sad because we chose our own ways instead of Yours, Lord.
+
+### Saint of the Day
+
+St. Bede the Venerable, priest and Doctor of the Church
 
 ---
 
@@ -1872,7 +2270,11 @@ St. Philip Neri
 
 ### Prayer
 
-Father, help me to love others sacrificially with all my heart. St. Augustine of Canterbury, bishop,
+Father, help me to love others sacrificially with all my heart.
+
+### Saint of the Day
+
+St. Augustine of Canterbury, bishop
 
 ---
 
@@ -1880,7 +2282,11 @@ Father, help me to love others sacrificially with all my heart. St. Augustine of
 
 ### Reflect
 
-“We must become vulnerable to ourselves, to God, and to those around us. This is the pathway to biblical strength that God calls us all to.” (John Edwards) Jesus, teach me to be vulnerable like You. There is strength in vulnerability, for it is when I am weak that I am strong. Let me rely on Your wisdom and strength because these are enough for me. St. Justus of Urgel,
+“We must become vulnerable to ourselves, to God, and to those around us. This is the pathway to biblical strength that God calls us all to.” (John Edwards)
+
+### Prayer
+
+Jesus, teach me to be vulnerable like You. There is strength in vulnerability, for it is when I am weak that I am strong. Let me rely on Your wisdom and strength because these are enough for me.
 
 ### Saint of the Day
 
@@ -1892,7 +2298,11 @@ St. Justus of Urgel
 
 ### Reflect
 
-“Teach me to feel another’s woe, to hide the fault I see, that mercy I to others show, that mercy show to me.” (Alexander Pope) Lord, open my heart to see others through Your eyes. Help me choose mercy over judgment and kindness over anger. St. William Arnaud,
+“Teach me to feel another’s woe, to hide the fault I see, that mercy I to others show, that mercy show to me.” (Alexander Pope)
+
+### Prayer
+
+Lord, open my heart to see others through Your eyes. Help me choose mercy over judgment and kindness over anger.
 
 ### Saint of the Day
 
@@ -1924,7 +2334,7 @@ St. Joan of Arc
 
 ### Prayer
 
-Lord, You never fail to forgive and love me despite all I’ve done. Teach me to be as loving and faithful as You are. Saint Mechtildis,
+Lord, You never fail to forgive and love me despite all I’ve done. Teach me to be as loving and faithful as You are.
 
 ### Saint of the Day
 
@@ -1936,7 +2346,11 @@ Saint Mechtildis
 
 ### Reflect
 
-How do you respond when you see someone else’s pain or problem? Enlarge my heart, Lord, to include the people around me. Give me the compassion to feel their burdens and assist them in my own little way. Amen. Saint Justin, martyr,
+How do you respond when you see someone else’s pain or problem? Enlarge my heart, Lord, to include the people around me. Give me the compassion to feel their burdens and assist them in my own little way. Amen.
+
+### Saint of the Day
+
+Saint Justin, martyr
 
 ---
 
@@ -1944,7 +2358,15 @@ How do you respond when you see someone else’s pain or problem? Enlarge my hea
 
 ### Reflect
 
-“Do not think that if you surrender to God you will be loser. You will not lose anything except bondage, frustration, and suffering. That is all you will lose.” (Radhanath Swami) Lord, help me to live not just for the world but for You. May I give You my time, my heart, and my life, knowing that true reward comes from You. Amen. Saints Marcellinus and Peter, martyrs,
+“Do not think that if you surrender to God you will be loser. You will not lose anything except bondage, frustration, and suffering. That is all you will lose.” (Radhanath Swami)
+
+### Prayer
+
+Lord, help me to live not just for the world but for You. May I give You my time, my heart, and my life, knowing that true reward comes from You. Amen.
+
+### Saint of the Day
+
+Saints Marcellinus and Peter, martyrs
 
 ---
 
@@ -1952,7 +2374,15 @@ How do you respond when you see someone else’s pain or problem? Enlarge my hea
 
 ### Reflect
 
-Who can you run to to help you fan your flame? Lord, remind me I am never alone. There are people who are with me. But most of all, You never leave me. St. Charles Lwanga and companions, martyrs,
+Who can you run to to help you fan your flame?
+
+### Prayer
+
+Lord, remind me I am never alone. There are people who are with me. But most of all, You never leave me.
+
+### Saint of the Day
+
+St. Charles Lwanga and companions, martyrs
 
 ---
 
@@ -1976,7 +2406,15 @@ Saint Nennoc
 
 ### Reflect
 
-Make this your proclamation today: God never leaves nor forsakes me. He is my Rescue! Lord, in the darkest of nights, let me hold on to the hope that I have in You. Amen. Saint Boniface, bishop and martyr,
+Make this your proclamation today: God never leaves nor forsakes me. He is my Rescue!
+
+### Prayer
+
+Lord, in the darkest of nights, let me hold on to the hope that I have in You. Amen.
+
+### Saint of the Day
+
+Saint Boniface, bishop and martyr
 
 ---
 
@@ -1988,7 +2426,11 @@ Focus on the needs of others and not on your own personal gain. Find opportuniti
 
 ### Prayer
 
-Lord, teach me to be generous with what I have. Saint Norbert, bishop,
+Lord, teach me to be generous with what I have.
+
+### Saint of the Day
+
+Saint Norbert, bishop
 
 ---
 
@@ -1996,7 +2438,11 @@ Lord, teach me to be generous with what I have. Saint Norbert, bishop,
 
 ### Reflect
 
-How can you tune in to God’s Word today? Father, help me listen to You and be guided by Your word in all things. Amen. St. Robert of Newminster,
+How can you tune in to God’s Word today?
+
+### Prayer
+
+Father, help me listen to You and be guided by Your word in all things. Amen.
 
 ### Saint of the Day
 
@@ -2008,11 +2454,7 @@ St. Robert of Newminster
 
 ### Reflect
 
-Is peace a top value for you? Have you found your peace? Have you found God’s peace in you? “
-
-### Prayer
-
-Lord, make me an instrument of Your peace.” In Jesus’ name. Amen.
+Is peace a top value for you? Have you found your peace? Have you found God’s peace in you? “Lord, make me an instrument of Your peace.” In Jesus’ name. Amen.
 
 ### Saint of the Day
 
@@ -2030,6 +2472,10 @@ Think of one person today with whom you want to share God’s love, and do one t
 
 Lord Jesus Christ, help me to shine your light to others, so that I can continue to lead more people closer to You. Amen.
 
+### Saint of the Day
+
+Saint Ephrem, deacon and Doctor of the Church
+
 ---
 
 ## 2026-06-10 — The Course Of Love
@@ -2040,7 +2486,11 @@ You and I are not mistakes. There is no mistake in what God has created.
 
 ### Prayer
 
-Lord, help me to see You in all things—in me, the people I meet, and the situations I encounter. Let me see Your course of love in everything. St. Maximus of Naples, deacon and Doctor of the Church,
+Lord, help me to see You in all things—in me, the people I meet, and the situations I encounter. Let me see Your course of love in everything.
+
+### Saint of the Day
+
+St. Maximus of Naples, deacon and Doctor of the Church
 
 ---
 
@@ -2052,11 +2502,11 @@ Write a list of people who have hurt you. Even with a heavy heart, pray for them
 
 ### Prayer
 
-Father, as I ask for Your forgiveness. Give me the grace to forgive those who have sinned against me. Saint Barnabas, Apostle,
+Father, as I ask for Your forgiveness. Give me the grace to forgive those who have sinned against me.
 
 ### Saint of the Day
 
-Memorial of Saint Barnabas, years even though she occasionally
+Saint Barnabas, Apostle
 
 ---
 
@@ -2064,15 +2514,15 @@ Memorial of Saint Barnabas, years even though she occasionally
 
 ### Reflect
 
-In your busyness, what roles does Jesus play in your life? Jesus, help me find profound rest in Your promises. Help me find solace, healing, and guidance in Your presence. Give me rest that’s not merely physical but a deep, spiritual renewal that rejuvenates my soul and strengthens my faith. Most Sacred Heart of
+In your busyness, what roles does Jesus play in your life?
 
 ### Prayer
 
-Jesus, have mercy on us. Purchased: August 27, 2026
+Jesus, help me find profound rest in Your promises. Help me find solace, healing, and guidance in Your presence. Give me rest that’s not merely physical but a deep, spiritual renewal that rejuvenates my soul and strengthens my faith. Most Sacred Heart of Jesus, have mercy on us. Personal Copy of Adrian Arroyo ( adrianarroyo@outlook.com ) Illegal distribution is punishable by law. Date Purchased: August 27, 2026
 
 ### Saint of the Day
 
-Solemnity of the Sacred
+the Sacred
 
 ---
 
@@ -2080,11 +2530,15 @@ Solemnity of the Sacred
 
 ### Reflect
 
-“God did not tell us to follow Him because He needed our help, but because He knew that loving Him would make us whole.” (Saint Irenaeus) Jesus, help me to follow and trust You, even when I may not always understand what You want for me. Mama Mary and Saint Joseph, pray for me. Immaculate Heart of the Blessed Virgin Mary,
+“God did not tell us to follow Him because He needed our help, but because He knew that loving Him would make us whole.” (Saint Irenaeus)
+
+### Prayer
+
+Jesus, help me to follow and trust You, even when I may not always understand what You want for me. Mama Mary and Saint Joseph, pray for me.
 
 ### Saint of the Day
 
-Blessed Virgin Mary
+Immaculate Heart of the Blessed Virgin Mary
 
 ---
 
@@ -2108,11 +2562,11 @@ Saints Valerius and Rufinus
 
 ### Reflect
 
-“Always give without remembering and always receive without forgetting.” (Brian Tracy) Help me,
+“Always give without remembering and always receive without forgetting.” (Brian Tracy)
 
 ### Prayer
 
-Lord, to be sensitive to the needs of the poor. Amen.
+Help me, Lord, to be sensitive to the needs of the poor. Amen.
 
 ### Saint of the Day
 
@@ -2124,11 +2578,7 @@ Saint Alice
 
 ### Reflect
 
-Is there someone whom you need to forgive or pray for? Ask God to help you love your enemy or persecutors by praying for them today. Merciful
-
-### Prayer
-
-Father, teach me Your ways. Help me to love, embrace, and forgive others the way You do. St. John Francis Regis,
+Is there someone whom you need to forgive or pray for? Ask God to help you love your enemy or persecutors by praying for them today. Merciful Father, teach me Your ways. Help me to love, embrace, and forgive others the way You do.
 
 ### Saint of the Day
 
@@ -2140,7 +2590,7 @@ St. John Francis Regis
 
 ### Reflect
 
-“The world asks, ‘What does a man own?’ Christ asks, ‘How does he use it?’” (Andrew Murray) Thank You, Jesus, for constantly providing for me. With the little that I have, You’ve pulled it together and transformed it into something big for my needy brothers and sisters. St. Albert Chmielowski,
+“The world asks, ‘What does a man own?’ Christ asks, ‘How does he use it?’” (Andrew Murray) Thank You, Jesus, for constantly providing for me. With the little that I have, You’ve pulled it together and transformed it into something big for my needy brothers and sisters.
 
 ### Saint of the Day
 
@@ -2152,7 +2602,11 @@ St. Albert Chmielowski
 
 ### Reflect
 
-“God’s will is not rocket science. He delights to make His plan known to us.” (Rissa Singson Kawpeng) Lord, I seek to know Your will. But sometimes, I can be blind and insensitive. So, make Your will obvious to me. Amen. Saint Guy,
+“God’s will is not rocket science. He delights to make His plan known to us.” (Rissa Singson Kawpeng)
+
+### Prayer
+
+Lord, I seek to know Your will. But sometimes, I can be blind and insensitive. So, make Your will obvious to me. Amen.
 
 ### Saint of the Day
 
@@ -2170,13 +2624,21 @@ Financial management is OK; greed is not. Greed is when you “store up for your
 
 Jesus, give me the compassion to give and the wisdom to do it. Amen.
 
+### Saint of the Day
+
+Saint Romuald, abbot
+
 ---
 
 ## 2026-06-20 — Well Provided
 
 ### Reflect
 
-Have you placed your trust in materials things instead of the heavenly Father’s provision? Lord, always remind me that as You provided for the birds in the sky, You will provide for me as well. Saint Florentina,
+Have you placed your trust in materials things instead of the
+
+### Prayer
+
+heavenly Father’s provision? Lord, always remind me that as You provided for the birds in the sky, You will provide for me as well.
 
 ### Saint of the Day
 
@@ -2188,7 +2650,15 @@ Saint Florentina
 
 ### Reflect
 
-Open your spiritual eyes and discover how God is telling you today, “You are loved.” Lord, thank You for creating me in Your image. Remind me every day of my worth. May my self-worth be anchored on You. St. Aloysius Gonzaga, martyr,
+Open your spiritual eyes and discover how God is telling you today, “You are loved.”
+
+### Prayer
+
+Lord, thank You for creating me in Your image. Remind me every day of my worth. May my self-worth be anchored on You.
+
+### Saint of the Day
+
+St. Aloysius Gonzaga, martyr
 
 ---
 
@@ -2202,6 +2672,10 @@ Put on the lens of love and see how different you will view the people around yo
 
 Father, no one is more merciful or more forgiving than You. Help me to stop being judgmental. Make me humble and compassionate. Amen.
 
+### Saint of the Day
+
+St. Thomas More, martyr
+
 ---
 
 ## 2026-06-23 — Good Deal, Bad Person?
@@ -2212,7 +2686,7 @@ Do you sometimes ask God for arbitrary signs when deciding on matters of the hea
 
 ### Prayer
 
-Lord, when people show me who they really are, help me believe them. St. Joseph Cafasso,
+Lord, when people show me who they really are, help me believe them.
 
 ### Saint of the Day
 
@@ -2244,7 +2718,7 @@ If God can only know you through what you reveal in your prayers, how well will 
 
 ### Prayer
 
-Jesus, open my heart to Your friendship. St. Prosper of Aquitaine,
+Jesus, open my heart to Your friendship.
 
 ### Saint of the Day
 
@@ -2256,7 +2730,11 @@ St. Prosper of Aquitaine
 
 ### Reflect
 
-What is your inner disposition and intention when your ask God for something? God, I know You can. Give me a humble posture and an openness to receive Your love and grace for me. St. Josemaria Escriva de Balaguer,
+What is your inner disposition and intention when your ask God for something?
+
+### Prayer
+
+God, I know You can. Give me a humble posture and an openness to receive Your love and grace for me.
 
 ### Saint of the Day
 
@@ -2268,7 +2746,15 @@ St. Josemaria Escriva de Balaguer
 
 ### Reflect
 
-What do you have to stop doing today so you can clearly see and hear Jesus? My Jesus, I know I am not worthy because of my little faith. Thank You for answering my prayers despite that. St. Cyril of Alexandria, bishop and Doctor of the Church,
+What do you have to stop doing today so you can clearly see and hear Jesus?
+
+### Prayer
+
+My Jesus, I know I am not worthy because of my little faith. Thank You for answering my prayers despite that.
+
+### Saint of the Day
+
+St. Cyril of Alexandria, bishop and Doctor of the Church
 
 ---
 
@@ -2280,7 +2766,11 @@ When God commands us to do something, He doesn’t leave us on our own to do it.
 
 ### Prayer
 
-Lord, help my inability. Be my strength in my weakness, my courage in the midst of my fear, my firm footing in all the uncertainty. Saint Irenaeus, bishop and martyr,
+Lord, help my inability. Be my strength in my weakness, my courage in the midst of my fear, my firm footing in all the uncertainty.
+
+### Saint of the Day
+
+Saint Irenaeus, bishop and martyr
 
 ---
 
@@ -2296,7 +2786,7 @@ Lord, You show me Your lavish love through the people around me. May I never tak
 
 ### Saint of the Day
 
-Solemnity of Saints Peter
+Saints Peter and Paul, Apostles
 
 ---
 
@@ -2304,7 +2794,15 @@ Solemnity of Saints Peter
 
 ### Reflect
 
-“Faith and fear both demand you believe in something you cannot see. You choose.” (Unknown) Lord, I believe. Help my unbelief. Thank You for Your untiring patience with me. Make me stronger through my fearful situations. The First Martyrs of the Holy Roman Church,
+“Faith and fear both demand you believe in something you cannot see. You choose.” (Unknown)
+
+### Prayer
+
+Lord, I believe. Help my unbelief. Thank You for Your untiring patience with me. Make me stronger through my fearful situations.
+
+### Saint of the Day
+
+The First Martyrs of the Holy Roman Church
 
 ---
 
@@ -2344,11 +2842,15 @@ Saint Ariston and companions
 
 ### Reflect
 
-Where in your life do you feel left out or forgotten, and how might Jesus be inviting you to trust Him in it? Jesus, when I feel left out, help me trust that You see me. Strengthen my faith and remind me that You are always near. Amen. Saint Thomas, Apostle,
+Where in your life do you feel left out or forgotten, and how might
+
+### Prayer
+
+Jesus be inviting you to trust Him in it? Jesus, when I feel left out, help me trust that You see me. Strengthen my faith and remind me that You are always near. Amen.
 
 ### Saint of the Day
 
-Feast of Saint Thomas,
+Saint Thomas, Apostle
 
 ---
 
@@ -2356,7 +2858,11 @@ Feast of Saint Thomas,
 
 ### Reflect
 
-Are you willing to trust God and let go of what no longer serves His purpose? My Jesus, help me to be humble and open to Your guidance. Grant me the wisdom to know when to hold on and when to let go. Amen. St. Elizabeth of Portugal,
+Are you willing to trust God and let go of what no longer serves His purpose?
+
+### Prayer
+
+My Jesus, help me to be humble and open to Your guidance. Grant me the wisdom to know when to hold on and when to let go. Amen.
 
 ### Saint of the Day
 
@@ -2368,7 +2874,15 @@ St. Elizabeth of Portugal
 
 ### Reflect
 
-What worthwhile activity can you do today that can create value, provide service to others, or help fulfill your life’s purpose? Dear Lord, guide and help me schedule my days and design my life to avoid the fleeting temptations of the world and the flesh. Amen. St. Anthony Zaccaria, priest,
+What worthwhile activity can you do today that can create value, provide service to others, or help fulfill your life’s purpose?
+
+### Prayer
+
+Dear Lord, guide and help me schedule my days and design my life to avoid the fleeting temptations of the world and the flesh. Amen.
+
+### Saint of the Day
+
+St. Anthony Zaccaria, priest
 
 ---
 
@@ -2382,13 +2896,21 @@ How we respond to haters and handle criticisms reflects our level of maturity.
 
 Dear Lord, fill me with Your peace and compassion that I may not be swayed by negativity around me. Guide me with Your wisdom so I may respond to haters with grace, understanding, and forgiveness. Amen.
 
+### Saint of the Day
+
+St. Maria Goretti, virgin and martyr
+
 ---
 
 ## 2026-07-07 — Called To Love Daily
 
 ### Reflect
 
-Ask God during your prayer time: “What do You want me to do, and where do You want me to go? Who are the people whom You want me to love today?” Father, direct our steps and reveal the work You have prepared for me. Guide me to those You’re calling me to lead closer to You. Amen. Blessed Maria Romero Meneses,
+Ask God during your prayer time: “What do You want me to do, and where do You want me to go? Who are the people whom You want me to love today?”
+
+### Prayer
+
+Father, direct our steps and reveal the work You have prepared for me. Guide me to those You’re calling me to lead closer to You. Amen.
 
 ### Saint of the Day
 
@@ -2400,11 +2922,7 @@ Blessed Maria Romero Meneses
 
 ### Reflect
 
-You, too, are called to go after the “lost sheep.” You can join The Feast near you and find many ways how. Thank You,
-
-### Prayer
-
-Lord, for the grace to answer Your call to seek the lost. I, too, was once lost and You found me. Saint Withburga,
+You, too, are called to go after the “lost sheep.” You can join The Feast near you and find many ways how. Thank You, Lord, for the grace to answer Your call to seek the lost. I, too, was once lost and You found me.
 
 ### Saint of the Day
 
@@ -2420,7 +2938,7 @@ If you’ve strayed far from God or ignored His leading in your life, quit runni
 
 ### Prayer
 
-Lord, my safest place is in Your arms. May I run back home to You now. St. Joseph Zhang Dapeng,
+Lord, my safest place is in Your arms. May I run back home to You now.
 
 ### Saint of the Day
 
@@ -2436,7 +2954,7 @@ St. Joseph Zhang Dapeng
 
 ### Prayer
 
-Lord, make me a servant, humble and meek. Saint Amalberga,
+Lord, make me a servant, humble and meek.
 
 ### Saint of the Day
 
@@ -2452,7 +2970,11 @@ Is God calling you to speak His truth in a way that’s unpopular? Say this ofte
 
 ### Prayer
 
-Jesus, empower me to be Your mouthpiece to bring Your healing to this broken world. Saint Benedict, abbot,
+Jesus, empower me to be Your mouthpiece to bring Your healing to this broken world.
+
+### Saint of the Day
+
+Saint Benedict, abbot
 
 ---
 
@@ -2460,7 +2982,11 @@ Jesus, empower me to be Your mouthpiece to bring Your healing to this broken wor
 
 ### Reflect
 
-“Many parables are strange and initially off-putting and puzzling. Of course, that is the point of parables: to bother us, throw us off base, confuse us a bit.” (Bishop Robert Barron) “Disturb us, O Lord, when with the abundance of things we possess, we have lost our thirst for the water of life when, having fallen in love with time, we have ceased to dream of eternity and in our efforts to build a new earth, we have allowed our vision of heaven to grow dim.” (Sir Francis Drake) St. John Jones, priest and martyr,
+“Many parables are strange and initially off-putting and puzzling. Of course, that is the point of parables: to bother us, throw us off base, confuse us a bit.” (Bishop Robert Barron) “Disturb us, O Lord, when with the abundance of things we possess, we have lost our thirst for the water of life when, having fallen in love with time, we have ceased to dream of eternity and in our efforts to build a new earth, we have allowed our vision of heaven to grow dim.” (Sir Francis Drake)
+
+### Saint of the Day
+
+St. John Jones, priest and martyr
 
 ---
 
@@ -2468,7 +2994,11 @@ Jesus, empower me to be Your mouthpiece to bring Your healing to this broken wor
 
 ### Reflect
 
-Small things are made bigger if they are offered as a prayer to God. Accept, oh Lord, these small acts of mine that I choose to bless You through. Amen. Saint Henry II,
+Small things are made bigger if they are offered as a prayer to
+
+### Prayer
+
+God. Accept, oh Lord, these small acts of mine that I choose to bless You through. Amen.
 
 ### Saint of the Day
 
@@ -2480,7 +3010,7 @@ Saint Henry II
 
 ### Reflect
 
-“In trial or difficulty, I have recourse to Mother Mary, whose glance alone is enough to dissipate every fear.” (St. Therese of Lisieux) “Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided.” (Memorare) St. Kateri Tekakwitha,
+“In trial or difficulty, I have recourse to Mother Mary, whose glance alone is enough to dissipate every fear.” (St. Therese of Lisieux) “Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided.” (Memorare)
 
 ### Saint of the Day
 
@@ -2492,7 +3022,15 @@ St. Kateri Tekakwitha
 
 ### Reflect
 
-How does your frustration over the need for control, power, and having your own way manifest itself? Do you think it’s helping your life? Dearest Lord, remind me to stop and come to You when I try to assert my power and control. Let me experience Your love so I may rest easy. Amen. Saint Bonaventure, bishop and Doctor of the Church,
+How does your frustration over the need for control, power, and having your own way manifest itself? Do you think it’s helping your life?
+
+### Prayer
+
+Dearest Lord, remind me to stop and come to You when I try to assert my power and control. Let me experience Your love so I may rest easy. Amen.
+
+### Saint of the Day
+
+Saint Bonaventure, bishop and Doctor of the Church
 
 ---
 
@@ -2504,7 +3042,7 @@ What are your fears? Ask God for the wisdom to deal with them and the grace to s
 
 ### Prayer
 
-Jesus, I trust in You. Our Lady of Mount Carmel,
+Jesus, I trust in You.
 
 ### Saint of the Day
 
@@ -2516,7 +3054,11 @@ Our Lady of Mount Carmel
 
 ### Reflect
 
-“Unfurl the sails, and let God steer us where He will.” (St. Bede the Venerable) Lord, You answer all my prayers in the best version possible and in the most perfect time. Teach me to trust in Your ways. Saint Alexis,
+“Unfurl the sails, and let God steer us where He will.” (St. Bede the Venerable)
+
+### Prayer
+
+Lord, You answer all my prayers in the best version possible and in the most perfect time. Teach me to trust in Your ways.
 
 ### Saint of the Day
 
@@ -2560,11 +3102,11 @@ Saints Justa and Rufina
 
 ### Reflect
 
-“God does not love us because we are valuable. We are valuable because God loves us.” (Bishop Fulton Sheen) Dear
+“God does not love us because we are valuable. We are valuable because God loves us.” (Bishop Fulton Sheen)
 
 ### Prayer
 
-Lord, thank You for allowing me to feel Your personal presence in my daily life. St. Joseph of Barsabas,
+Dear Lord, thank You for allowing me to feel Your personal presence in my daily life.
 
 ### Saint of the Day
 
@@ -2576,7 +3118,15 @@ St. Joseph of Barsabas
 
 ### Reflect
 
-“Grandchildren are the crown of the aged.” (Proverbs 17:6) Lord, guide us as we shepherd our little flock with Your staff of wisdom and grace. In Jesus’ name. Amen. St. Lawrence of Brindisi, priest and Doctor of the Church,
+“Grandchildren are the crown of the aged.” (Proverbs 17:6)
+
+### Prayer
+
+Lord, guide us as we shepherd our little flock with Your staff of wisdom and grace. In Jesus’ name. Amen.
+
+### Saint of the Day
+
+St. Lawrence of Brindisi, priest and Doctor of the Church
 
 ---
 
@@ -2584,7 +3134,11 @@ St. Joseph of Barsabas
 
 ### Reflect
 
-“She discovers the most shocking event in human history when finally He calls her by name!” (Pope Francis) Jesus, help me hear You when I feel lost. Remind me that I am known and loved by You. Amen. St. Mary Magdalene,
+“She discovers the most shocking event in human history when finally He calls her by name!” (Pope Francis)
+
+### Prayer
+
+Jesus, help me hear You when I feel lost. Remind me that I am known and loved by You. Amen.
 
 ### Saint of the Day
 
@@ -2600,7 +3154,11 @@ List the personal moments when God’s love became real to you.
 
 ### Prayer
 
-Lord, You bless me every day. Open my eyes to the great things You are doing. Don’t let me miss any of them. Saint Bridget, religious,
+Lord, You bless me every day. Open my eyes to the great things You are doing. Don’t let me miss any of them.
+
+### Saint of the Day
+
+Saint Bridget, religious
 
 ---
 
@@ -2608,7 +3166,11 @@ Lord, You bless me every day. Open my eyes to the great things You are doing. Do
 
 ### Reflect
 
-“We must speak to them with our hands before we try to speak with our lips.” (Saint Peter Claver) Father, grant me the wisdom to understand Your Word and the heart to live it. Amen. St. Kinga of Poland,
+“We must speak to them with our hands before we try to speak with our lips.” (Saint Peter Claver)
+
+### Prayer
+
+Father, grant me the wisdom to understand Your Word and the heart to live it. Amen.
 
 ### Saint of the Day
 
@@ -2620,11 +3182,15 @@ St. Kinga of Poland
 
 ### Reflect
 
-What insights have you gained through your own suffering? Father, thank You for walking with me through every trial, for being a constant presence in times of suffering and uncertainty. Help me to trust You more deeply and to find peace in Your love that goes beyond my own understanding. Amen. Saint James, Apostle,
+What insights have you gained through your own suffering?
+
+### Prayer
+
+Father, thank You for walking with me through every trial, for being a constant presence in times of suffering and uncertainty. Help me to trust You more deeply and to find peace in Your love that goes beyond my own understanding. Amen.
 
 ### Saint of the Day
 
-Feast of Saint James, Apostle
+Saint James, Apostle
 
 ---
 
@@ -2640,7 +3206,7 @@ Lord, I ask not for what I want but what You desire for me. Amen.
 
 ### Saint of the Day
 
-Blessed Virgin Mary
+Saints Joachim and Anne, parents of the Blessed Virgin Mary
 
 ---
 
@@ -2648,7 +3214,11 @@ Blessed Virgin Mary
 
 ### Reflect
 
-“If one part suffers, all the parts suffer with it; if one part is honored, all the parts share its joy.” (1 Corinthians 12:26) Lord, lead me to a prayer group or parish organization that will enhance my relationship with You. Let me feel Your love more through my community members. Saint Pantaleon,
+“If one part suffers, all the parts suffer with it; if one part is honored, all the parts share its joy.” (1 Corinthians 12:26)
+
+### Prayer
+
+Lord, lead me to a prayer group or parish organization that will enhance my relationship with You. Let me feel Your love more through my community members.
 
 ### Saint of the Day
 
@@ -2658,13 +3228,9 @@ Saint Pantaleon
 
 ## 2026-07-28 — Cry And Cry
 
-### Reflect
-
-My tears are like prayers.
-
 ### Prayer
 
-Jesus is with me in my grief. He knows how I feel because He, too, has wept. Dearest Lord, I know You see me. “You keep track of all my sorrows. You have collected my tears in Your bottle and have recorded each one in Your book” (Psalm 56:8). Amen.
+My tears are like prayers. Jesus is with me in my grief. He knows how I feel because He, too, has wept. Dearest Lord, I know You see me. “You keep track of all my sorrows. You have collected my tears in Your bottle and have recorded each one in Your book” (Psalm 56:8). Amen.
 
 ### Saint of the Day
 
@@ -2680,11 +3246,11 @@ Worry does not do a single thing in our life except stress us out. It is the pri
 
 ### Prayer
 
-Jesus, give me the wisdom to know what truly matters at this moment, and give me the grace to choose to enjoy and embrace it. Saints Mary, Martha and Lazaruz,
+Jesus, give me the wisdom to know what truly matters at this moment, and give me the grace to choose to enjoy and embrace it.
 
 ### Saint of the Day
 
-Memorial of Saints Mary,
+Saints Mary, Martha and Lazaruz
 
 ---
 
@@ -2692,7 +3258,15 @@ Memorial of Saints Mary,
 
 ### Reflect
 
-As a Christ follower, are you catching every kind of fish? Lord, when I’m inclined to judge and be self-righteous, remind me that I am a sinner always in need of mercy, just like everyone else. St. Peter Chrysologus, bishop and Doctor of the Church,
+As a Christ follower, are you catching every kind of fish?
+
+### Prayer
+
+Lord, when I’m inclined to judge and be self-righteous, remind me that I am a sinner always in need of mercy, just like everyone else.
+
+### Saint of the Day
+
+St. Peter Chrysologus, bishop and Doctor of the Church
 
 ---
 
@@ -2704,7 +3278,11 @@ Are you praying for a miracle? Do you have faith? What preparations have you mad
 
 ### Prayer
 
-Lord, strengthen my faith as I wait for Your miracles. St. Ignatius of Loyola, priest,
+Lord, strengthen my faith as I wait for Your miracles.
+
+### Saint of the Day
+
+St. Ignatius of Loyola, priest
 
 ---
 
@@ -2712,11 +3290,11 @@ Lord, strengthen my faith as I wait for Your miracles. St. Ignatius of Loyola, p
 
 ### Reflect
 
-You are a prophet. Yes, you can shape the destiny of your children, friends, and loved ones with your words. Bless my lips,
+You are a prophet. Yes, you can shape the destiny of your children, friends, and loved ones with your words. Bless my lips, Lord, that I may only speak words that uplift others. Amen.
 
-### Prayer
+### Saint of the Day
 
-Lord, that I may only speak words that uplift others. Amen.
+St. Alphonsus Liguori, bishop
 
 ---
 
@@ -2724,7 +3302,15 @@ Lord, that I may only speak words that uplift others. Amen.
 
 ### Reflect
 
-What do you have in your hand? Will you allow God to use it to bless the world? Dear God, I offer to You the little that I have. I give You all that I have. I pray that You take them, use them, multiply them for Your glory. Amen. St. Eusebius of Vercelli, bishop,
+What do you have in your hand? Will you allow God to use it to bless the world?
+
+### Prayer
+
+Dear God, I offer to You the little that I have. I give You all that I have. I pray that You take them, use them, multiply them for Your glory. Amen.
+
+### Saint of the Day
+
+St. Eusebius of Vercelli, bishop
 
 ---
 
@@ -2752,7 +3338,11 @@ Saint Gamaliel
 
 ### Prayer
 
-Jesus, stay with me when I think I can handle things on my own. When stubborn, lead and guide me closer to You. St. John Marie Vianney, priest,
+Jesus, stay with me when I think I can handle things on my own. When stubborn, lead and guide me closer to You.
+
+### Saint of the Day
+
+St. John Marie Vianney, priest
 
 ---
 
@@ -2776,11 +3366,11 @@ St. Casian of Autun
 
 ### Reflect
 
-How is God revealing Himself to you and calling you to be more like Him? How lovely it is to be in Your presence, oh Lord. May I continue to change for the better through Your powerful transforming love. Saint Hormisdas, pope,
+How is God revealing Himself to you and calling you to be more like Him? How lovely it is to be in Your presence, oh Lord. May I continue to change for the better through Your powerful transforming love.
 
 ### Saint of the Day
 
-Feast of the Transfiguration
+Saint Hormisdas, pope
 
 ---
 
@@ -2788,7 +3378,15 @@ Feast of the Transfiguration
 
 ### Reflect
 
-What do you see as a cross in your life today? Lord, help me carry my cross with love. Fill my heart with gratitude so I may follow You always. Amen. Saint Cajetan, priest,
+What do you see as a cross in your life today?
+
+### Prayer
+
+Lord, help me carry my cross with love. Fill my heart with gratitude so I may follow You always. Amen.
+
+### Saint of the Day
+
+Saint Cajetan, priest
 
 ---
 
@@ -2802,6 +3400,10 @@ Are you facing “mountains”? Have faith. You can and will move them with God.
 
 Dear God, I believe that even with my mustard seed of faith, we will continue moving mountains. In Jesus’ name. Amen.
 
+### Saint of the Day
+
+Saint Dominic, priest
+
 ---
 
 ## 2026-08-09 — Focus
@@ -2812,7 +3414,7 @@ When fear takes hold of you, quickly refocus on Jesus and the impossible becomes
 
 ### Prayer
 
-Lord, be my anchor when I feel overwhelmed by fear and worry. St. Candida Maria of Jesus,
+Lord, be my anchor when I feel overwhelmed by fear and worry.
 
 ### Saint of the Day
 
@@ -2830,13 +3432,21 @@ Do you also feel as if sometimes, you’ve run out of graces and resources? God 
 
 Father God, I praise and thank You for the unlimited graces that You give me every day. With You, God, I will never run out. Amen.
 
+### Saint of the Day
+
+Saint Lawrence, deacon and martyr
+
 ---
 
 ## 2026-08-11
 
 ### Reflect
 
-What childhood memory do you fondly recall? How does remembering this impact who you are today? Angel of God, my guardian dear, to whom God’s love commits me here. Ever this day, be at my side, to light and guard, to rule and guide. Amen. St. Clare of Assisi, virgin,
+What childhood memory do you fondly recall? How does remembering this impact who you are today? Angel of God, my guardian dear, to whom God’s love commits me here. Ever this day, be at my side, to light and guard, to rule and guide. Amen.
+
+### Saint of the Day
+
+St. Clare of Assisi, virgin
 
 ---
 
@@ -2848,7 +3458,7 @@ Who in your life needs to hear the loving truth that will set them free? Ask for
 
 ### Prayer
 
-Dear Jesus, help me to love my neighbor and, if necessary, to correct them with love. St. Jane Frances de Chantal,
+Dear Jesus, help me to love my neighbor and, if necessary, to correct them with love.
 
 ### Saint of the Day
 
@@ -2860,11 +3470,11 @@ St. Jane Frances de Chantal
 
 ### Reflect
 
-Are you ready to receive God’s best? What life decisions do you have to make or act on, to meet and cooperate with God’s grace? Dear
+Are you ready to receive God’s best? What life decisions do you have to make or act on, to meet and cooperate with God’s grace?
 
 ### Prayer
 
-Lord, with Your mercy and grace, allow me to show You signs of humility, trust, obedience, and love. Amen.
+Dear Lord, with Your mercy and grace, allow me to show You signs of humility, trust, obedience, and love. Amen.
 
 ### Saint of the Day
 
@@ -2876,7 +3486,15 @@ Saint Benilde
 
 ### Reflect
 
-What do you have to do to be more faithful in your relationship with the Lord? Lord, give me the discipline to be a true disciple. Teach me to be faithful to You. St. Maximilian Mary Kolbe, priest and martyr,
+What do you have to do to be more faithful in your relationship with the Lord?
+
+### Prayer
+
+Lord, give me the discipline to be a true disciple. Teach me to be faithful to You.
+
+### Saint of the Day
+
+St. Maximilian Mary Kolbe, priest and martyr
 
 ---
 
@@ -2884,7 +3502,7 @@ What do you have to do to be more faithful in your relationship with the Lord? L
 
 ### Reflect
 
-“We are terrified of her! She is too powerful! She always defeats us because she is humble, and we are proud.” (Excerpt from an exorcism with Fr. Gabriel Amorth, former chief exorcist of Rome) Mama Mary, grant me the grace to be wholly obedient and humble to God always as you were. Saint Alipius,
+“We are terrified of her! She is too powerful! She always defeats us because she is humble, and we are proud.” (Excerpt from an exorcism with Fr. Gabriel Amorth, former chief exorcist of Rome) Mama Mary, grant me the grace to be wholly obedient and humble to God always as you were.
 
 ### Saint of the Day
 
@@ -2900,7 +3518,7 @@ Saint Alipius
 
 ### Prayer
 
-Lord, listen to my restless cries as You listen to the cries of little children. St. Stephen of Hungary,
+Lord, listen to my restless cries as You listen to the cries of little children.
 
 ### Saint of the Day
 
@@ -2912,7 +3530,11 @@ St. Stephen of Hungary
 
 ### Reflect
 
-Do you strive for perfection—which is only God—or excellence— which only God’s grace provides to the believer? Lord, I strive eagerly for the greatest spiritual gifts, the more excellent way of love (cf. 1 Corinthians 12:31). St. Clare of Montefalco,
+Do you strive for perfection—which is only God—or excellence— which only God’s grace provides to the believer?
+
+### Prayer
+
+Lord, I strive eagerly for the greatest spiritual gifts, the more excellent way of love (cf. 1 Corinthians 12:31).
 
 ### Saint of the Day
 
@@ -2924,7 +3546,11 @@ St. Clare of Montefalco
 
 ### Reflect
 
-What are your “riches” that lead you away from God? Father, I am sorry for the times I made my “riches” more important than You. May I desire to always seek You first. Amen. Saint Helena,
+What are your “riches” that lead you away from God?
+
+### Prayer
+
+Father, I am sorry for the times I made my “riches” more important than You. May I desire to always seek You first. Amen.
 
 ### Saint of the Day
 
@@ -2936,7 +3562,15 @@ Saint Helena
 
 ### Reflect
 
-What small act of justice can you do for someone today? Jesus, fill my heart with the genuine spirit of Your mercy, so that I may act with justice to the person You send my way. Amen. St. John Eudes, priest,
+What small act of justice can you do for someone today?
+
+### Prayer
+
+Jesus, fill my heart with the genuine spirit of Your mercy, so that I may act with justice to the person You send my way. Amen.
+
+### Saint of the Day
+
+St. John Eudes, priest
 
 ---
 
@@ -2944,7 +3578,11 @@ What small act of justice can you do for someone today? Jesus, fill my heart wit
 
 ### Reflect
 
-“There are some things that people cannot do, but God can do anything.” (Luke 18:27, CEV) “Come, Holy Spirit, I need You. Come, Holy Spirit, I pray. Come with Your strength and Your power. Come in Your own special way.” St. Bernard of Clairvaux, abbot and Doctor of the Church,
+“There are some things that people cannot do, but God can do anything.” (Luke 18:27, CEV) “Come, Holy Spirit, I need You. Come, Holy Spirit, I pray. Come with Your strength and Your power. Come in Your own special way.”
+
+### Saint of the Day
+
+St. Bernard of Clairvaux, abbot and Doctor of the Church
 
 ---
 
@@ -2958,13 +3596,21 @@ What small act of justice can you do for someone today? Jesus, fill my heart wit
 
 Lord, thank You for loving an imperfect person like me. Teach me that loving people is the best way to love You. Amen.
 
+### Saint of the Day
+
+Saint Pius X, pope
+
 ---
 
 ## 2026-08-22 — The Reason I Shout
 
 ### Reflect
 
-Are you hard on other people? If so, have you asked yourself why? Lord, You always do what You say. Help me to be more like You in that way. St. Andrew the Scot,
+Are you hard on other people? If so, have you asked yourself why?
+
+### Prayer
+
+Lord, You always do what You say. Help me to be more like You in that way.
 
 ### Saint of the Day
 
@@ -2976,11 +3622,11 @@ St. Andrew the Scot
 
 ### Reflect
 
-“We are not the sum of our weaknesses and failures, we are the sum of the Father’s love for us and our real capacity to become the image of His Son Jesus.” (St. Pope John Paul II) “
+“We are not the sum of our weaknesses and failures, we are the sum of the Father’s love for us and our real capacity to become the image of His Son Jesus.” (St. Pope John Paul II) “Lord, I praise You because I am fearfully and wonderfully made; Your works are wonderful, I know that full well.” (Psalm 139:14)
 
-### Prayer
+### Saint of the Day
 
-Lord, I praise You because I am fearfully and wonderfully made; Your works are wonderful, I know that full well.” (Psalm 139:14) St. Rose of Lima, virgin,
+St. Rose of Lima, virgin
 
 ---
 
@@ -2988,11 +3634,15 @@ Lord, I praise You because I am fearfully and wonderfully made; Your works are w
 
 ### Reflect
 
-For the many blessings God has bestowed upon you, do you still doubt His wonder? Father, teach me to open myself to the universe of blessings You have laid before me. May I always remember that I am more valuable than all of Your creation and that You are ever with me. Amen. Saint Bartholomew, Apostle,
+For the many blessings God has bestowed upon you, do you still doubt His wonder?
+
+### Prayer
+
+Father, teach me to open myself to the universe of blessings You have laid before me. May I always remember that I am more valuable than all of Your creation and that You are ever with me. Amen.
 
 ### Saint of the Day
 
-Feast of Saint Bartholomew,
+Saint Bartholomew, Apostle
 
 ---
 
@@ -3000,7 +3650,11 @@ Feast of Saint Bartholomew,
 
 ### Reflect
 
-“The first step to receiving an answer is being brave enough to ask a question.” (Kaitlyn Bouchillon) Jesus, I thank You for Your goodness. Thank You that You choose to reveal Yourself to me. Help me know You more and more each day. Amen. St. Louis of France,
+“The first step to receiving an answer is being brave enough to ask a question.” (Kaitlyn Bouchillon)
+
+### Prayer
+
+Jesus, I thank You for Your goodness. Thank You that You choose to reveal Yourself to me. Help me know You more and more each day. Amen.
 
 ### Saint of the Day
 
@@ -3016,7 +3670,7 @@ Your work is not just a job where you earn money to make a living. Your job is y
 
 ### Prayer
 
-Lord, may I keep walking my talk so I can connect my life and those of others to Your sacred mission. Blessed Thomas Percy,
+Lord, may I keep walking my talk so I can connect my life and those of others to Your sacred mission.
 
 ### Saint of the Day
 
@@ -3044,19 +3698,23 @@ Saint Monica
 
 ### Reflect
 
-Are you ready if God calls you back soon? What do you need to do that will make you ready and peaceful? Lord, give me a peaceful heart to always be ready for Your return. St. Augustine of Hippo, bishop and Doctor of the Church,
+Are you ready if God calls you back soon? What do you need to do that will make you ready and peaceful?
+
+### Prayer
+
+Lord, give me a peaceful heart to always be ready for Your return.
+
+### Saint of the Day
+
+St. Augustine of Hippo, bishop and Doctor of the Church
 
 ---
 
 ## 2026-08-29 — Called And Chosen
 
-### Reflect
-
-God uses people and circumstances to draw us to Him. Thank God for those He has used to bring you closer to Him. Think of others that you can bring to Him too.
-
 ### Prayer
 
-Father, thank You for calling me and choosing me to be in a relationship with You. Thank You for the people You used to call me. Amen.
+God uses people and circumstances to draw us to Him. Thank God for those He has used to bring you closer to Him. Think of others that you can bring to Him too. Father, thank You for calling me and choosing me to be in a relationship with You. Thank You for the people You used to call me. Amen.
 
 ### Saint of the Day
 
@@ -3072,7 +3730,7 @@ Do you sometimes feel like the world is making you regret your decision to follo
 
 ### Prayer
 
-Jesus, my Savior, help me to be brutally honest with You, knowing that You will never abandon me even when I’m full of doubt. St. Jeanne Jugan,
+Jesus, my Savior, help me to be brutally honest with You, knowing that You will never abandon me even when I’m full of doubt.
 
 ### Saint of the Day
 
@@ -3100,11 +3758,15 @@ St. Raymond Nonnatus
 
 ### Reflect
 
-In the darkest pit, when you’re frail and weak with nothing left to give, know that God will always pull you through. Dearest
+In the darkest pit, when you’re frail and weak with nothing left to give, know that God will always pull you through.
 
 ### Prayer
 
-Lord, thank You for not giving up on me. Amen.
+Dearest Lord, thank You for not giving up on me. Amen.
+
+### Saint of the Day
+
+Saint Giles, abbot
 
 ---
 
@@ -3112,7 +3774,15 @@ Lord, thank You for not giving up on me. Amen.
 
 ### Reflect
 
-When God changes the trajectory of your life, will you respond by going to “the other towns” to proclaim the Kingdom of God? Lord, help me to see and hear Your voice always so I may follow and obey You for the rest of my life. Amen. Saint Zeno, martyr,
+When God changes the trajectory of your life, will you respond by going to “the other towns” to proclaim the Kingdom of God?
+
+### Prayer
+
+Lord, help me to see and hear Your voice always so I may follow and obey You for the rest of my life. Amen.
+
+### Saint of the Day
+
+Saint Zeno, martyr
 
 ---
 
@@ -3120,7 +3790,15 @@ When God changes the trajectory of your life, will you respond by going to “th
 
 ### Reflect
 
-How can you make God use your imperfections for His greater glory today? Lord, thank You for seeing through me and continuing to use me, sinful and unworthy as I am. Today, I give You permission to step into my imperfect boat and minister to more souls on it. St. Gregory the Great, pope and Doctor of the Church,
+How can you make God use your imperfections for His greater glory today?
+
+### Prayer
+
+Lord, thank You for seeing through me and continuing to use me, sinful and unworthy as I am. Today, I give You permission to step into my imperfect boat and minister to more souls on it.
+
+### Saint of the Day
+
+St. Gregory the Great, pope and Doctor of the Church
 
 ---
 
@@ -3160,7 +3838,11 @@ St. Teresa of Calcutta
 
 ### Reflect
 
-“The family that prays together, stays together.” (Fr. Patrick Peyton, CSC) Lord, may You hear the prayers I lift up to You and look upon them with favor. Saint Dionysius,
+“The family that prays together, stays together.” (Fr. Patrick Peyton, CSC)
+
+### Prayer
+
+Lord, may You hear the prayers I lift up to You and look upon them with favor.
 
 ### Saint of the Day
 
@@ -3176,11 +3858,11 @@ When we trust in God’s timing and patiently wait for Him, we receive the gift 
 
 ### Prayer
 
-Jesus, I trust You to meet me where I am—even when I’m lost. Saint Regina,
+Jesus, I trust You to meet me where I am—even when I’m lost.
 
 ### Saint of the Day
 
-st. Saint Regina
+Saint Regina
 
 ---
 
@@ -3210,6 +3892,10 @@ Have you spent time with Jesus in the Blessed Sacrament? Try spending time with 
 
 Lord Jesus Christ, help me to always seek Your presence so I will always find joy in my sufferings. Amen.
 
+### Saint of the Day
+
+St. Peter Claver, priest
+
 ---
 
 ## 2026-09-10 — Mercy In Motion
@@ -3220,7 +3906,7 @@ Lord Jesus Christ, help me to always seek Your presence so I will always find jo
 
 ### Prayer
 
-Lord, help me to extend to others the mercy I have received from You. St. Peter Martinez,
+Lord, help me to extend to others the mercy I have received from You.
 
 ### Saint of the Day
 
@@ -3248,7 +3934,11 @@ St. Theodora of Alexandria
 
 ### Reflect
 
-Where in your life do you want Jesus to help you love more like Him? Lord, You see what’s in my heart, even the things I try to hide. Help me to grow in the areas where I fall short. Change the way I think, speak, and act so that what overflows from my life reflects Your love. Saint Ailbhe,
+Where in your life do you want Jesus to help you love more like Him?
+
+### Prayer
+
+Lord, You see what’s in my heart, even the things I try to hide. Help me to grow in the areas where I fall short. Change the way I think, speak, and act so that what overflows from my life reflects Your love.
 
 ### Saint of the Day
 
@@ -3260,19 +3950,23 @@ Saint Ailbhe
 
 ### Reflect
 
-“Forgiveness is above all a personal choice, a decision of the heart to go against the natural instinct to pay back evil with evil.” (Saint John Paul II) Lord, help me to forgive those who have wronged me. Help me to seek forgiveness from those whom I have hurt. Remind me always of my need for Your mercy and grace. Amen. St. John Chrysostom, bishop and Doctor of the Church,
+“Forgiveness is above all a personal choice, a decision of the heart to go against the natural instinct to pay back evil with evil.” (Saint John Paul II)
+
+### Prayer
+
+Lord, help me to forgive those who have wronged me. Help me to seek forgiveness from those whom I have hurt. Remind me always of my need for Your mercy and grace. Amen.
+
+### Saint of the Day
+
+St. John Chrysostom, bishop and Doctor of the Church
 
 ---
 
 ## 2026-09-14 — The Good, The Bad,
 
-### Reflect
-
-God created an imperfect world because if it was perfect, life would be so perfectly boring.
-
 ### Prayer
 
-Lord, You know the good, the bad, and the ugly in me. Thank You for still loving me. Saint Notburga,
+God created an imperfect world because if it was perfect, life would be so perfectly boring. Lord, You know the good, the bad, and the ugly in me. Thank You for still loving me.
 
 ### Saint of the Day
 
@@ -3300,7 +3994,15 @@ Our Lady of Sorrows
 
 ### Reflect
 
-Is your love mature? What “childish things” do you need to put away? Father, teach me to grow up into the adult child You call me to be. Saints Cornelius, pope, and Cyprian, bishop, martyrs,
+Is your love mature? What “childish things” do you need to put away?
+
+### Prayer
+
+Father, teach me to grow up into the adult child You call me to be.
+
+### Saint of the Day
+
+Saints Cornelius, pope, and Cyprian, bishop, martyrs
 
 ---
 
@@ -3308,7 +4010,15 @@ Is your love mature? What “childish things” do you need to put away? Father,
 
 ### Reflect
 
-“The gift of presence is a rare and beautiful gift. To come— unguarded, undistracted—and be fully present, fully engaged with whoever we are with at that moment.” (John Eldredge) Jesus, help me to focus and direct my efforts to what truly matters in my service to You. Let me see more of You in others and listen well so I can be truly present for them. St. Robert Bellarmine, bishop and Doctor of the Church,
+“The gift of presence is a rare and beautiful gift. To come— unguarded, undistracted—and be fully present, fully engaged with whoever we are with at that moment.” (John Eldredge)
+
+### Prayer
+
+Jesus, help me to focus and direct my efforts to what truly matters in my service to You. Let me see more of You in others and listen well so I can be truly present for them.
+
+### Saint of the Day
+
+St. Robert Bellarmine, bishop and Doctor of the Church
 
 ---
 
@@ -3316,11 +4026,11 @@ Is your love mature? What “childish things” do you need to put away? Father,
 
 ### Reflect
 
-If you feel like you can’t move on from your sins, you are denying the power of Jesus’ resurrection. Stop listening to the devil’s lies— Jesus has already died and risen for you. Live in that truth.
+If you feel like you can’t move on from your sins, you are denying the power of Jesus’ resurrection. Stop listening to the devil’s lies—
 
 ### Prayer
 
-Jesus, thank You for saving me, for the unlimited chances to return to You. Remind me that You never stop loving me. I want to return to You and live the best life in Your love and in Your arms. Amen.
+Jesus has already died and risen for you. Live in that truth. Jesus, thank You for saving me, for the unlimited chances to return to You. Remind me that You never stop loving me. I want to return to You and live the best life in Your love and in Your arms. Amen.
 
 ### Saint of the Day
 
@@ -3338,13 +4048,25 @@ Are you writing yourself off too? Are you losing hope in yourself? Don’t. The 
 
 Jesus, I still believe that the seed of Your Word in my life is forever alive. May I be patient with myself as You are patient with me. Amen.
 
+### Saint of the Day
+
+Saint Januarius, bishop and martyr
+
 ---
 
 ## 2026-09-20 — No Explanation Needed
 
 ### Reflect
 
-Are there situations in your life that are hard to accept? Lord, allow me to accept Your plans even if they are hard to comprehend at the moment. Help me to believe that Your plans are always for my best. Sts. Andrew Kim Taegon, Paul Chong Hasang, and companions,
+Are there situations in your life that are hard to accept?
+
+### Prayer
+
+Lord, allow me to accept Your plans even if they are hard to comprehend at the moment. Help me to believe that Your plans are always for my best.
+
+### Saint of the Day
+
+Sts. Andrew Kim Taegon, Paul Chong Hasang, and companions
 
 ---
 
@@ -3356,11 +4078,11 @@ Is God calling you to minister to someone? Pray for them. Write down their names
 
 ### Prayer
 
-Lord, unworthy as I am, use me to show mercy to other people as You have shown mercy to me. Saint Matthew, Apostle,
+Lord, unworthy as I am, use me to show mercy to other people as You have shown mercy to me.
 
 ### Saint of the Day
 
-Feast of Saint Matthew,
+Saint Matthew, Apostle
 
 ---
 
@@ -3368,7 +4090,11 @@ Feast of Saint Matthew,
 
 ### Reflect
 
-“God resists the proud, but gives grace to the humble.” (James 4:6) Father, remove any trace of arrogance in my heart. Remind me always that everything comes from You. Amen. Saint Lioba,
+“God resists the proud, but gives grace to the humble.” (James 4:6)
+
+### Prayer
+
+Father, remove any trace of arrogance in my heart. Remind me always that everything comes from You. Amen.
 
 ### Saint of the Day
 
@@ -3380,7 +4106,11 @@ Saint Lioba
 
 ### Reflect
 
-How has God called you to do His mission? What personal or communal ministry are you called to be in? How do you help share His Word? Father, I thank You for the honor and privilege of working for You. You called me by my name and equipped me with all the graces I need to fulfill Your mission for us. Whenever I stumble, please be my strength and help me to stand up again. Amen. St. Padre Pio de Pietrelcina,
+How has God called you to do His mission? What personal or communal ministry are you called to be in? How do you help share His Word?
+
+### Prayer
+
+Father, I thank You for the honor and privilege of working for You. You called me by my name and equipped me with all the graces I need to fulfill Your mission for us. Whenever I stumble, please be my strength and help me to stand up again. Amen.
 
 ### Saint of the Day
 
@@ -3392,7 +4122,11 @@ St. Padre Pio de Pietrelcina
 
 ### Reflect
 
-Do you really know Jesus? Do you seek Him with your whole heart or do you let distractions pull you away from Him? Lord, help me to have a burning desire to know You, love You, and serve You. May I always find time to be with You daily. Amen. St. Rupert of Salzburg,
+Do you really know Jesus? Do you seek Him with your whole heart or do you let distractions pull you away from Him?
+
+### Prayer
+
+Lord, help me to have a burning desire to know You, love You, and serve You. May I always find time to be with You daily. Amen.
 
 ### Saint of the Day
 
@@ -3404,11 +4138,7 @@ St. Rupert of Salzburg
 
 ### Reflect
 
-If there were even a one percent chance that God would meet you there, would you set up the two chairs? I am ready each day, O
-
-### Prayer
-
-Lord, for our dialogue. Amen.
+If there were even a one percent chance that God would meet you there, would you set up the two chairs? I am ready each day, O Lord, for our dialogue. Amen.
 
 ### Saint of the Day
 
@@ -3420,7 +4150,15 @@ Saint Cleophas
 
 ### Reflect
 
-“Don’t fear death, fear the un-lived life.” (Natalie Babbitt) Lord, “teach us to number our days, that we may gain a heart of wisdom” (Psalm 90:12). Saints Cosmas and Damian, martyrs,
+“Don’t fear death, fear the un-lived life.” (Natalie Babbitt)
+
+### Prayer
+
+Lord, “teach us to number our days, that we may gain a heart of wisdom” (Psalm 90:12).
+
+### Saint of the Day
+
+Saints Cosmas and Damian, martyrs
 
 ---
 
@@ -3428,7 +4166,15 @@ Saint Cleophas
 
 ### Reflect
 
-Keep going back to Jesus because He wants your heart. Even if you run away from Him, His love chases you, finds you, and heals you. Dearest Lord, thank You for bearing my sins and giving me the gift of eternal life. Forgive and restore me, according to Your promises that never fail. I surrender my life to You and will follow You all the days of my life. Amen. St. Vincent de Paul, priest,
+Keep going back to Jesus because He wants your heart. Even if you run away from Him, His love chases you, finds you, and heals you.
+
+### Prayer
+
+Dearest Lord, thank You for bearing my sins and giving me the gift of eternal life. Forgive and restore me, according to Your promises that never fail. I surrender my life to You and will follow You all the days of my life. Amen.
+
+### Saint of the Day
+
+St. Vincent de Paul, priest
 
 ---
 
@@ -3436,7 +4182,15 @@ Keep going back to Jesus because He wants your heart. Even if you run away from 
 
 ### Reflect
 
-“In suffering, love, and in loving, suffer!” (Blessed Maria Lopez of Jesus) Jesus, You endured the most cruel and unimaginable suffering and death on the cross to save me from sin. Teach me to unite my lesser sufferings to Your own so I can share in Your resurrection victory. St. Lorenzo Ruiz and companions, martyrs,
+“In suffering, love, and in loving, suffer!” (Blessed Maria Lopez of Jesus)
+
+### Prayer
+
+Jesus, You endured the most cruel and unimaginable suffering and death on the cross to save me from sin. Teach me to unite my lesser sufferings to Your own so I can share in Your resurrection victory.
+
+### Saint of the Day
+
+St. Lorenzo Ruiz and companions, martyrs
 
 ---
 
@@ -3444,11 +4198,15 @@ Keep going back to Jesus because He wants your heart. Even if you run away from 
 
 ### Reflect
 
-“False scales are an abomination to the Lord, but an honest weight, His delight.” (Proverbs 11:1) Lord, help me to be like Nathanael. May I refuse to live in duplicity so that my words will always be aligned with my actions. Amen. Saints Michael, Gabriel, and Raphael, archangels,
+“False scales are an abomination to the Lord, but an honest weight, His delight.” (Proverbs 11:1)
+
+### Prayer
+
+Lord, help me to be like Nathanael. May I refuse to live in duplicity so that my words will always be aligned with my actions. Amen.
 
 ### Saint of the Day
 
-Feast of Saints Michael,
+Saints Michael, Gabriel, and Raphael, archangels
 
 ---
 
@@ -3464,7 +4222,7 @@ Lord, help me trust You more deeply. Gently ease my doubts and fears, and give m
 
 ### Saint of the Day
 
-Memorial of Saint Jerome,
+Saint Jerome, priest and Doctor of the Church
 
 ---
 
@@ -3472,11 +4230,11 @@ Memorial of Saint Jerome,
 
 ### Reflect
 
-Trials come not to make our lives difficult, but to shape our character. Help us, Lord, to see You in our struggles, to believe that You are with us in our suffering. Make us strong enough to face them, knowing that You are at work in us. Amen. St. Therese of the Child
+Trials come not to make our lives difficult, but to shape our character. Help us, Lord, to see You in our struggles, to believe that You are with us in our suffering. Make us strong enough to face them, knowing that You are at work in us. Amen.
 
-### Prayer
+### Saint of the Day
 
-Jesus, virgin, Patroness of Missions,
+St. Therese of the Child Jesus, virgin, Patroness of Missions
 
 ---
 
@@ -3484,11 +4242,15 @@ Jesus, virgin, Patroness of Missions,
 
 ### Reflect
 
-What parts of your life make you forget how much you depend on God? How can you become more humble and secure in your trust in Him? Dear God, teach me to trust in You. When overwhelmed with problems, may I rely on You and lean not on my own understanding. Amen. Guardian Angels,
+What parts of your life make you forget how much you depend on God? How can you become more humble and secure in your trust in Him?
+
+### Prayer
+
+Dear God, teach me to trust in You. When overwhelmed with problems, may I rely on You and lean not on my own understanding. Amen.
 
 ### Saint of the Day
 
-Memorial of the Just like Job, we have a limited
+Guardian Angels
 
 ---
 
@@ -3500,7 +4262,7 @@ Who are the people who inspire you to live out your faith? How do you follow the
 
 ### Prayer
 
-Jesus, You are my joy. Give me the grace to submit to Your will. St. Mother Theodore Guérin,
+Jesus, You are my joy. Give me the grace to submit to Your will.
 
 ### Saint of the Day
 
@@ -3510,9 +4272,9 @@ St. Mother Theodore Guérin
 
 ## 2026-10-04 — Anxiety Reset
 
-### Reflect
+### Prayer
 
-Jesus already gave His life for you. What is still making you anxious? Father, thank You for sending Your Son, Jesus. Today, I renew my trust in Him and offer to You all my worries and fears. Amen. St. Francis of Assisi,
+Jesus already gave His life for you. What is still making you anxious? Father, thank You for sending Your Son, Jesus. Today, I renew my trust in Him and offer to You all my worries and fears. Amen.
 
 ### Saint of the Day
 
@@ -3524,7 +4286,15 @@ St. Francis of Assisi
 
 ### Reflect
 
-“Anyone who has love is far from sin.” (Saint Polycarp) Dear Lord, there is much You must change in me. Do Your work. Change my heart. Give me Yours. Amen. St. Maria Faustina Kowalska, virgin,
+“Anyone who has love is far from sin.” (Saint Polycarp)
+
+### Prayer
+
+Dear Lord, there is much You must change in me. Do Your work. Change my heart. Give me Yours. Amen.
+
+### Saint of the Day
+
+St. Maria Faustina Kowalska, virgin
 
 ---
 
@@ -3532,7 +4302,11 @@ St. Francis of Assisi
 
 ### Reflect
 
-Can you say that others praise God because of the transformation ongoing in your life? Almighty God, I need You. Change me, mold, me, and help me to proclaim You in my life. Amen. Saint Bruno, priest,
+Can you say that others praise God because of the transformation ongoing in your life? Almighty God, I need You. Change me, mold, me, and help me to proclaim You in my life. Amen.
+
+### Saint of the Day
+
+Saint Bruno, priest
 
 ---
 
@@ -3540,7 +4314,11 @@ Can you say that others praise God because of the transformation ongoing in your
 
 ### Reflect
 
-What do you want Jesus to teach you today? Lord, help me to seek You first. Teach me to pray, to listen, and to trust in You completely. Open my heart to see Your presence in my life. Amen. Our Lady of the Holy Rosary,
+What do you want Jesus to teach you today?
+
+### Prayer
+
+Lord, help me to seek You first. Teach me to pray, to listen, and to trust in You completely. Open my heart to see Your presence in my life. Amen.
 
 ### Saint of the Day
 
@@ -3552,11 +4330,11 @@ Our Lady of the Holy Rosary
 
 ### Reflect
 
-Are you asking God for something? Are you ready if God says no, or if He delays it, or replaces it with something better? Dear
+Are you asking God for something? Are you ready if God says no, or if He delays it, or replaces it with something better?
 
 ### Prayer
 
-God, grant me the grace to ask of You and to surrender to Your will if what I ask is truly good for me. Amen.
+Dear God, grant me the grace to ask of You and to surrender to Your will if what I ask is truly good for me. Amen.
 
 ### Saint of the Day
 
@@ -3568,7 +4346,11 @@ Saint Benedicta
 
 ### Reflect
 
-What Catholic teaching do you reject because you don’t fully understand or dislike it? Jesus, please give me the grace to transform my life so that I will fully glorify You. Amen. Saint Denis and companions,
+What Catholic teaching do you reject because you don’t fully understand or dislike it?
+
+### Prayer
+
+Jesus, please give me the grace to transform my life so that I will fully glorify You. Amen.
 
 ### Saint of the Day
 
@@ -3580,7 +4362,7 @@ Saint Denis and companions
 
 ### Reflect
 
-What kind of relationship do you have with God? What do your prayers consist of? Perhaps it’s time to just be still in His presence and let Him love you. I praise and thank You, Lord, for Your unconditional love. Teach me every day how to just be still in Your love and presence. Remind me that I only have to believe in You and receive Your love. I am already saved. Amen. St. Francis Borgia,
+What kind of relationship do you have with God? What do your prayers consist of? Perhaps it’s time to just be still in His presence and let Him love you. I praise and thank You, Lord, for Your unconditional love. Teach me every day how to just be still in Your love and presence. Remind me that I only have to believe in You and receive Your love. I am already saved. Amen.
 
 ### Saint of the Day
 
@@ -3608,7 +4390,11 @@ Saint Placidia
 
 ### Reflect
 
-How do you let go of your worries and desires in this materialistic world? Lord, all that I have and all that I am come from You. You have loved and cared for me since the beginning. I let go of things to come because I trust in You. Amen. St. Edwin of Northumbria,
+How do you let go of your worries and desires in this materialistic world?
+
+### Prayer
+
+Lord, all that I have and all that I am come from You. You have loved and cared for me since the beginning. I let go of things to come because I trust in You. Amen.
 
 ### Saint of the Day
 
@@ -3620,7 +4406,11 @@ St. Edwin of Northumbria
 
 ### Reflect
 
-“Spread love everywhere you go. Let no one ever come to you without leaving happier.” (St. Teresa of Calcutta) Holy Spirit, please fill my heart with Your presence. May I be a channel of Your love and mercy today. Saint Romulus,
+“Spread love everywhere you go. Let no one ever come to you without leaving happier.” (St. Teresa of Calcutta)
+
+### Prayer
+
+Holy Spirit, please fill my heart with Your presence. May I be a channel of Your love and mercy today.
 
 ### Saint of the Day
 
@@ -3636,7 +4426,11 @@ Saint Romulus
 
 ### Prayer
 
-Lord, in Your unconditional love, we always find complete justice. Saint Callistus I, pope and martyr,
+Lord, in Your unconditional love, we always find complete justice.
+
+### Saint of the Day
+
+Saint Callistus I, pope and martyr
 
 ---
 
@@ -3644,7 +4438,15 @@ Lord, in Your unconditional love, we always find complete justice. Saint Callist
 
 ### Reflect
 
-Are you a pretentious talker or an authentic witness? Lord, I know I’m not perfect, but may my imperfect struggle to align my actions to Your Word inspire others to draw closer to You. St. Teresa of Avila, virgin,
+Are you a pretentious talker or an authentic witness?
+
+### Prayer
+
+Lord, I know I’m not perfect, but may my imperfect struggle to align my actions to Your Word inspire others to draw closer to You.
+
+### Saint of the Day
+
+St. Teresa of Avila, virgin
 
 ---
 
@@ -3652,11 +4454,11 @@ Are you a pretentious talker or an authentic witness? Lord, I know I’m not per
 
 ### Reflect
 
-‘There is nothing God loves more than keeping promises, answering prayers, performing miracles, and fulfilling dreams. That is who He is. That is what He does.” (Mark Batterson) Dear
+‘There is nothing God loves more than keeping promises, answering prayers, performing miracles, and fulfilling dreams. That is who He is. That is what He does.” (Mark Batterson)
 
 ### Prayer
 
-Lord, help us be truthful and committed to our promise to love You all the time. Saint Gerard Majella,
+Dear Lord, help us be truthful and committed to our promise to love You all the time.
 
 ### Saint of the Day
 
@@ -3674,6 +4476,10 @@ P.U.S.H. Pray until something happens. Sometimes, God will move the mountain. So
 
 Lord, I know You’re listening. Help me to be patient, to believe, and to be faithful to what You’re doing. Amen.
 
+### Saint of the Day
+
+St. Ignatius of Antioch, bishop and martyr
+
 ---
 
 ## 2026-10-18 — Faith, Love, And Hope
@@ -3686,13 +4492,21 @@ Consider each of the three virtues and think of the last time you practiced them
 
 Jesus, help me to practice these virtues in my daily life, especially in situations when it is most difficult to do so. Help me also to encourage others to practice these virtues. Amen.
 
+### Saint of the Day
+
+Saint Luke, evangelist
+
 ---
 
 ## 2026-10-19
 
 ### Reflect
 
-What sacrifice are you being called to make to bring healing in your family? Jesus, give me the courage to lead and the love to make the sacrifice so that my family can heal. Amen. Saint Isaac Jogues and companions,
+What sacrifice are you being called to make to bring healing in your family?
+
+### Prayer
+
+Jesus, give me the courage to lead and the love to make the sacrifice so that my family can heal. Amen.
 
 ### Saint of the Day
 
@@ -3704,7 +4518,11 @@ Saint Isaac Jogues and companions
 
 ### Reflect
 
-Do you strive to cultivate a heart that is pleasing to God—one that’s ready to serve and love unconditionally? Lord, make me mindful of my sinfulness. Clothe my heart with mercy, compassion, and selflessness as I strive to worship and serve You in my daily life. St. Paul of the Cross,
+Do you strive to cultivate a heart that is pleasing to God—one that’s ready to serve and love unconditionally?
+
+### Prayer
+
+Lord, make me mindful of my sinfulness. Clothe my heart with mercy, compassion, and selflessness as I strive to worship and serve You in my daily life.
 
 ### Saint of the Day
 
@@ -3716,7 +4534,11 @@ St. Paul of the Cross
 
 ### Reflect
 
-If the Lord decides to call you today, are you ready? Lord, You know we are weak. Grant me and my family the grace to be ready so we can spend eternal life with You. Amen. Saint Hilarion,
+If the Lord decides to call you today, are you ready?
+
+### Prayer
+
+Lord, You know we are weak. Grant me and my family the grace to be ready so we can spend eternal life with You. Amen.
 
 ### Saint of the Day
 
@@ -3732,7 +4554,7 @@ If we profess to be followers of Jesus, then we know that crucifixion is an even
 
 ### Prayer
 
-Lord Jesus, grant me the courage and wisdom to respond to the challenging issues of this day, fostering love, justice, and the truth. St. Pope John Paul II,
+Lord Jesus, grant me the courage and wisdom to respond to the challenging issues of this day, fostering love, justice, and the truth.
 
 ### Saint of the Day
 
@@ -3744,7 +4566,15 @@ St. Pope John Paul II
 
 ### Reflect
 
-In your own household and company, what have you done to help those who have less to have more? Lord, help us help one another by using the power of design to keep the bond of peace. St. John of Capistrano, priest,
+In your own household and company, what have you done to help those who have less to have more?
+
+### Prayer
+
+Lord, help us help one another by using the power of design to keep the bond of peace.
+
+### Saint of the Day
+
+St. John of Capistrano, priest
 
 ---
 
@@ -3752,7 +4582,7 @@ In your own household and company, what have you done to help those who have les
 
 ### Reflect
 
-You are never on your own because you have your heavenly family. Call on the saints, angels, and all who’ve gone before you in faith. Let their prayers accompany yours today. Saints in heaven,
+You are never on your own because you have your heavenly family. Call on the saints, angels, and all who’ve gone before you in faith. Let their prayers accompany yours today.
 
 ### Saint of the Day
 
@@ -3764,7 +4594,11 @@ Saints in heaven
 
 ### Reflect
 
-What stops you from entrusting your heart to God? Lord God, teach me to love You. Amen. Saints Crispin and Crispinian,
+What stops you from entrusting your heart to God?
+
+### Prayer
+
+Lord God, teach me to love You. Amen.
 
 ### Saint of the Day
 
@@ -3776,7 +4610,11 @@ Saints Crispin and Crispinian
 
 ### Reflect
 
-What do you want God to set you free from? Lord, please set me free from the burdens that weigh me down. Help me to trust in Your power. Let Your hope and peace fill my heart, guiding me back to the life You have envisioned for me. Amen. St. Alfred the Great,
+What do you want God to set you free from?
+
+### Prayer
+
+Lord, please set me free from the burdens that weigh me down. Help me to trust in Your power. Let Your hope and peace fill my heart, guiding me back to the life You have envisioned for me. Amen.
 
 ### Saint of the Day
 
@@ -3788,7 +4626,11 @@ St. Alfred the Great
 
 ### Reflect
 
-“Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.” (Proverbs 3:3) Lord, may our love for each other be a mirror of the love You have for us, a love that sacrificed even life itself. Saint Florentius,
+“Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.” (Proverbs 3:3)
+
+### Prayer
+
+Lord, may our love for each other be a mirror of the love You have for us, a love that sacrificed even life itself.
 
 ### Saint of the Day
 
@@ -3800,11 +4642,11 @@ Saint Florentius
 
 ### Reflect
 
-“Don’t worry about anything, instead pray about everything.” (Philippians 4:6) Thank You, Lord, for answered prayers. Remind me to run to You always in times of sorrow, anxiety, and joy. Saints Simon and Jude, Apostles,
+“Don’t worry about anything, instead pray about everything.” (Philippians 4:6) Thank You, Lord, for answered prayers. Remind me to run to You always in times of sorrow, anxiety, and joy.
 
 ### Saint of the Day
 
-Feast of Saints Simon
+Saints Simon and Jude, Apostles
 
 ---
 
@@ -3812,7 +4654,11 @@ Feast of Saints Simon
 
 ### Reflect
 
-“For as Christ’s sufferings overflow to us, so through Christ does our encouragement also overflow.” (2 Corinthians 1:5) Lord, in my darkest moments, remind me that You are my refuge. Be my strength, my shield, and my peace. St. Narcissus of Jerusalem,
+“For as Christ’s sufferings overflow to us, so through Christ does our encouragement also overflow.” (2 Corinthians 1:5)
+
+### Prayer
+
+Lord, in my darkest moments, remind me that You are my refuge. Be my strength, my shield, and my peace.
 
 ### Saint of the Day
 
@@ -3824,7 +4670,11 @@ St. Narcissus of Jerusalem
 
 ### Reflect
 
-What painful situations has the Lord engineered to make you more like Him? Are you letting Him shape you? Take me. Mold me. Use me and fill me. I give my life as clay to You, my Great Potter. St. Alphonsus Rodriguez,
+What painful situations has the Lord engineered to make you more like Him? Are you letting Him shape you? Take me. Mold me. Use me and fill me. I give my life as clay to You,
+
+### Prayer
+
+my Great Potter.
 
 ### Saint of the Day
 
@@ -3836,7 +4686,11 @@ St. Alphonsus Rodriguez
 
 ### Reflect
 
-In what areas of your life are you tempted to seek recognition or control, rather than humbly trusting God to position and use you in His time and His way? God, keep my heart free from pride and my eyes fixed on what truly matters. Shape me in the quiet so I can be faithful in the calling. Amen. St. Wolfgang of Regensburg,
+In what areas of your life are you tempted to seek recognition or control, rather than humbly trusting God to position and use you in His time and His way?
+
+### Prayer
+
+God, keep my heart free from pride and my eyes fixed on what truly matters. Shape me in the quiet so I can be faithful in the calling. Amen.
 
 ### Saint of the Day
 
@@ -3848,11 +4702,15 @@ St. Wolfgang of Regensburg
 
 ### Reflect
 
-“It is better to be a child of God than king of the whole world.” (St. Aloysius Gonzaga) Dear Lord, help me to always remember that You made me a giant, that You love me in a gigantic way. Thank You for Your love, Lord. Amen. All Saints,
+“It is better to be a child of God than king of the whole world.” (St. Aloysius Gonzaga)
+
+### Prayer
+
+Dear Lord, help me to always remember that You made me a giant, that You love me in a gigantic way. Thank You for Your love, Lord. Amen.
 
 ### Saint of the Day
 
-Solemnity of All Saints
+All Saints
 
 ---
 
@@ -3860,11 +4718,11 @@ Solemnity of All Saints
 
 ### Reflect
 
-“If, during life, we have been kind to the suffering souls in purgatory, God will see that help be not denied us after death.” (St. Paul of the Cross) Eternal rest grant to all the poor souls in purgatory, O
+“If, during life, we have been kind to the suffering souls in purgatory, God will see that help be not denied us after death.” (St. Paul of the Cross) Eternal rest grant to all the poor souls in purgatory, O Lord, and let perpetual light shine upon them. May they all rest in peace. Amen.
 
-### Prayer
+### Saint of the Day
 
-Lord, and let perpetual light shine upon them. May they all rest in peace. Amen.
+All Souls
 
 ---
 
@@ -3872,7 +4730,15 @@ Lord, and let perpetual light shine upon them. May they all rest in peace. Amen.
 
 ### Reflect
 
-Have you allowed other commitments to outweigh the honor of being part of His Kingdom work? Lord, forgive me for the times I’ve put other things above You. Help me see service not as a burden but as a privilege. Give me a willing heart and the wisdom to balance my responsibilities. Amen. St. Martin de Porres, religious,
+Have you allowed other commitments to outweigh the honor of being part of His Kingdom work?
+
+### Prayer
+
+Lord, forgive me for the times I’ve put other things above You. Help me see service not as a burden but as a privilege. Give me a willing heart and the wisdom to balance my responsibilities. Amen.
+
+### Saint of the Day
+
+St. Martin de Porres, religious
 
 ---
 
@@ -3880,15 +4746,23 @@ Have you allowed other commitments to outweigh the honor of being part of His Ki
 
 ### Reflect
 
-“Forgive me for being so ordinary while claiming to know so extraordinary a God.” (Jim Elliot) Jesus, thank You for not holding Yourself back from fully loving me. Help me do the same for You and my neighbors. Amen. St. Charles Borromeo, bishop,
+“Forgive me for being so ordinary while claiming to know so extraordinary a God.” (Jim Elliot)
+
+### Prayer
+
+Jesus, thank You for not holding Yourself back from fully loving me. Help me do the same for You and my neighbors. Amen.
+
+### Saint of the Day
+
+St. Charles Borromeo, bishop
 
 ---
 
 ## 2026-11-05 — You Are Counted
 
-### Reflect
+### Prayer
 
-God seeks you out because you matter to Him. Thank You, Lord, for letting me know that I am counted. Amen. Saint Elizabeth,
+God seeks you out because you matter to Him. Thank You, Lord, for letting me know that I am counted. Amen.
 
 ### Saint of the Day
 
@@ -3900,7 +4774,11 @@ Saint Elizabeth
 
 ### Reflect
 
-We all came into this world with nothing. How can you use your God-given gifts so His name will be glorified? Lord, teach me to be wise with everything You gave. Allow me to appreciate that eternal rewards are greater than any earthly possessions I have. Amen. St. Joseph Khang,
+We all came into this world with nothing. How can you use your
+
+### Prayer
+
+God-given gifts so His name will be glorified? Lord, teach me to be wise with everything You gave. Allow me to appreciate that eternal rewards are greater than any earthly possessions I have. Amen.
 
 ### Saint of the Day
 
@@ -3912,7 +4790,11 @@ St. Joseph Khang
 
 ### Reflect
 
-What has God entrusted you with today? What “more” are you praying for? Lord, help me embrace my responsibilities with love. Strengthen me to serve with joy and trust in Your perfect plan. Amen. Saint Engelbert,
+What has God entrusted you with today? What “more” are you praying for?
+
+### Prayer
+
+Lord, help me embrace my responsibilities with love. Strengthen me to serve with joy and trust in Your perfect plan. Amen.
 
 ### Saint of the Day
 
@@ -3924,7 +4806,11 @@ Saint Engelbert
 
 ### Reflect
 
-Think about it now. How are you spending your “dash”? Dear God, thank You for my life. May I live it with love for You and for others, so that when my time comes, I will continue loving You and being loved by You forever. Amen. Saint Castorius,
+Think about it now. How are you spending your “dash”?
+
+### Prayer
+
+Dear God, thank You for my life. May I live it with love for You and for others, so that when my time comes, I will continue loving You and being loved by You forever. Amen.
 
 ### Saint of the Day
 
@@ -3940,7 +4826,7 @@ Saint Castorius
 
 ### Prayer
 
-Lord, bring my faith to life so that I can influence others for You. Saint Benignus,
+Lord, bring my faith to life so that I can influence others for You.
 
 ### Saint of the Day
 
@@ -3952,7 +4838,15 @@ Saint Benignus
 
 ### Reflect
 
-“The reward for work well done is the opportunity to do more.” (Jonas Salk) Lord, help me to see the good in myself and in others. Help me overcome the need to be rewarded by this world and instead seek You always, my great and true reward. Amen. St. Leo the Great, pope and Doctor of the Church,
+“The reward for work well done is the opportunity to do more.” (Jonas Salk)
+
+### Prayer
+
+Lord, help me to see the good in myself and in others. Help me overcome the need to be rewarded by this world and instead seek You always, my great and true reward. Amen.
+
+### Saint of the Day
+
+St. Leo the Great, pope and Doctor of the Church
 
 ---
 
@@ -3960,7 +4854,15 @@ Saint Benignus
 
 ### Reflect
 
-In what areas of your life are you resisting happiness? Jesus, may I always say yes to holy joy, for it is what I am made for. St. Martin of Tours, bishop,
+In what areas of your life are you resisting happiness?
+
+### Prayer
+
+Jesus, may I always say yes to holy joy, for it is what I am made for.
+
+### Saint of the Day
+
+St. Martin of Tours, bishop
 
 ---
 
@@ -3968,7 +4870,15 @@ In what areas of your life are you resisting happiness? Jesus, may I always say 
 
 ### Reflect
 
-“Blessed are the peacemakers, for they shall be called children of God.” (Matthew 5:9) Lord, make me an instrument of Your peace. Where there is hatred, let me bring Your love. Where there is injury, pardon. (Prayer of Saint Francis) Saint Josaphat, bishop and martyr,
+“Blessed are the peacemakers, for they shall be called children of
+
+### Prayer
+
+God.” (Matthew 5:9) Lord, make me an instrument of Your peace. Where there is hatred, let me bring Your love. Where there is injury, pardon. (Prayer of Saint Francis)
+
+### Saint of the Day
+
+Saint Josaphat, bishop and martyr
 
 ---
 
@@ -3982,17 +4892,17 @@ Take a deep breath now. Imagine God wanting to walk with you. What is He saying?
 
 Dear Lord, our journey in this life is both challenging and amazing. But walking with You is the best thing we can do. Thank You for sending people who help us in our journey. When we get tired, please carry us. Amen.
 
+### Saint of the Day
+
+St. Frances Xavier Cabrini, virgin
+
 ---
 
 ## 2026-11-14 — ‘Immaculate’ Widow
 
-### Reflect
-
-God is not deaf to the deep desires you have been praying for. Keep praying. God’s answer may still be a work in progress.
-
 ### Prayer
 
-Lord, when my spirit flags, help me to pray without ceasing. Saint Clementinus,
+God is not deaf to the deep desires you have been praying for. Keep praying. God’s answer may still be a work in progress. Lord, when my spirit flags, help me to pray without ceasing.
 
 ### Saint of the Day
 
@@ -4002,9 +4912,13 @@ Saint Clementinus
 
 ## 2026-11-15 — What If God Doesnt
 
-### Reflect
+### Prayer
 
-God always gives us what we need, not what we want. It’s up to us to multiply it. Abba Father, may I never waste any grace that You give me. St. Albert the Great, bishop and Doctor of the Church,
+God always gives us what we need, not what we want. It’s up to us to multiply it. Abba Father, may I never waste any grace that You give me.
+
+### Saint of the Day
+
+St. Albert the Great, bishop and Doctor of the Church
 
 ---
 
@@ -4016,7 +4930,7 @@ What challenges are you facing now? Ask the Lord for discernment to determine ho
 
 ### Prayer
 
-Jesus, please increase my faith. I want to see Your will for me. St. Margaret of Scotland,
+Jesus, please increase my faith. I want to see Your will for me.
 
 ### Saint of the Day
 
@@ -4028,15 +4942,23 @@ St. Margaret of Scotland
 
 ### Reflect
 
-Do you stop, see, and stay to love and serve God’s people? Lord, may I imitate Your brand of love such that I stop, see, and stay with the people You love. Let me be a channel of Your grace, in Jesus’ name. Amen. Saint Hilda, religious,
+Do you stop, see, and stay to love and serve God’s people?
+
+### Prayer
+
+Lord, may I imitate Your brand of love such that I stop, see, and stay with the people You love. Let me be a channel of Your grace, in Jesus’ name. Amen.
+
+### Saint of the Day
+
+Saint Hilda, religious
 
 ---
 
 ## 2026-11-18 — Sweat The Small Stuff
 
-### Reflect
+### Prayer
 
-God wants to give you only the best. But are you doing your part in being faithful in the small virtuous habits each day? Father, in the daily grind of life and in the small and seemingly insignificant moments, may I always choose to be Your instrument of love. Amen. Saint Anselm,
+God wants to give you only the best. But are you doing your part in being faithful in the small virtuous habits each day? Father, in the daily grind of life and in the small and seemingly insignificant moments, may I always choose to be Your instrument of love. Amen.
 
 ### Saint of the Day
 
@@ -4048,7 +4970,11 @@ Saint Anselm
 
 ### Reflect
 
-To hope in the Filipino and serve the Filipino, what is God asking you to do today? Jesus, You made sure I was born a Filipino and You have a special mission for me. May I discover this mission and fulfill it. Amen. Saint Mechtildis,
+To hope in the Filipino and serve the Filipino, what is God asking you to do today?
+
+### Prayer
+
+Jesus, You made sure I was born a Filipino and You have a special mission for me. May I discover this mission and fulfill it. Amen.
 
 ### Saint of the Day
 
@@ -4060,7 +4986,11 @@ Saint Mechtildis
 
 ### Reflect
 
-Whose temple are you building—yours or the Lord’s? Lord, keep me humble before Your greatness, for You rule over heaven and earth. St. Edmund Rich,
+Whose temple are you building—yours or the Lord’s?
+
+### Prayer
+
+Lord, keep me humble before Your greatness, for You rule over heaven and earth.
 
 ### Saint of the Day
 
@@ -4072,11 +5002,7 @@ St. Edmund Rich
 
 ### Reflect
 
-Whose souls are you inspired to pray for today? Spend some moments of silence and pray for them. Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. May the souls of all the faithful departed, through the mercy of
-
-### Prayer
-
-God, rest in peace. Amen.
+Whose souls are you inspired to pray for today? Spend some moments of silence and pray for them. Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. May the souls of all the faithful departed, through the mercy of God, rest in peace. Amen.
 
 ### Saint of the Day
 
@@ -4156,7 +5082,7 @@ St. Catherine of Alexandria
 
 ### Prayer
 
-Lord, let us live in a way that we can “stand erect and raise (our) heads because (our) redemption is at hand” (Luke 21:28). Saint Conrad,
+Lord, let us live in a way that we can “stand erect and raise (our) heads because (our) redemption is at hand” (Luke 21:28).
 
 ### Saint of the Day
 
@@ -4168,11 +5094,11 @@ Saint Conrad
 
 ### Reflect
 
-We prepare when we are to meet someone important. We don’t laze away.
+We prepare when we are to meet someone important. We don’t laze away. Jesus is coming! How are you preparing for His return? Are you working on your relationships—with Him and others?
 
 ### Prayer
 
-Jesus is coming! How are you preparing for His return? Are you working on your relationships—with Him and others? Jesus, help me to become a better reflection of Your love in my workplace, school, business, and household. May I become a better reflection of Your face as I prepare for Your coming. Amen.
+Jesus, help me to become a better reflection of Your love in my workplace, school, business, and household. May I become a better reflection of Your face as I prepare for Your coming. Amen.
 
 ### Saint of the Day
 
@@ -4188,7 +5114,7 @@ If you knew that Jesus was coming today, would it change the way you live, love,
 
 ### Prayer
 
-Lord, may my heart be always free to follow and do Your will. Help me live, love, and serve according to Your example. St. James of the Marches,
+Lord, may my heart be always free to follow and do Your will. Help me live, love, and serve according to Your example.
 
 ### Saint of the Day
 
@@ -4200,7 +5126,11 @@ St. James of the Marches
 
 ### Reflect
 
-“Use the gifts you have received, and pass on the love that has been given to you.” (St. Therese of Lisieux) Lord, thank You for the gift of the Holy Spirit. Help me to use the gifts from the Holy Spirit to build Your Kingdom, bless Your people, and give glory to Your name. Amen. Saint Philomenus,
+“Use the gifts you have received, and pass on the love that has been given to you.” (St. Therese of Lisieux)
+
+### Prayer
+
+Lord, thank You for the gift of the Holy Spirit. Help me to use the gifts from the Holy Spirit to build Your Kingdom, bless Your people, and give glory to Your name. Amen.
 
 ### Saint of the Day
 
@@ -4212,23 +5142,23 @@ Saint Philomenus
 
 ### Reflect
 
-How do you express your faith in your daily life? Father, may my life reflect my faith, demonstrate my hope, and radiate my love. Amen. Saint Andrew, Apostle,
+How do you express your faith in your daily life?
+
+### Prayer
+
+Father, may my life reflect my faith, demonstrate my hope, and radiate my love. Amen.
 
 ### Saint of the Day
 
-Feast of Saint Andrew,
+Saint Andrew, Apostle
 
 ---
 
 ## 2026-12-01 — When God Winks
 
-### Reflect
-
-God is always at work in you. You just need to open the eyes of your heart to see His hand orchestrating the events of your life. Open my eyes,
-
 ### Prayer
 
-Lord, that I may see You and hear You in the ordinary and extraordinary events of my life. Amen.
+God is always at work in you. You just need to open the eyes of your heart to see His hand orchestrating the events of your life. Open my eyes, Lord, that I may see You and hear You in the ordinary and extraordinary events of my life. Amen.
 
 ### Saint of the Day
 
@@ -4240,7 +5170,11 @@ Blessed Charles de Foucauld
 
 ### Reflect
 
-What are you doing to alleviate the plight of your unfortunate brothers and sisters? Dear God, may my eyes be opened to the urgency of doing something for my brethren. May I be a channel of Your blessings to the least, the last, and the lost. Amen. Saint Eusebius,
+What are you doing to alleviate the plight of your unfortunate brothers and sisters?
+
+### Prayer
+
+Dear God, may my eyes be opened to the urgency of doing something for my brethren. May I be a channel of Your blessings to the least, the last, and the lost. Amen.
 
 ### Saint of the Day
 
@@ -4258,13 +5192,25 @@ Obedience isn’t just reading or hearing Jesus’ words. It’s living them out
 
 Lord, I don’t want to just hear Your words—I want to live by them. Help me build my life on Your truth so that when storms come, I will not be shaken. Amen.
 
+### Saint of the Day
+
+St. Francis Xavier, priest
+
 ---
 
 ## 2026-12-04 — Does Jesus Answer
 
 ### Reflect
 
-“God is longing to pour out blessing but is held back by His people. They are the hindrance. . .” (Andrew Murray) My Jesus, show me mercy like You did for the blind men. Help me to be persistent and to trust Your ways. Amen. St. John Damascene, priest and Doctor of the Church,
+“God is longing to pour out blessing but is held back by His people. They are the hindrance. . .” (Andrew Murray)
+
+### Prayer
+
+My Jesus, show me mercy like You did for the blind men. Help me to be persistent and to trust Your ways. Amen.
+
+### Saint of the Day
+
+St. John Damascene, priest and Doctor of the Church
 
 ---
 
@@ -4276,7 +5222,7 @@ Do you find it difficult to forgive yourself and others for faults and shortcomi
 
 ### Prayer
 
-Lord, help me develop the compassion and empathy to forgive myself and others, and to constructively learn from life’s difficulties and challenges. Saint Sabas,
+Lord, help me develop the compassion and empathy to forgive myself and others, and to constructively learn from life’s difficulties and challenges.
 
 ### Saint of the Day
 
@@ -4286,9 +5232,13 @@ Saint Sabas
 
 ## 2026-12-06 — It Doesn’T Matter
 
-### Reflect
+### Prayer
 
-God has a divine plan and timing for each of our lives. Do you have enough faith to persevere and to keep your eyes fixed on Jesus as you wait patiently for the fulfillment of His promise? Father in heaven, grant me the grace to be steadfast in my faith and a spirit of patience as I wait on Your promises. Amen. Saint Nicholas, bishop,
+God has a divine plan and timing for each of our lives. Do you have enough faith to persevere and to keep your eyes fixed on Jesus as you wait patiently for the fulfillment of His promise? Father in heaven, grant me the grace to be steadfast in my faith and a spirit of patience as I wait on Your promises. Amen.
+
+### Saint of the Day
+
+Saint Nicholas, bishop
 
 ---
 
@@ -4296,7 +5246,11 @@ God has a divine plan and timing for each of our lives. Do you have enough faith
 
 ### Reflect
 
-Who are the people that God sends your way today? Lord, thank You for always making a way. Help me to see Your hand in my life and to be a source of Your love for others. Amen. St. Maria Giuseppe Rossello,
+Who are the people that God sends your way today?
+
+### Prayer
+
+Lord, thank You for always making a way. Help me to see Your hand in my life and to be a source of Your love for others. Amen.
 
 ### Saint of the Day
 
@@ -4308,7 +5262,11 @@ St. Maria Giuseppe Rossello
 
 ### Reflect
 
-Today, challenge yourself to declare like Mama Mary, “I am the Lord’s servant. May your word to me be fulfilled.” “Hail Mary, full of grace, the Lord is with you, blessed are you among women, and blessed is the fruit of your womb, Jesus.” Blessed Virgin Mary,
+Today, challenge yourself to declare like Mama Mary, “I am the
+
+### Prayer
+
+Lord’s servant. May your word to me be fulfilled.” “Hail Mary, full of grace, the Lord is with you, blessed are you among women, and blessed is the fruit of your womb, Jesus.”
 
 ### Saint of the Day
 
@@ -4320,7 +5278,7 @@ Blessed Virgin Mary
 
 ### Reflect
 
-“Where were you when I laid the foundations of the earth? What supports its foundations, and who laid its cornerstone as the morning stars sang together and all the angels shouted for joy?” (Job 38:4-7) You made the stars in the sky and You call them by name. You are amazing, God! (“Indescribable,” Chris Tomlin) St. Juan Diego,
+“Where were you when I laid the foundations of the earth? What supports its foundations, and who laid its cornerstone as the morning stars sang together and all the angels shouted for joy?” (Job 38:4-7) You made the stars in the sky and You call them by name. You are amazing, God! (“Indescribable,” Chris Tomlin)
 
 ### Saint of the Day
 
@@ -4336,11 +5294,11 @@ The devil is the father of all lies. Let the truth of Jesus dispel the deception
 
 ### Prayer
 
-Jesus, in this world filled with lies and deception, help me discern what’s good and true. Give me Your wisdom and lead me by Your Spirit. Pope Saint Gregory III,
+Jesus, in this world filled with lies and deception, help me discern what’s good and true. Give me Your wisdom and lead me by Your Spirit.
 
 ### Saint of the Day
 
-Saint Gregory III
+Pope Saint Gregory III
 
 ---
 
@@ -4348,7 +5306,15 @@ Saint Gregory III
 
 ### Reflect
 
-What hinders you from surrendering completely to the Father’s will for you? How do you overcome this? Father, thank You for the greatest gift that I await to receive this Christmas—the Child Jesus. This Advent season, make my heart, mind, soul, and spirit a worthy sanctuary for Your beloved and precious Son. Saint Damasus I, pope,
+What hinders you from surrendering completely to the Father’s will for you? How do you overcome this?
+
+### Prayer
+
+Father, thank You for the greatest gift that I await to receive this Christmas—the Child Jesus. This Advent season, make my heart, mind, soul, and spirit a worthy sanctuary for Your beloved and precious Son.
+
+### Saint of the Day
+
+Saint Damasus I, pope
 
 ---
 
@@ -4356,7 +5322,7 @@ What hinders you from surrendering completely to the Father’s will for you? Ho
 
 ### Reflect
 
-“From Mary, we learn to surrender to God’s will in all things. From Mary, we learn to trust even when all hope seems gone.” (Saint John Paul II) “Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord. Amen.” Our Lady of Guadalupe,
+“From Mary, we learn to surrender to God’s will in all things. From Mary, we learn to trust even when all hope seems gone.” (Saint John Paul II) “Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord. Amen.”
 
 ### Saint of the Day
 
@@ -4372,7 +5338,11 @@ I am not the Star but a planet that reflects His light.
 
 ### Prayer
 
-Lord, let Your Light shine on me and through me—both in my words and my actions. Saint Lucy, virgin and martyr,
+Lord, let Your Light shine on me and through me—both in my words and my actions.
+
+### Saint of the Day
+
+Saint Lucy, virgin and martyr
 
 ---
 
@@ -4386,17 +5356,17 @@ This Christmas, let’s rewrite the story—less hustle, more heart.
 
 Jesus, I hold on to the hope that Christmas brings— new beginnings, restoration, and unending love. Amidst the absence of persons and presents, I thank You for Your presence. Amen.
 
+### Saint of the Day
+
+St. John of the Cross, priest and Doctor of the Church
+
 ---
 
 ## 2026-12-15 — What Do You Think?
 
 ### Reflect
 
-Before you ask God what He wants, ask yourself first. In knowing Your perfect will for me,
-
-### Prayer
-
-Lord, may I know myself even more. Amen.
+Before you ask God what He wants, ask yourself first. In knowing Your perfect will for me, Lord, may I know myself even more. Amen.
 
 ### Saint of the Day
 
@@ -4408,7 +5378,11 @@ St. Paul of Latos
 
 ### Reflect
 
-“The people that tell you what you want to hear are the most dangerous enemies you’ll ever meet.” (Rachel E. Carter) Lord, I know people say things that I want to hear but are not really what’s true in their hearts. Give me the wisdom, patience, and love to discern Your truth. Saint Albina,
+“The people that tell you what you want to hear are the most dangerous enemies you’ll ever meet.” (Rachel E. Carter)
+
+### Prayer
+
+Lord, I know people say things that I want to hear but are not really what’s true in their hearts. Give me the wisdom, patience, and love to discern Your truth.
 
 ### Saint of the Day
 
@@ -4418,13 +5392,9 @@ Saint Albina
 
 ## 2026-12-17 — Messy Moments
 
-### Reflect
-
-God’s sovereignty can work through human imperfection, weakness, and even our mistakes to achieve His divine purposes.
-
 ### Prayer
 
-Jesus, use my brokenness to bring wholeness to the multitudes. Saint Florian,
+God’s sovereignty can work through human imperfection, weakness, and even our mistakes to achieve His divine purposes. Jesus, use my brokenness to bring wholeness to the multitudes.
 
 ### Saint of the Day
 
@@ -4440,7 +5410,7 @@ Saint Florian
 
 ### Prayer
 
-Jesus, I believe. Help my unbelief. Saint Desideratus,
+Jesus, I believe. Help my unbelief.
 
 ### Saint of the Day
 
@@ -4452,7 +5422,11 @@ Saint Desideratus
 
 ### Reflect
 
-In this season of Advent, how does God want you to journey through silence? Jesus, give me the grace to be silent—to simply enjoy You coming more into my life this season. Amen. Saint Darius,
+In this season of Advent, how does God want you to journey through silence?
+
+### Prayer
+
+Jesus, give me the grace to be silent—to simply enjoy You coming more into my life this season. Amen.
 
 ### Saint of the Day
 
@@ -4462,9 +5436,9 @@ Saint Darius
 
 ## 2026-12-20 — Me, Highly Favored?
 
-### Reflect
+### Prayer
 
-God’s perfect answer sometimes takes the gory appearance of the Cross. Will you still trust Him? Father, please help me see that You are with me even in those moments when I do not feel Your favor upon me. Help me remember that Your blessings may look different from what I expect, but they are always for my good. Saint Julius,
+God’s perfect answer sometimes takes the gory appearance of the Cross. Will you still trust Him? Father, please help me see that You are with me even in those moments when I do not feel Your favor upon me. Help me remember that Your blessings may look different from what I expect, but they are always for my good.
 
 ### Saint of the Day
 
@@ -4480,7 +5454,11 @@ Do you doubt God’s plan for your life? Pray for Mama Mary’s intercession tha
 
 ### Prayer
 
-Lord, strengthen my faith as I walk through Your plan in my life. I may not see the end of the tunnel, but let me see Your Presence throughout my journey. St. Peter Canisius, priest and Doctor of the Church,
+Lord, strengthen my faith as I walk through Your plan in my life. I may not see the end of the tunnel, but let me see Your Presence throughout my journey.
+
+### Saint of the Day
+
+St. Peter Canisius, priest and Doctor of the Church
 
 ---
 
@@ -4488,11 +5466,7 @@ Lord, strengthen my faith as I walk through Your plan in my life. I may not see 
 
 ### Reflect
 
-What stories will you share with the next generation, and what will make them say your family is blessed? Thank You,
-
-### Prayer
-
-Lord, for Your faithfulness through the years. Saint Flavian,
+What stories will you share with the next generation, and what will make them say your family is blessed? Thank You, Lord, for Your faithfulness through the years.
 
 ### Saint of the Day
 
@@ -4504,7 +5478,15 @@ Saint Flavian
 
 ### Reflect
 
-“God calls each one by name. . . . The name is the icon of the person. It demands respect as a sign of the dignity of the one who bears it.” (Catechism of the Catholic Church) You have called me by my name in my mother’s womb. I am amazed, Lord God of the universe, that You attend to me. (Joseph Tetlow, SJ) St. John of Kanty, priest,
+“God calls each one by name. . . . The name is the icon of the person. It demands respect as a sign of the dignity of the one who bears it.” (Catechism of the Catholic Church) You have called me by my name in my mother’s womb. I am amazed,
+
+### Prayer
+
+Lord God of the universe, that You attend to me. (Joseph Tetlow, SJ)
+
+### Saint of the Day
+
+St. John of Kanty, priest
 
 ---
 
@@ -4516,7 +5498,7 @@ Have you seen how good the Father is? Thank Him for all the blessings, especiall
 
 ### Prayer
 
-Jesus, thank You for coming into my life. You are my hope and Savior. May my life be a song of praise to You. Saint Adele,
+Jesus, thank You for coming into my life. You are my hope and Savior. May my life be a song of praise to You.
 
 ### Saint of the Day
 
@@ -4528,7 +5510,11 @@ Saint Adele
 
 ### Reflect
 
-What is one thing you can do today to thank and celebrate Jesus? Jesus, we love You. Thank You for the joy and hope You bring. May we come to know You in a deeper way today and every day. Amen. Saint Eugenia,
+What is one thing you can do today to thank and celebrate Jesus?
+
+### Prayer
+
+Jesus, we love You. Thank You for the joy and hope You bring. May we come to know You in a deeper way today and every day. Amen.
 
 ### Saint of the Day
 
@@ -4540,11 +5526,15 @@ Saint Eugenia
 
 ### Reflect
 
-What courageous thing will you do for God today? Lord, help me to love and forgive like You do. May I have the boldness to stand up for my faith today. Amen. Saint Stephen, protomartyr,
+What courageous thing will you do for God today?
+
+### Prayer
+
+Lord, help me to love and forgive like You do. May I have the boldness to stand up for my faith today. Amen.
 
 ### Saint of the Day
 
-Feast of Saint Stephen,
+Saint Stephen, protomartyr
 
 ---
 
@@ -4556,7 +5546,7 @@ Darkness obscures our view of God but it doesn’t dim His light.
 
 ### Prayer
 
-Jesus, let not my inability to understand Your ways stand in the way of my obedience to You. St. John the Apostle,
+Jesus, let not my inability to understand Your ways stand in the way of my obedience to You.
 
 ### Saint of the Day
 
@@ -4576,7 +5566,7 @@ Lord, give me a pure, chaste, and sinless heart. Amen.
 
 ### Saint of the Day
 
-Feast of the Holy
+Holy Innocents
 
 ---
 
@@ -4584,7 +5574,15 @@ Feast of the Holy
 
 ### Reflect
 
-Look back at your past resolutions. How can you stick to them this coming year and make them a habit? Jesus, as this year draws to a close, give me a fresh restart. Help me finish what You started in me. Help me go “all in” this coming year. St. Thomas Becket, bishop and martyr,
+Look back at your past resolutions. How can you stick to them this coming year and make them a habit?
+
+### Prayer
+
+Jesus, as this year draws to a close, give me a fresh restart. Help me finish what You started in me. Help me go “all in” this coming year.
+
+### Saint of the Day
+
+St. Thomas Becket, bishop and martyr
 
 ---
 
@@ -4596,7 +5594,7 @@ Don’t let the world trick you into choosing what’s fleeting and temporary.
 
 ### Prayer
 
-Lord, give me the courage to face up to the truth that will set me free. Help me to turn toward You and the beautiful life that You offer. St. Sabinus,
+Lord, give me the courage to face up to the truth that will set me free. Help me to turn toward You and the beautiful life that You offer.
 
 ### Saint of the Day
 
