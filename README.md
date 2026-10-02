@@ -43,6 +43,8 @@ When the live sources are unreachable, the module falls back to the static `data
 ## Date-specific Full Tank videos
 The Videos page reads from the YouTube playlist RSS feed live (see above). The legacy pipeline below is kept as a backup; running it requires a remote git repository with the workflow secrets configured.
 
+The daily workflow also refreshes `data/arun-gogna-video.json` from Arun Gogna's YouTube channel feed. Livestreams are skipped so the Videos page shows the channel's latest regular video upload.
+
 ```sh
 VIDEO_DATE=2026-08-23 python3 scripts/update_videos.py
 ```
