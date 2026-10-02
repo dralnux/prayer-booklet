@@ -48,7 +48,8 @@ def update_from_rss(target, upload_date):
         None,
     )
     if entry is None:
-        raise RuntimeError(f"No playlist video was uploaded on {upload_date.isoformat()} (UTC) for {target.isoformat()}.")
+        print(f"No playlist video was uploaded on {upload_date.isoformat()} (UTC) for {target.isoformat()}; leaving {DATA} unchanged.")
+        return
 
     video_id = entry.findtext("yt:videoId", "", namespaces)
     title = entry.findtext("atom:title", "", namespaces)
@@ -95,7 +96,8 @@ def main():
         if not page_token:
             break
     if not matching_item:
-        raise RuntimeError(f"No playlist video was uploaded on {upload_date.isoformat()} (UTC) for {target.isoformat()}." )
+        print(f"No playlist video was uploaded on {upload_date.isoformat()} (UTC) for {target.isoformat()}; leaving {DATA} unchanged.")
+        return
 
     snippet = video_details["snippet"]
     video_id = matching_item["contentDetails"]["videoId"]
