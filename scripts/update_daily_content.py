@@ -16,7 +16,7 @@ s=html_text(vu)
 m=re.search(r"Gospel of the day\s+From the Gospel according to\s+([A-Za-z]+)\s+([0-9]+:[0-9,\-]+)",s,re.I)
 if not m: raise RuntimeError("Could not find the Gospel reference on Vatican News")
 book, chapter_verses=m.group(1),m.group(2)
-ref=f"{book} {chapter_verses}"
+ref=f"{book} {chapter_verses.rstrip(',')}"
 
 # 2) Fetch the complete reading in the public-domain King James Version.
 # This avoids copying the copyrighted lectionary wording from Vatican News.
