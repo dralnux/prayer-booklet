@@ -1,42 +1,29 @@
 import json
 import re
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "arun-gogna-video.json"
-CHANNEL_ID = "UCzJvKlvUNBGKxGyzJw4-9yQ"
-FEED_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
-NAMESPACES = {
-    "atom": "http://www.w3.org/2005/Atom",
-    "yt": "http://www.youtube.com/xml/schemas/2015",
-}
+CHANNEL_URL = "https://www.youtube.com/@gognaarun/videos"
+HEADERS = {"User-Agent": "Catholic-Prayers-GitHub-Action/1.0"}
+VIDEO_ID_PATTERN = re.compile(r'"videoId"\s*:\s*"([A-Za-z0-9_-]{11})"')
 
 
 def main():
-    response = requests.get(
-        FEED_URL,
-        headers={"User-Agent": "Catholic-Prayers-GitHub-Action/1.0"},
-        timeout=30,
-    )
+    response = requests.get(CHANNEL_URL, headers=HEADERS, timeout=30)
     response.raise_for_status()
-    feed = ET.fromstring(response.content)
-
-    entries = feed.findall("atom:entry", NAMESPACES)
-    if not entries:
-        raise RuntimeError("Arun Gogna's YouTube feed contains no videos")
+    video_ids = list(dict.fromkeys(VIDEO_ID_PATTERN.findall(response.text)))
+    if not video_ids:
+        raise RuntimeError("Arun Gogna's YouTube channel page contains no videos")
 
     video = None
-    for entry in entries:
-        video_id = entry.findtext("yt:videoId", "", NAMESPACES).strip()
-        if not video_id:
-            continue
-
+    for video_id in video_ids:
         video_response = requests.get(
             f"https://www.youtube.com/watch?v={video_id}",
-            headers={"User-Agent": "Catholic-Prayers-GitHub-Action/1.0"},
+            headers=HEADERS,
             timeout=30,
         )
         video_response.raise_for_status()
@@ -47,15 +34,20 @@ def main():
             print(f"Skipping Arun Gogna livestream: {video_id}")
             continue
 
-        title = entry.findtext("atom:title", "", NAMESPACES).strip()
-        published_at = entry.findtext("atom:published", "", NAMESPACES).strip()
+        page = BeautifulSoup(video_response.text, "html.parser")
+        title_meta = page.find("meta", attrs={"property": "og:title"})
+        published_meta = page.find("meta", attrs={"itemprop": "datePublished"})
+        if published_meta is None:
+            published_meta = page.find("meta", attrs={"itemprop": "uploadDate"})
+        title = title_meta.get("content", "").strip() if title_meta else ""
+        published_at = published_meta.get("content", "").strip() if published_meta else ""
         if not title or not published_at:
-            raise RuntimeError(f"Arun Gogna's video feed entry {video_id} is incomplete")
+            raise RuntimeError(f"Arun Gogna's video page {video_id} is incomplete")
         video = {"id": video_id, "title": title, "publishedAt": published_at}
         break
 
     if video is None:
-        raise RuntimeError("Arun Gogna's feed contains no regular video uploads")
+        raise RuntimeError("Arun Gogna's channel contains no regular video uploads")
 
     DATA.write_text(json.dumps({
         **video,

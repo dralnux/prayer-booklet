@@ -43,7 +43,7 @@ When the live sources are unreachable, the module falls back to the static `data
 ## Date-specific Full Tank videos
 The Videos page reads from the YouTube playlist RSS feed live (see above). The legacy pipeline below is kept as a backup; running it requires a remote git repository with the workflow secrets configured.
 
-The daily workflow also refreshes `data/arun-gogna-video.json` from Arun Gogna's YouTube channel feed. Livestreams are skipped so the Videos page shows the channel's latest regular video upload.
+The dedicated `.github/workflows/update-arun-gogna-video.yml` workflow refreshes `data/arun-gogna-video.json` from the latest uploads listed on Arun Gogna's YouTube channel page each day. Livestreams are skipped so the Videos page shows the channel's latest regular video upload.
 
 ```sh
 VIDEO_DATE=2026-08-23 python3 scripts/update_videos.py
@@ -51,7 +51,7 @@ VIDEO_DATE=2026-08-23 python3 scripts/update_videos.py
 
 With the optional `YOUTUBE_API_KEY`, the legacy updater also checks each playlist item's actual YouTube upload timestamp and stores top-level comments published on that upload date. Keep the API key out of the repository.
 
-The workflow `.github/workflows/update-daily-content.yml` runs this refresh daily at 00:15 UTC and can also be started manually. The updater uses UTC for its source date, while `daily-content.js` uses the visitor's browser time zone for the displayed day and cache boundary. Add the YouTube key as the repository secret `YOUTUBE_API_KEY` so the scheduled video update can run. With no remote repository or with GitHub Actions disabled, the workflow is dormant and the browser uses the most recent generated records.
+The workflow `.github/workflows/update-arun-gogna-video.yml` checks Arun Gogna's channel daily at 03:10 UTC and can also be started manually. It runs separately from the other daily content jobs. The updater fails explicitly if YouTube's channel page or video metadata cannot be read, rather than silently keeping stale data. GitHub Actions must be enabled and have write access to the repository to publish refreshed data. The workflow `.github/workflows/update-daily-content.yml` separately updates the site's other daily content. The updater uses UTC for its source date, while `daily-content.js` uses the visitor's browser time zone for the displayed day and cache boundary. Add the YouTube key as the repository secret `YOUTUBE_API_KEY` so the separate Full Tank video update can run. If GitHub Actions is disabled or cannot push, the browser uses the most recent generated records.
 
 
 ## Daily Gospel image
