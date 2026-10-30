@@ -22,7 +22,7 @@ jobs:
       - name: Fetch latest video from YouTube RSS
         run: |
           # Fetch YouTube RSS feed for the channel
-          CHANNEL_ID="UCxNjPypE3dqZpJYKFnDDCJA"
+          CHANNEL_ID="UCzJvKlvUNBGKxGyzJw4-9yQ"
           RSS_URL="https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}"
 
           # Download RSS feed
