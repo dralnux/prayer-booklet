@@ -1,0 +1,90 @@
+ame: Update Arun Gogna Latest Video
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-video:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest video from YouTube RSS
+        run: |
+          # Fetch YouTube RSS feed for the channel
+          CHANNEL_ID="UCxNjPypE3dqZpJYKFnDDCJA"
+          RSS_URL="https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}"
+
+          # Download RSS feed
+          curl -s "$RSS_URL" -o feed.xml
+
+          # Parse the first video entry using Node.js
+          node << 'EOF'
+          const fs = require('fs');
+          const xml = fs.readFileSync('feed.xml', 'utf8');
+
+          // Extract first video entry
+          const entryMatch = xml.match(/<entry>([\s\S]*?)<\/entry>/);
+          if (!entryMatch) {
+            console.error('No video entries found in RSS feed');
+            process.exit(1);
+          }
+
+          const entry = entryMatch[1];
+
+          // Extract video ID
+          const idMatch = entry.match(/<yt:videoId>(.*?)<\/yt:videoId>/);
+          const videoId = idMatch ? idMatch[1] : null;
+
+          // Extract title
+          const titleMatch = entry.match(/<title>(.*?)<\/title>/);
+          const title = titleMatch ? titleMatch[1].replace(/&amp;/g, '&').replace(/&lt '>').replace(/&quot;/g, '"') : null;
+
+          // Extract published date
+          const publishedMatch = entry.match(/<published>(.*?)<\/published>/);
+          const publishedAt = publishedMatch ? publishedMatch[1] : null;
+
+          if (!videoId || !title) {
+            console.error('Failed to parse video data');
+            process.exit(1);
+          }
+
+          const videoData = {
+            id: videoId,
+            title: title,
+            publishedAt: publishedAt,
+            source: `https://www.youtube.com/watch?v=${videoId}`
+          };
+
+          // Write to JSON file
+          fs.writeFileSync('data/arun-gogna-video.json', JSON.stringify(videoData, null, 2) + '\n');
+          console.log('Video data updated successfully:', videoData);
+          EOF
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code data/arun-gogna-video.json || echo "changed=true" >> $G
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/arun-gogna-video.json
+          git commit -m "Update Arun Gogna latest video
+
+          Automated daily update of the latest video from @gognaarun
+
+          Co-Authored-By: Claude Code <noreply@anthropic.com>"
+          git push
