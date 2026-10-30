@@ -48,7 +48,7 @@ jobs:
 
           // Extract title
           const titleMatch = entry.match(/<title>(.*?)<\/title>/);
-          const title = titleMatch ? titleMatch[1].replace(/&amp;/g, '&').replace(/&lt '>').replace(/&quot;/g, '"') : null;
+          const title = titleMatch ? titleMatch[1].replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"') : null;
 
           // Extract published date
           const publishedMatch = entry.match(/<published>(.*?)<\/published>/);
@@ -67,14 +67,14 @@ jobs:
           };
 
           // Write to JSON file
-          fs.writeFileSync('data/arun-gogna-video.json', JSON.stringify(videoData, null, 2) + '\n');
+          fs.writeFileSync('data/arun-gogna-video.json', JSON.stringify(videoData, nul
           console.log('Video data updated successfully:', videoData);
           EOF
 
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code data/arun-gogna-video.json || echo "changed=true" >> $G
+          git diff --exit-code data/arun-gogna-video.json || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
